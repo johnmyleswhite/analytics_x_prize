@@ -1,0 +1,7 @@
+What's wrong with the Analytics X Prize?
+
+(1) The RMSE is given out on the true test dataset: this means you can, and therefore economically rationally should, tailor your results to win on the test set, rather than on an invisible data set that you don't know anything about, except for the way your training set approximates the unknown test set.
+
+(2) Canonical input data isn't given at all as a training set: you have to find the homicide counts yourself. You don't even know whether the ones you find are those used by the Analytics X Prize website itself. Not knowing where the original data came from, you can't know where the new data is coming from either. So the task of optimizing a statistical function correctly is impossible at the margin.
+
+(3) In line with confusions about input data, the Philadelphia police website releases data about zipcodes not included in the list on the website, though possibly some of these are caused by errors in locating the homicides using Google Maps.

@@ -1,0 +1,3930 @@
+<tr>
+     <td>	<b>Number</b>		</td>
+     <td>	<b>Date</b>			</td>
+     <td>	<b>Victim</b>			</td>
+     <td>	<b>Age</b>	</td>
+     <td>	<b>Race</b>	</td>
+     <td>	<b>Sex</b>	</td>
+     <td>	<b>Hour</b>	</td>
+     <td>	<b>Weapon</b>	</td>
+ </tr>
+ <tr>
+     <td>	1.	</td>
+     <td>	January 2, 2007	</td>
+     <td>	Bachir	Quazzani	</td>
+     <td>	50	</td>
+     <td>	Other	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	2.	</td>
+     <td>	January 3, 2007	</td>
+     <td>	William	Moore	</td>
+     <td>	20	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	3.	</td>
+     <td>	January 3, 2007	</td>
+     <td>	Kevin	Cummings	</td>
+     <td>	21	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	4.	</td>
+     <td>	January 4, 2007	</td>
+     <td>	Aaron	Armstrong	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	5.	</td>
+     <td>	January 4, 2007	</td>
+     <td>	Derrick	Armstrong	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	6.	</td>
+     <td>	January 5, 2007	</td>
+     <td>	Marcos	Martinez	</td>
+     <td>	21	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	12 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	7.	</td>
+     <td>	January 5, 2007	</td>
+     <td>	Dontae	Phillips	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	8.	</td>
+     <td>	January 5, 2007	</td>
+     <td>	Markel	Crawford	</td>
+     <td>	16	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	9.	</td>
+     <td>	January 7, 2007	</td>
+     <td>	Jamie	Fuentes	</td>
+     <td>	25	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	11 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	10.	</td>
+     <td>	January 7, 2007	</td>
+     <td>	Abraham	Rodgers	</td>
+     <td>	42	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	11.	</td>
+     <td>	January 8, 2007	</td>
+     <td>	Sean	Ryan	</td>
+     <td>	35	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	12.	</td>
+     <td>	January 8, 2007	</td>
+     <td>	Luis	Cucurella	</td>
+     <td>	35	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	13.	</td>
+     <td>	January 8, 2007	</td>
+     <td>	Antoine	Bell	</td>
+     <td>	40	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	14.	</td>
+     <td>	January 9, 2007	</td>
+     <td>	Dario	Gutierrez	</td>
+     <td>	79	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	1 p.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	15.	</td>
+     <td>	January 10, 2007	</td>
+     <td>	Christopher	Freeny	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	16.	</td>
+     <td>	January 11, 2007	</td>
+     <td>	Tracey	McCloud	</td>
+     <td>	43	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	17.	</td>
+     <td>	January 11, 2007	</td>
+     <td>	Antwine	Jackson	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	18.	</td>
+     <td>	January 12, 2007	</td>
+     <td>	Michael	Jeter	</td>
+     <td>	38	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	19.	</td>
+     <td>	January 13, 2007	</td>
+     <td>	Jacquelin	Garrett	</td>
+     <td>	26	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	6 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	20.	</td>
+     <td>	January 13, 2007	</td>
+     <td>	Joe	Briggman	</td>
+     <td>	58	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	21.	</td>
+     <td>	January 13, 2007	</td>
+     <td>	Damary	Hernandez	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	22.	</td>
+     <td>	January 14, 2007	</td>
+     <td>	Richard	Harrison	</td>
+     <td>	26	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	23.	</td>
+     <td>	January 14, 2007	</td>
+     <td>	Tonya	Cummings	</td>
+     <td>	35	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	24.	</td>
+     <td>	January 14, 2007	</td>
+     <td>	Jerome	Gatewood	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	6 a.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	25.	</td>
+     <td>	January 14, 2007	</td>
+     <td>	Brian	Burns	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	26.	</td>
+     <td>	January 14, 2007	</td>
+     <td>	Carlos	Rivera	</td>
+     <td>	57	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	27.	</td>
+     <td>	January 22, 2007	</td>
+     <td>	Domingo	Torres	</td>
+     <td>	20	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	28.	</td>
+     <td>	January 25, 2007	</td>
+     <td>	Brandon	Reaves	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	29.	</td>
+     <td>	January 27, 2007	</td>
+     <td>	Ruth	Hayes	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	11 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	30.	</td>
+     <td>	January 30, 2007	</td>
+     <td>	Montez	Felder	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	31.	</td>
+     <td>	January 30, 2007	</td>
+     <td>	Martin	Norcome	</td>
+     <td>	30	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	32.	</td>
+     <td>	January 31, 2007	</td>
+     <td>	Michael	Swann	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	33.	</td>
+     <td>	February 2, 2007	</td>
+     <td>	John	Fullard	</td>
+     <td>	36	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	34.	</td>
+     <td>	February 2, 2007	</td>
+     <td>	Mark	Knapp	</td>
+     <td>	46	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	35.	</td>
+     <td>	February 8, 2007	</td>
+     <td>	Carl	James	</td>
+     <td>	37	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	36.	</td>
+     <td>	February 8, 2007	</td>
+     <td>	Roberto	Paredes	</td>
+     <td>	31	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	7 p.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	37.	</td>
+     <td>	February 9, 2007	</td>
+     <td>	Joseph	Harrison	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	38.	</td>
+     <td>	February 10, 2007	</td>
+     <td>	Daryus	Fairel	</td>
+     <td>	24	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	39.	</td>
+     <td>	February 11, 2007	</td>
+     <td>	Karl	Rone	</td>
+     <td>	36	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	40.	</td>
+     <td>	February 11, 2007	</td>
+     <td>	Hector	Lopez	</td>
+     <td>	48	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	41.	</td>
+     <td>	February 12, 2007	</td>
+     <td>	Marjorie	Kramer	</td>
+     <td>	82	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	11 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	42.	</td>
+     <td>	February 12, 2007	</td>
+     <td>	James	Reif	</td>
+     <td>	42	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	43.	</td>
+     <td>	February 12, 2007	</td>
+     <td>	Mark	Norris	</td>
+     <td>	46	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	44.	</td>
+     <td>	February 12, 2007	</td>
+     <td>	Robert	Norris	</td>
+     <td>	41	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	45.	</td>
+     <td>	February 14, 2007	</td>
+     <td>	Dwayne	Anderson	</td>
+     <td>	35	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	46.	</td>
+     <td>	February 15, 2007	</td>
+     <td>	Wesley	Powaserys	</td>
+     <td>	52	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	7 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	47.	</td>
+     <td>	February 15, 2007	</td>
+     <td>	Jamal	Richardson	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	48.	</td>
+     <td>	February 17, 2007	</td>
+     <td>	Samuel	Miller	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	49.	</td>
+     <td>	February 18, 2007	</td>
+     <td>	Richard	Ashley	</td>
+     <td>	45	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	50.	</td>
+     <td>	February 18, 2007	</td>
+     <td>	Richard	Redic	</td>
+     <td>	35	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	51.	</td>
+     <td>	February 19, 2007	</td>
+     <td>	Pablo	Mercado	</td>
+     <td>	60	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	52.	</td>
+     <td>	February 21, 2007	</td>
+     <td>	Julia	Kay	</td>
+     <td>	82	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	9 a.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	53.	</td>
+     <td>	February 21, 2007	</td>
+     <td>	Shaemar	Nelson-Thomas	</td>
+     <td>	1	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	54.	</td>
+     <td>	February 22, 2007	</td>
+     <td>	Jeffrey	Anderson	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	55.	</td>
+     <td>	February 23, 2007	</td>
+     <td>	Harrison	Fambrough	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	56.	</td>
+     <td>	February 24, 2007	</td>
+     <td>	Jared	Taylor	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	57.	</td>
+     <td>	February 24, 2007	</td>
+     <td>	Dominic	Polk	</td>
+     <td>	28	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 p.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	58.	</td>
+     <td>	February 25, 2007	</td>
+     <td>	Robert	Henderson	</td>
+     <td>	31	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	59.	</td>
+     <td>	February 26, 2007	</td>
+     <td>	Mondez	Lloyd	</td>
+     <td>	31	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	60.	</td>
+     <td>	February 26, 2007	</td>
+     <td>	Jamal	Slade	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	61.	</td>
+     <td>	February 27, 2007	</td>
+     <td>	Lisa	Calabrese	</td>
+     <td>	40	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	4 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	62.	</td>
+     <td>	February 28, 2007	</td>
+     <td>	Michael	Williams	</td>
+     <td>	36	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	63.	</td>
+     <td>	March 1, 2007	</td>
+     <td>	Dwayne	Bell	</td>
+     <td>	41	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	64.	</td>
+     <td>	March 1, 2007	</td>
+     <td>	Cotneita	Hanchard	</td>
+     <td>	64	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	1 a.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	65.	</td>
+     <td>	March 3, 2007	</td>
+     <td>	Dung	Nguyen	</td>
+     <td>	37	</td>
+     <td>	Asian	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	66.	</td>
+     <td>	March 4, 2007	</td>
+     <td>	Willie	Bennett	</td>
+     <td>	51	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	67.	</td>
+     <td>	March 5, 2007	</td>
+     <td>	Richard	Yancey	</td>
+     <td>	47	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	68.	</td>
+     <td>	March 5, 2007	</td>
+     <td>	Earl	Butler	</td>
+     <td>	48	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	69.	</td>
+     <td>	March 5, 2007	</td>
+     <td>	Isiah	Brown	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	70.	</td>
+     <td>	March 6, 2007	</td>
+     <td>	Tajah	Fairey	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	71.	</td>
+     <td>	March 8, 2007	</td>
+     <td>	Jonathan	Johnson	</td>
+     <td>	52	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	72.	</td>
+     <td>	March 9, 2007	</td>
+     <td>	Gary	Bigelow	</td>
+     <td>	40	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	73.	</td>
+     <td>	March 11, 2007	</td>
+     <td>	David	Williamson	</td>
+     <td>	47	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	74.	</td>
+     <td>	March 11, 2007	</td>
+     <td>	Rasheed	Morris	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	75.	</td>
+     <td>	March 12, 2007	</td>
+     <td>	Clarence	Franklin	</td>
+     <td>	40	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	76.	</td>
+     <td>	March 12, 2007	</td>
+     <td>	Andre	Johnson	</td>
+     <td>	49	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	77.	</td>
+     <td>	March 13, 2007	</td>
+     <td>	Albert	Hughs	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	78.	</td>
+     <td>	March 13, 2007	</td>
+     <td>	John	White	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	79.	</td>
+     <td>	March 14, 2007	</td>
+     <td>	Aliaksei	Yurtaikin	</td>
+     <td>	28	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	80.	</td>
+     <td>	March 15, 2007	</td>
+     <td>	Donte	Wilder	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	81.	</td>
+     <td>	March 15, 2007	</td>
+     <td>	Jhamal	Shockley	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	82.	</td>
+     <td>	March 18, 2007	</td>
+     <td>	Marlon	Banks	</td>
+     <td>	42	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	83.	</td>
+     <td>	March 19, 2007	</td>
+     <td>	Kenny	Philogene	</td>
+     <td>	22	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	84.	</td>
+     <td>	March 20, 2007	</td>
+     <td>	Luis	Alomar	</td>
+     <td>	27	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	85.	</td>
+     <td>	March 20, 2007	</td>
+     <td>	Rashine	Gantt	</td>
+     <td>	31	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	86.	</td>
+     <td>	March 21, 2007	</td>
+     <td>	Tyrone	Williams	</td>
+     <td>	47	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	87.	</td>
+     <td>	March 21, 2007	</td>
+     <td>	Scott	Litwinko	</td>
+     <td>	34	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	88.	</td>
+     <td>	March 23, 2007	</td>
+     <td>	Johnathan	Morales-Mont	</td>
+     <td>	23	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	89.	</td>
+     <td>	March 24, 2007	</td>
+     <td>	Jonathan	Fox	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	90.	</td>
+     <td>	March 25, 2007	</td>
+     <td>	Keith	Hurst	</td>
+     <td>	28	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	91.	</td>
+     <td>	March 25, 2007	</td>
+     <td>	Jovonne	Stelly	</td>
+     <td>	28	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	92.	</td>
+     <td>	March 26, 2007	</td>
+     <td>	Javon	Smith	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	93.	</td>
+     <td>	March 26, 2007	</td>
+     <td>	Larry	Staley Jr	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	94.	</td>
+     <td>	March 26, 2007	</td>
+     <td>	Marc	Kennedy	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	95.	</td>
+     <td>	March 27, 2007	</td>
+     <td>	Michael	White	</td>
+     <td>	32	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	96.	</td>
+     <td>	March 29, 2007	</td>
+     <td>	Gregory	Lucas	</td>
+     <td>	37	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	97.	</td>
+     <td>	March 29, 2007	</td>
+     <td>	James	Williams	</td>
+     <td>	33	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	98.	</td>
+     <td>	March 30, 2007	</td>
+     <td>	Taron	George	</td>
+     <td>	14	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	99.	</td>
+     <td>	March 31, 2007	</td>
+     <td>	Dwayne	Green	</td>
+     <td>	37	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	6 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	100.	</td>
+     <td>	March 31, 2007	</td>
+     <td>	Herbert	Campbell	</td>
+     <td>	50	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	101.	</td>
+     <td>	March 31, 2007	</td>
+     <td>	Jean	Jackson	</td>
+     <td>	40	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	102.	</td>
+     <td>	April 1, 2007	</td>
+     <td>	Muhammad	Jabbar	</td>
+     <td>	24	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	103.	</td>
+     <td>	April 1, 2007	</td>
+     <td>	Steve	Rodgers	</td>
+     <td>	45	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	104.	</td>
+     <td>	April 6, 2007	</td>
+     <td>	Lennie	McCloud	</td>
+     <td>	52	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	105.	</td>
+     <td>	April 6, 2007	</td>
+     <td>	Charles	Baldwin	</td>
+     <td>	42	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	106.	</td>
+     <td>	April 8, 2007	</td>
+     <td>	Terrence	Walker	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	107.	</td>
+     <td>	April 8, 2007	</td>
+     <td>	Terrill	Gillette	</td>
+     <td>	33	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	108.	</td>
+     <td>	April 11, 2007	</td>
+     <td>	Ferdell	Solomon	</td>
+     <td>	17	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	109.	</td>
+     <td>	April 12, 2007	</td>
+     <td>	Tameka	Dozier	</td>
+     <td>	28	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	8 a.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	110.	</td>
+     <td>	April 13, 2007	</td>
+     <td>	Vinh	Lac	</td>
+     <td>	55	</td>
+     <td>	Asian	</td>
+     <td>	Male	</td>
+     <td>	6 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	111.	</td>
+     <td>	April 14, 2007	</td>
+     <td>	Anthony	McNair	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	112.	</td>
+     <td>	April 14, 2007	</td>
+     <td>	Leon	Blackwell	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	113.	</td>
+     <td>	April 15, 2007	</td>
+     <td>	Ransford	Redley	</td>
+     <td>	49	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	114.	</td>
+     <td>	April 16, 2007	</td>
+     <td>	Clyde	Walker	</td>
+     <td>	48	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	115.	</td>
+     <td>	April 17, 2007	</td>
+     <td>	Ericka	Brair	</td>
+     <td>	18	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	12 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	116.	</td>
+     <td>	April 20, 2007	</td>
+     <td>	Victor	Dash	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	117.	</td>
+     <td>	April 21, 2007	</td>
+     <td>	Demond	Brown	</td>
+     <td>	31	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	118.	</td>
+     <td>	April 21, 2007	</td>
+     <td>	Terrence	Eddings	</td>
+     <td>	28	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	119.	</td>
+     <td>	April 21, 2007	</td>
+     <td>	Andrew	Strimel	</td>
+     <td>	19	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	10 p.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	120.	</td>
+     <td>	April 21, 2007	</td>
+     <td>	Fatima	Whitfield	</td>
+     <td>	28	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	121.	</td>
+     <td>	April 21, 2007	</td>
+     <td>	Kevin	Morton	</td>
+     <td>	30	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	122.	</td>
+     <td>	April 21, 2007	</td>
+     <td>	George	Doyley	</td>
+     <td>	42	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	123.	</td>
+     <td>	April 21, 2007	</td>
+     <td>	James	Alford	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	124.	</td>
+     <td>	April 22, 2007	</td>
+     <td>	Sterling	Almond	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	125.	</td>
+     <td>	April 22, 2007	</td>
+     <td>	Juan Carlos	Rosa	</td>
+     <td>	32	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	126.	</td>
+     <td>	April 22, 2007	</td>
+     <td>	Rafael	Valez	</td>
+     <td>	20	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	127.	</td>
+     <td>	April 23, 2007	</td>
+     <td>	Robert	Austin	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	128.	</td>
+     <td>	April 25, 2007	</td>
+     <td>	Robert	Fuel	</td>
+     <td>	26	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	129.	</td>
+     <td>	April 25, 2007	</td>
+     <td>	Appollonia	Tucker	</td>
+     <td>	16	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	11 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	130.	</td>
+     <td>	April 26, 2007	</td>
+     <td>	Nimol	Tep	</td>
+     <td>	40	</td>
+     <td>	Asian	</td>
+     <td>	Female	</td>
+     <td>	6 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	131.	</td>
+     <td>	April 26, 2007	</td>
+     <td>	Taing	Thai	</td>
+     <td>	47	</td>
+     <td>	Asian	</td>
+     <td>	Female	</td>
+     <td>	6 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	132.	</td>
+     <td>	April 28, 2007	</td>
+     <td>	Jesse	Morales	</td>
+     <td>	35	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	133.	</td>
+     <td>	April 28, 2007	</td>
+     <td>	Guici	Liu	</td>
+     <td>	46	</td>
+     <td>	Asian	</td>
+     <td>	Male	</td>
+     <td>	7 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	134.	</td>
+     <td>	April 28, 2007	</td>
+     <td>	Rasheem	Johnson	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	135.	</td>
+     <td>	April 29, 2007	</td>
+     <td>	Zenelia	Bishop	</td>
+     <td>	30	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	136.	</td>
+     <td>	May 3, 2007	</td>
+     <td>	Assunta	Connor	</td>
+     <td>	84	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	137.	</td>
+     <td>	May 6, 2007	</td>
+     <td>	Primitivo	Sanchez	</td>
+     <td>	20	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	138.	</td>
+     <td>	May 9, 2007	</td>
+     <td>	Walter	Coleman	</td>
+     <td>	54	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	139.	</td>
+     <td>	May 9, 2007	</td>
+     <td>	Roger	Taylor	</td>
+     <td>	50	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	140.	</td>
+     <td>	May 10, 2007	</td>
+     <td>	Anthony	Edwards	</td>
+     <td>	49	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	141.	</td>
+     <td>	May 10, 2007	</td>
+     <td>	Wayne	Bell	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	142.	</td>
+     <td>	May 11, 2007	</td>
+     <td>	Stephen	Shores	</td>
+     <td>	36	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	143.	</td>
+     <td>	May 12, 2007	</td>
+     <td>	Khalil	Thrower	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	144.	</td>
+     <td>	May 12, 2007	</td>
+     <td>	Xiangzhen	Lin	</td>
+     <td>	25	</td>
+     <td>	Asian	</td>
+     <td>	Female	</td>
+     <td>	7 p.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	145.	</td>
+     <td>	May 12, 2007	</td>
+     <td>	Arty	Miller	</td>
+     <td>	19	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	146.	</td>
+     <td>	May 14, 2007	</td>
+     <td>	Jason	Lucien	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	6 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	147.	</td>
+     <td>	May 14, 2007	</td>
+     <td>	Thomas	Bellmon	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	148.	</td>
+     <td>	May 16, 2007	</td>
+     <td>	Sean	Maye	</td>
+     <td>	22	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	149.	</td>
+     <td>	May 17, 2007	</td>
+     <td>	Gerald	Wright	</td>
+     <td>	53	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	150.	</td>
+     <td>	May 18, 2007	</td>
+     <td>	Attim	Frazier	</td>
+     <td>	16	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	151.	</td>
+     <td>	May 18, 2007	</td>
+     <td>	Luis	Lopez	</td>
+     <td>	23	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	152.	</td>
+     <td>	May 19, 2007	</td>
+     <td>	Danielle	Somerville	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	153.	</td>
+     <td>	May 19, 2007	</td>
+     <td>	Kareem	Preston	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	154.	</td>
+     <td>	May 20, 2007	</td>
+     <td>	Ameen	Foster	</td>
+     <td>	32	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	155.	</td>
+     <td>	May 20, 2007	</td>
+     <td>	Earl	Gamble	</td>
+     <td>	37	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	6 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	156.	</td>
+     <td>	May 20, 2007	</td>
+     <td>	Reginald	Ford	</td>
+     <td>	17	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	157.	</td>
+     <td>	May 20, 2007	</td>
+     <td>	Ronald	Kennel	</td>
+     <td>	54	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	158.	</td>
+     <td>	May 20, 2007	</td>
+     <td>	Miguel	Torres	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	159.	</td>
+     <td>	May 21, 2007	</td>
+     <td>	Renee	Garner	</td>
+     <td>	37	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	160.	</td>
+     <td>	May 22, 2007	</td>
+     <td>	Akir	Thomas	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	161.	</td>
+     <td>	May 25, 2007	</td>
+     <td>	Rhamik	Thomas	</td>
+     <td>	16	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	162.	</td>
+     <td>	May 28, 2007	</td>
+     <td>	Michael	Lopuszanski	</td>
+     <td>	78	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	163.	</td>
+     <td>	May 30, 2007	</td>
+     <td>	Keith	McCoray	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	164.	</td>
+     <td>	June 1, 2007	</td>
+     <td>	Vandol	Rhett	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	165.	</td>
+     <td>	June 1, 2007	</td>
+     <td>	Walter	Pressley	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	166.	</td>
+     <td>	June 1, 2007	</td>
+     <td>	Nathaniel	Burnside	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	167.	</td>
+     <td>	June 4, 2007	</td>
+     <td>	Hasain	Harrison	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	168.	</td>
+     <td>	June 5, 2007	</td>
+     <td>	Francisco	Rodriguez	</td>
+     <td>	52	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	169.	</td>
+     <td>	June 5, 2007	</td>
+     <td>	Eric	Christmas	</td>
+     <td>	37	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	170.	</td>
+     <td>	June 6, 2007	</td>
+     <td>	Rakeem	Bailey	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	171.	</td>
+     <td>	June 7, 2007	</td>
+     <td>	Ronald	Greene	</td>
+     <td>	26	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	172.	</td>
+     <td>	June 7, 2007	</td>
+     <td>	Darryl	Hinton	</td>
+     <td>	52	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	173.	</td>
+     <td>	June 9, 2007	</td>
+     <td>	William	Daly	</td>
+     <td>	43	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	174.	</td>
+     <td>	June 10, 2007	</td>
+     <td>	Tamika	Howzell	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	175.	</td>
+     <td>	June 10, 2007	</td>
+     <td>	Nam Van	Tram	</td>
+     <td>	20	</td>
+     <td>	Asian	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	176.	</td>
+     <td>	June 10, 2007	</td>
+     <td>	Terri	Bassey	</td>
+     <td>	42	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	7 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	177.	</td>
+     <td>	June 10, 2007	</td>
+     <td>	Kevin	Tingle	</td>
+     <td>	45	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	178.	</td>
+     <td>	June 10, 2007	</td>
+     <td>	Terry	McCray	</td>
+     <td>	36	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	179.	</td>
+     <td>	June 11, 2007	</td>
+     <td>	Sandy	Doughty	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	180.	</td>
+     <td>	June 13, 2007	</td>
+     <td>	Eric	Aberman	</td>
+     <td>	20	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	181.	</td>
+     <td>	June 14, 2007	</td>
+     <td>	Blair	Mundy	</td>
+     <td>	37	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	182.	</td>
+     <td>	June 16, 2007	</td>
+     <td>	Pablo	Hernandez III	</td>
+     <td>	33	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	183.	</td>
+     <td>	June 18, 2007	</td>
+     <td>	Kevin	Walker	</td>
+     <td>	22	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	184.	</td>
+     <td>	June 18, 2007	</td>
+     <td>	Timothy	Bradley	</td>
+     <td>	27	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	185.	</td>
+     <td>	June 19, 2007	</td>
+     <td>	Lawrence	McAdoo	</td>
+     <td>	54	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	186.	</td>
+     <td>	June 20, 2007	</td>
+     <td>	Theophilius	Mason	</td>
+     <td>	46	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	187.	</td>
+     <td>	June 20, 2007	</td>
+     <td>	Rasheem	Roberts	</td>
+     <td>	22	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	188.	</td>
+     <td>	June 21, 2007	</td>
+     <td>	Bobby	Lundy	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	189.	</td>
+     <td>	June 21, 2007	</td>
+     <td>	Sean	White	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	190.	</td>
+     <td>	June 21, 2007	</td>
+     <td>	Bruce	Burman	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	191.	</td>
+     <td>	June 21, 2007	</td>
+     <td>	Raheem	Haines	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	192.	</td>
+     <td>	June 21, 2007	</td>
+     <td>	Diana	Patrick	</td>
+     <td>	30	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	193.	</td>
+     <td>	June 21, 2007	</td>
+     <td>	Eison	Watson	</td>
+     <td>	26	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	194.	</td>
+     <td>	June 23, 2007	</td>
+     <td>	Bernard	Lee	</td>
+     <td>	50	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	195.	</td>
+     <td>	June 24, 2007	</td>
+     <td>	Samuel	Brown	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	196.	</td>
+     <td>	June 25, 2007	</td>
+     <td>	David	McBride	</td>
+     <td>	47	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	197.	</td>
+     <td>	June 25, 2007	</td>
+     <td>	Layee	Bility	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	198.	</td>
+     <td>	June 26, 2007	</td>
+     <td>	Freeman	Lambeck	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	6 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	199.	</td>
+     <td>	June 26, 2007	</td>
+     <td>	Jose	Martinez	</td>
+     <td>	29	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	200.	</td>
+     <td>	June 28, 2007	</td>
+     <td>	Ronald	McCorkle	</td>
+     <td>	22	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11.am.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	201.	</td>
+     <td>	June 29, 2007	</td>
+     <td>	Allen	Jones	</td>
+     <td>	35	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	202.	</td>
+     <td>	June 29, 2007	</td>
+     <td>	Earl	Martin	</td>
+     <td>	83	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	203.	</td>
+     <td>	June 30, 2007	</td>
+     <td>	Rashad	Williams	</td>
+     <td>	26	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	204.	</td>
+     <td>	July 2, 2007	</td>
+     <td>	Terrence	Foman	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	205.	</td>
+     <td>	July 4, 2007	</td>
+     <td>	Cleveland	Powell	</td>
+     <td>	77	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	206.	</td>
+     <td>	July 4, 2007	</td>
+     <td>	Edwin	Diaz	</td>
+     <td>	38	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	11 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	207.	</td>
+     <td>	July 4, 2007	</td>
+     <td>	Eric	Williams	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	208.	</td>
+     <td>	July 5, 2007	</td>
+     <td>	Khalif	Shabazz	</td>
+     <td>	30	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	209.	</td>
+     <td>	July 6, 2007	</td>
+     <td>	Damon	Hughly	</td>
+     <td>	16	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	210.	</td>
+     <td>	July 6, 2007	</td>
+     <td>	Christopher	Charles	</td>
+     <td>	40	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	211.	</td>
+     <td>	July 7, 2007	</td>
+     <td>	Wilson	Garcia	</td>
+     <td>	19	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	212.	</td>
+     <td>	July 9, 2007	</td>
+     <td>	James	McClain	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	213.	</td>
+     <td>	July 11, 2007	</td>
+     <td>	Tyshon	Smith-Brown	</td>
+     <td>	16	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	214.	</td>
+     <td>	July 12, 2007	</td>
+     <td>	Lawrence	Rose	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	215.	</td>
+     <td>	July 12, 2007	</td>
+     <td>	Abdul	Allen	</td>
+     <td>	26	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	216.	</td>
+     <td>	July 13, 2007	</td>
+     <td>	Kahill	Ragin	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	217.	</td>
+     <td>	July 13, 2007	</td>
+     <td>	Timothy	Clark	</td>
+     <td>	15	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	218.	</td>
+     <td>	July 13, 2007	</td>
+     <td>	Damien	Holloway	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	219.	</td>
+     <td>	July 14, 2007	</td>
+     <td>	Tykeem	Law	</td>
+     <td>	14	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	220.	</td>
+     <td>	July 15, 2007	</td>
+     <td>	David	Cheng	</td>
+     <td>	55	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	221.	</td>
+     <td>	July 17, 2007	</td>
+     <td>	Joel	Johnson	</td>
+     <td>	43	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	222.	</td>
+     <td>	July 17, 2007	</td>
+     <td>	Klever	Varela	</td>
+     <td>	53	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	10 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	223.	</td>
+     <td>	July 19, 2007	</td>
+     <td>	Kyle	Holmes	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	224.	</td>
+     <td>	July 19, 2007	</td>
+     <td>	Peter	Smith	</td>
+     <td>	33	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8.a m. 	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	225.	</td>
+     <td>	July 19, 2007	</td>
+     <td>	Kwok	Ho	</td>
+     <td>	69	</td>
+     <td>	Asian	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	226.	</td>
+     <td>	July 21, 2007	</td>
+     <td>	Joseph	Harrington	</td>
+     <td>	17	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	227.	</td>
+     <td>	July 22, 2007	</td>
+     <td>	Jamar	Thompson	</td>
+     <td>	31	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	228.	</td>
+     <td>	July 22, 2007	</td>
+     <td>	Arthur	Jennings	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	229.	</td>
+     <td>	July 22, 2007	</td>
+     <td>	Claude	Snelling	</td>
+     <td>	30	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	230.	</td>
+     <td>	July 22, 2007	</td>
+     <td>	Tyrone	Campbell	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	231.	</td>
+     <td>	July 22, 2007	</td>
+     <td>	Charles	Tunstall	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	232.	</td>
+     <td>	July 22, 2007	</td>
+     <td>	Kyel	Nottingham	</td>
+     <td>	22	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	233.	</td>
+     <td>	July 23, 2007	</td>
+     <td>	Jeffrey	Branson	</td>
+     <td>	26	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	234.	</td>
+     <td>	July 24, 2007	</td>
+     <td>	Nathaniel	Harrison	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	235.	</td>
+     <td>	July 25, 2007	</td>
+     <td>	Jermaine	Monroe	</td>
+     <td>	33	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	236.	</td>
+     <td>	July 25, 2007	</td>
+     <td>	Donte	Graham	</td>
+     <td>	17	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	237.	</td>
+     <td>	July 28, 2007	</td>
+     <td>	Raheem	Grant	</td>
+     <td>	15	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	238.	</td>
+     <td>	July 28, 2007	</td>
+     <td>	Yumi	Demicco	</td>
+     <td>	24	</td>
+     <td>	Asian	</td>
+     <td>	Female	</td>
+     <td>	3 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	239.	</td>
+     <td>	July 28, 2007	</td>
+     <td>	Luis	Navarro	</td>
+     <td>	16	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	240.	</td>
+     <td>	July 28, 2007	</td>
+     <td>	William	Glover	</td>
+     <td>	58	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	241.	</td>
+     <td>	July 28, 2007	</td>
+     <td>	Jason	Brewer	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 a.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	242.	</td>
+     <td>	July 29, 2007	</td>
+     <td>	Jane	Doe	</td>
+     <td>	35	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	4 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	243.	</td>
+     <td>	July 30, 2007	</td>
+     <td>	Jahfari	Stevens	</td>
+     <td>	1	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	244.	</td>
+     <td>	July 30, 2007	</td>
+     <td>	Shawn	Jackson	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	245.	</td>
+     <td>	July 31, 2007	</td>
+     <td>	John	Marshall	</td>
+     <td>	36	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	246.	</td>
+     <td>	August 1, 2007	</td>
+     <td>	Eric	Woods	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	247.	</td>
+     <td>	August 1, 2007	</td>
+     <td>	John	Moore	</td>
+     <td>	55	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	248.	</td>
+     <td>	August 2, 2007	</td>
+     <td>	Jeremiah	Woods	</td>
+     <td>	60	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	6 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	249.	</td>
+     <td>	August 4, 2007	</td>
+     <td>	Jerome	Boyer	</td>
+     <td>	35	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	250.	</td>
+     <td>	August 5, 2007	</td>
+     <td>	Terrance	Cooper	</td>
+     <td>	30	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	6 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	251.	</td>
+     <td>	August 7, 2007	</td>
+     <td>	Jason	King	</td>
+     <td>	32	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	252.	</td>
+     <td>	August 9, 2007	</td>
+     <td>	Jia Xing	Lu	</td>
+     <td>	49	</td>
+     <td>	Asian	</td>
+     <td>	Male	</td>
+     <td>	10 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	253.	</td>
+     <td>	August 9, 2007	</td>
+     <td>	Brian	Bullock	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	254.	</td>
+     <td>	August 12, 2007	</td>
+     <td>	Valeka	Boyd	</td>
+     <td>	31	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	255.	</td>
+     <td>	August 12, 2007	</td>
+     <td>	Cleveland	Cherry	</td>
+     <td>	44	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	256.	</td>
+     <td>	August 14, 2007	</td>
+     <td>	Shariff	Wilkes	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	257.	</td>
+     <td>	August 15, 2007	</td>
+     <td>	Elizabeth	Nunez	</td>
+     <td>	26	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	258.	</td>
+     <td>	August 15, 2007	</td>
+     <td>	Jamile	Collins	</td>
+     <td>	17	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	259.	</td>
+     <td>	August 16, 2007	</td>
+     <td>	Jeffrey	Parks	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	260.	</td>
+     <td>	August 16, 2007	</td>
+     <td>	Tiffany	Summers	</td>
+     <td>	24	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	261.	</td>
+     <td>	August 17, 2007	</td>
+     <td>	Gary	Caldwell	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	262.	</td>
+     <td>	August 17, 2007	</td>
+     <td>	Kenyatta	Smith	</td>
+     <td>	36	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	263.	</td>
+     <td>	August 17, 2007	</td>
+     <td>	Lisa	Tate-White	</td>
+     <td>	45	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	264.	</td>
+     <td>	August 20, 2007	</td>
+     <td>	Garvin	Matthews	</td>
+     <td>	33	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	265.	</td>
+     <td>	August 21, 2007	</td>
+     <td>	Doreen	Williams	</td>
+     <td>	31	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	266.	</td>
+     <td>	August 21, 2007	</td>
+     <td>	Walter	Barclay	</td>
+     <td>	54	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	267.	</td>
+     <td>	August 23, 2007	</td>
+     <td>	Daniel Lee	Martin	</td>
+     <td>	26	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	268.	</td>
+     <td>	August 25, 2007	</td>
+     <td>	Stacey	Gallmon	</td>
+     <td>	36	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	269.	</td>
+     <td>	August 25, 2007	</td>
+     <td>	Brandon	Suttles	</td>
+     <td>	15	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	270.	</td>
+     <td>	August 25, 2007	</td>
+     <td>	Maurice	Woods	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	271.	</td>
+     <td>	August 26, 2007	</td>
+     <td>	Lafayette	Williams	</td>
+     <td>	15	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	272.	</td>
+     <td>	August 27, 2007	</td>
+     <td>	Catherine	Grow	</td>
+     <td>	39	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	1 p.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	273.	</td>
+     <td>	August 28, 2007	</td>
+     <td>	Ope	Daodu	</td>
+     <td>	3	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	274.	</td>
+     <td>	August 29, 2007	</td>
+     <td>	Ines	Vasquez	</td>
+     <td>	28	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	8 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	275.	</td>
+     <td>	August 29, 2007	</td>
+     <td>	Katherine	Green	</td>
+     <td>	30	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	10 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	276.	</td>
+     <td>	August 29, 2007	</td>
+     <td>	Riheem	Wearen	</td>
+     <td>	30	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 p.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	277.	</td>
+     <td>	August 29, 2007	</td>
+     <td>	Sidney	Anthony	</td>
+     <td>	55	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	278.	</td>
+     <td>	August 31, 2007	</td>
+     <td>	John	Morrin	</td>
+     <td>	41	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	7 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	279.	</td>
+     <td>	August 31, 2007	</td>
+     <td>	Kenneth	Williams	</td>
+     <td>	53	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	280.	</td>
+     <td>	September 1, 2007	</td>
+     <td>	Germaine	Jackson	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	281.	</td>
+     <td>	September 1, 2007	</td>
+     <td>	Terrell	Davis	</td>
+     <td>	24	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	282.	</td>
+     <td>	September 1, 2007	</td>
+     <td>	Julius	Pickett	</td>
+     <td>	24	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	283.	</td>
+     <td>	September 1, 2007	</td>
+     <td>	Walter	Divers	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	284.	</td>
+     <td>	September 1, 2007	</td>
+     <td>	Heather	Brasure	</td>
+     <td>	31	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	285.	</td>
+     <td>	September 1, 2007	</td>
+     <td>	Gregory	Paige	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	286.	</td>
+     <td>	September 3, 2007	</td>
+     <td>	Donte	Leak	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	287.	</td>
+     <td>	September 3, 2007	</td>
+     <td>	Edwin	Torres	</td>
+     <td>	20	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	6 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	288.	</td>
+     <td>	September 5, 2007	</td>
+     <td>	Sterling	Green	</td>
+     <td>	33	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	289.	</td>
+     <td>	September 7, 2007	</td>
+     <td>	Jahvone	Alexander	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	290.	</td>
+     <td>	September 7, 2007	</td>
+     <td>	Zamere	Taylor	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	291.	</td>
+     <td>	September 8, 2007	</td>
+     <td>	Sean	Thompson	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	292.	</td>
+     <td>	September 9, 2007	</td>
+     <td>	Timothy	Severans	</td>
+     <td>	36	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	293.	</td>
+     <td>	September 10, 2007	</td>
+     <td>	Anthony	Dimatteo	</td>
+     <td>	19	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	294.	</td>
+     <td>	September 10, 2007	</td>
+     <td>	Derrick	Bullock	</td>
+     <td>	41	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	295.	</td>
+     <td>	September 14, 2007	</td>
+     <td>	Herbert	Purnell	</td>
+     <td>	48	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	296.	</td>
+     <td>	September 14, 2007	</td>
+     <td>	Derrick	Brooks	</td>
+     <td>	24	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	297.	</td>
+     <td>	September 14, 2007	</td>
+     <td>	Jeremiah	Smith	</td>
+     <td>	17	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	298.	</td>
+     <td>	September 16, 2007	</td>
+     <td>	Nicholas	Bonilla	</td>
+     <td>	47	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	299.	</td>
+     <td>	September 20, 2007	</td>
+     <td>	Steven	Gates	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	300.	</td>
+     <td>	September 20, 2007	</td>
+     <td>	Carmen Maria	Sola	</td>
+     <td>	44	</td>
+     <td>	White	</td>
+     <td>	Female	</td>
+     <td>	9 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	301.	</td>
+     <td>	September 22, 2007	</td>
+     <td>	Radames	Artiaga-Ortiz	</td>
+     <td>	71	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	302.	</td>
+     <td>	September 22, 2007	</td>
+     <td>	Nalin	Tilghman	</td>
+     <td>	29	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	303.	</td>
+     <td>	September 23, 2007	</td>
+     <td>	Brian	Harvin	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	304.	</td>
+     <td>	September 25, 2007	</td>
+     <td>	Eugene	Lewis	</td>
+     <td>	60	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	305.	</td>
+     <td>	September 25, 2007	</td>
+     <td>	Dashon	Black	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	306.	</td>
+     <td>	September 26, 2007	</td>
+     <td>	Eric	Dixon	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	6 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	307.	</td>
+     <td>	October 4, 2007	</td>
+     <td>	Joseph	Alullo	</td>
+     <td>	54	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	8 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	308.	</td>
+     <td>	October 4, 2007	</td>
+     <td>	William	Widmaier	</td>
+     <td>	65	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	8 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	309.	</td>
+     <td>	October 4, 2007	</td>
+     <td>	Solomon	Plummer	</td>
+     <td>	36	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	310.	</td>
+     <td>	October 5, 2007	</td>
+     <td>	Guzman	Davey	</td>
+     <td>	21	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	311.	</td>
+     <td>	October 6, 2007	</td>
+     <td>	Stanley	Wilson	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	312.	</td>
+     <td>	October 6, 2007	</td>
+     <td>	Daemel	Gaskins	</td>
+     <td>	15	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	313.	</td>
+     <td>	October 7, 2007	</td>
+     <td>	Dale	Wilson	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	314.	</td>
+     <td>	October 8, 2007	</td>
+     <td>	Theodore	Jenkins	</td>
+     <td>	36	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	315.	</td>
+     <td>	October 8, 2007	</td>
+     <td>	Troy	Moore	</td>
+     <td>	36	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	316.	</td>
+     <td>	October 11, 2007	</td>
+     <td>	Brahin	Small	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	317.	</td>
+     <td>	October 12, 2007	</td>
+     <td>	Jaquin	Lindsay	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	318.	</td>
+     <td>	October 15, 2007	</td>
+     <td>	Anton	Mitchell	</td>
+     <td>	17	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	319.	</td>
+     <td>	October 17, 2007	</td>
+     <td>	Lance	Hickson	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	320.	</td>
+     <td>	October 17, 2007	</td>
+     <td>	Robert	Kitchen	</td>
+     <td>	68	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	6 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	321.	</td>
+     <td>	October 18, 2007	</td>
+     <td>	Owen	Mitchell	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	322.	</td>
+     <td>	October 19, 2007	</td>
+     <td>	Derrick	Ralston	</td>
+     <td>	25	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	323.	</td>
+     <td>	October 20, 2007	</td>
+     <td>	Kahlil	Ingram	</td>
+     <td>	40	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	324.	</td>
+     <td>	October 21, 2007	</td>
+     <td>	Kevin	Palmer	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	325.	</td>
+     <td>	October 24, 2007	</td>
+     <td>	Alfred	Beauchamp	</td>
+     <td>	45	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	326.	</td>
+     <td>	October 24, 2007	</td>
+     <td>	William	McField	</td>
+     <td>	16	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	327.	</td>
+     <td>	October 25, 2007	</td>
+     <td>	Derrick	Williams	</td>
+     <td>	22	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	328.	</td>
+     <td>	October 26, 2007	</td>
+     <td>	Jonathon	Browne	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	329.	</td>
+     <td>	October 28, 2007	</td>
+     <td>	Joseph	Torres	</td>
+     <td>	36	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	330.	</td>
+     <td>	October 28, 2007	</td>
+     <td>	Antonio	Otero	</td>
+     <td>	34	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	331.	</td>
+     <td>	October 28, 2007	</td>
+     <td>	Robert	Sweeney	</td>
+     <td>	24	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	332.	</td>
+     <td>	October 28, 2007	</td>
+     <td>	Clyde	Allen Petty	</td>
+     <td>	54	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	333.	</td>
+     <td>	October 29, 2007	</td>
+     <td>	Sukkuen	Cheung	</td>
+     <td>	44	</td>
+     <td>	Asian	</td>
+     <td>	Female	</td>
+     <td>	1 a.m.	</td>
+     <td>	Hands/Feet/Fist	</td>
+ </tr>
+ <tr>
+     <td>	334.	</td>
+     <td>	October 30, 2007	</td>
+     <td>	Michael	Arizmendi	</td>
+     <td>	21	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	7 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	335.	</td>
+     <td>	October 30, 2007	</td>
+     <td>	Ollie	Glover	</td>
+     <td>	21	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	336.	</td>
+     <td>	October 30, 2007	</td>
+     <td>	Keith	Dyches	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	337.	</td>
+     <td>	November 1, 2007	</td>
+     <td>	Charles	Cassidy	</td>
+     <td>	54	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	10 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	338.	</td>
+     <td>	November 1, 2007	</td>
+     <td>	David	McCoy	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	339.	</td>
+     <td>	November 1, 2007	</td>
+     <td>	James	Chapman	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	340.	</td>
+     <td>	November 3, 2007	</td>
+     <td>	Sharlton	Deshazo-Best	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	341.	</td>
+     <td>	November 3, 2007	</td>
+     <td>	Maurice	Robinson	</td>
+     <td>	24	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	342.	</td>
+     <td>	November 4, 2007	</td>
+     <td>	Mary	Johnson	</td>
+     <td>	52	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	343.	</td>
+     <td>	November 5, 2007	</td>
+     <td>	Trumell	Goodman	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	344.	</td>
+     <td>	November 5, 2007	</td>
+     <td>	Jamil	Riley	</td>
+     <td>	22	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	345.	</td>
+     <td>	November 6, 2007	</td>
+     <td>	Kenneth	Trapp	</td>
+     <td>	0	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	346.	</td>
+     <td>	November 7, 2007	</td>
+     <td>	William	Stegall	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	347.	</td>
+     <td>	November 7, 2007	</td>
+     <td>	Carl	Comberlain	</td>
+     <td>	42	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	 5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	348.	</td>
+     <td>	November 7, 2007	</td>
+     <td>	Carlos	Diaz Cotto	</td>
+     <td>	44	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	349.	</td>
+     <td>	November 10, 2007	</td>
+     <td>	Ivim	Greer	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	350.	</td>
+     <td>	November 10, 2007	</td>
+     <td>	Andre	Goodwin	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	351.	</td>
+     <td>	November 11, 2007	</td>
+     <td>	Rhashe	Allen	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	352.	</td>
+     <td>	November 11, 2007	</td>
+     <td>	Tremaine	Walker	</td>
+     <td>	30	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	353.	</td>
+     <td>	November 13, 2007	</td>
+     <td>	Michael	Carter	</td>
+     <td>	28	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	9 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	354.	</td>
+     <td>	November 16, 2007	</td>
+     <td>	Deidre	Burkett	</td>
+     <td>	42	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	355.	</td>
+     <td>	November 17, 2007	</td>
+     <td>	Lamont	Clark	</td>
+     <td>	34	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	356.	</td>
+     <td>	November 17, 2007	</td>
+     <td>	Darryl	Jones	</td>
+     <td>	48	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	357.	</td>
+     <td>	November 18, 2007	</td>
+     <td>	James	Moore	</td>
+     <td>	37	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	358.	</td>
+     <td>	November 18, 2007	</td>
+     <td>	James	Glover	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	359.	</td>
+     <td>	November 18, 2007	</td>
+     <td>	Khyree	Nixon	</td>
+     <td>	25	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	360.	</td>
+     <td>	November 19, 2007	</td>
+     <td>	Tranere	Mikell	</td>
+     <td>	16	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	361.	</td>
+     <td>	November 20, 2007	</td>
+     <td>	Charlese	Carter Burrow	</td>
+     <td>	33	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	362.	</td>
+     <td>	November 22, 2007	</td>
+     <td>	Coy	Sharpe	</td>
+     <td>	50	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	363.	</td>
+     <td>	November 24, 2007	</td>
+     <td>	Raymond	Olivo	</td>
+     <td>	30	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	6 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	364.	</td>
+     <td>	November 25, 2007	</td>
+     <td>	David	Howarth	</td>
+     <td>	32	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	365.	</td>
+     <td>	November 25, 2007	</td>
+     <td>	Enoch	Miller	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	6 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	366.	</td>
+     <td>	November 26, 2007	</td>
+     <td>	Quintin	Clarke	</td>
+     <td>	15	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	367.	</td>
+     <td>	November 28, 2007	</td>
+     <td>	Reginald	Crawford	</td>
+     <td>	47	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	368.	</td>
+     <td>	November 29, 2007	</td>
+     <td>	Raheen	Taylor	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	369.	</td>
+     <td>	November 30, 2007	</td>
+     <td>	Jamar	Williams	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	370.	</td>
+     <td>	December 4, 2007	</td>
+     <td>	Antuan	Askew	</td>
+     <td>	26	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	371.	</td>
+     <td>	December 5, 2007	</td>
+     <td>	Isiah	Mithcell	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Unknown	</td>
+ </tr>
+ <tr>
+     <td>	372.	</td>
+     <td>	December 6, 2007	</td>
+     <td>	Gerald	Wilson	</td>
+     <td>	48	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	373.	</td>
+     <td>	December 8, 2007	</td>
+     <td>	Gregory	Powell	</td>
+     <td>	26	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	374.	</td>
+     <td>	December 8, 2007	</td>
+     <td>	Charles	Kirkland	</td>
+     <td>	47	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	8 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	375.	</td>
+     <td>	December 8, 2007	</td>
+     <td>	Anthony	Montalvo	</td>
+     <td>	18	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	11 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	376.	</td>
+     <td>	December 10, 2007	</td>
+     <td>	Omar	Kennedy	</td>
+     <td>	18	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	12 p.m.	</td>
+     <td>	Knife	</td>
+ </tr>
+ <tr>
+     <td>	377.	</td>
+     <td>	December 11, 2007	</td>
+     <td>	Loc	Truong	</td>
+     <td>	62	</td>
+     <td>	Asian	</td>
+     <td>	Male	</td>
+     <td>	7 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	378.	</td>
+     <td>	December 11, 2007	</td>
+     <td>	Anthony	D'Antonio	</td>
+     <td>	60	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	1 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	379.	</td>
+     <td>	December 13, 2007	</td>
+     <td>	Craig	Young	</td>
+     <td>	41	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	6 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	380.	</td>
+     <td>	December 14, 2007	</td>
+     <td>	Stanley	Ramsey	</td>
+     <td>	27	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	1 a.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	381.	</td>
+     <td>	December 15, 2007	</td>
+     <td>	Charles	Johnson	</td>
+     <td>	77	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	4 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	382.	</td>
+     <td>	December 17, 2007	</td>
+     <td>	George	Cannon	</td>
+     <td>	20	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	383.	</td>
+     <td>	December 17, 2007	</td>
+     <td>	Josue	Soler	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	384.	</td>
+     <td>	December 19, 2007	</td>
+     <td>	Anthony	Halton	</td>
+     <td>	48	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	2 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	385.	</td>
+     <td>	December 20, 2007	</td>
+     <td>	Karim	Miles	</td>
+     <td>	28	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	386.	</td>
+     <td>	December 20, 2007	</td>
+     <td>	Lolita	Lee	</td>
+     <td>	53	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	5 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	387.	</td>
+     <td>	December 22, 2007	</td>
+     <td>	Gary	Nasir	</td>
+     <td>	19	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	388.	</td>
+     <td>	December 24, 2007	</td>
+     <td>	Tyrone	Coleman	</td>
+     <td>	40	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	3 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	389.	</td>
+     <td>	December 25, 2007	</td>
+     <td>	Shawn	McKnight	</td>
+     <td>	35	</td>
+     <td>	White	</td>
+     <td>	Male	</td>
+     <td>	7 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	390.	</td>
+     <td>	December 25, 2007	</td>
+     <td>	Andrew	Jackson	</td>
+     <td>	44	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	10 p.m.	</td>
+     <td>	Other	</td>
+ </tr>
+ <tr>
+     <td>	391.	</td>
+     <td>	December 27, 2007	</td>
+     <td>	Tina	Whitener	</td>
+     <td>	32	</td>
+     <td>	Black	</td>
+     <td>	Female	</td>
+     <td>	2 p.m.	</td>
+     <td>	Firearm	</td>
+ </tr>
+ <tr>
+     <td>	392.	</td>
+     <td>	December 30, 2007	</td>
+     <td>	Wadel	Akers	</td>
+     <td>	23	</td>
+     <td>	Black	</td>
+     <td>	Male	</td>
+     <td>	5 a.m.	</td>
+     <td>	Firearm	</td>
+ </tr>

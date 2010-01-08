@@ -1,0 +1,13 @@
+Some potential data sources:
+
+(1) http://www.ppdonline.org/hq_statistics.php
+
+(2) http://ucr.psp.state.pa.us/UCR/Reporting/Monthly/Summary/MonthlySumOffenseUI.asp
+
+(3) http://www.philly.com/inquirer/multimedia/15818502.html (This page is the source of Analytics X prize homepage map of homicides across Philly.)
+
+(4) http://cml.upenn.edu/crimebase/
+
+(5) http://citymaps.phila.gov/CrimeMap/map.aspx?address=Market+and+Broad&crimetype=10&from=12%2f1%2f2009&to=12%2f30%2f2009
+
+My current data came from source (5) along with some editing using zipcodes from Google Maps.

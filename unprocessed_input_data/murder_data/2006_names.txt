@@ -1,0 +1,406 @@
+1.	 Jan. 1	 Eric Weathersbe	 40	 Black	 Male	 8 p.m.	 Firearm
+2.	 Jan. 2	 Keyon Harvey	 29	 Black	 Male	 10 p.m.	 Firearm
+3.	 Jan. 3	 Anthony Grauber	 38	 White	 Male	 11 p.m.	 Firearm
+4.	 Jan. 3	 Stephen Lasorsa	 25	 White	 Male	 6 a.m.	 Firearm
+5.	 Jan. 3	 Ernest Fluehr	 29	 White	 Male	 4 p.m.	 Firearm
+6.	 Jan. 3	 Samantha Zenszer	 20	 White	 Female	 5 p.m.	 Cutting Instrument
+7.	 Jan. 3	 Violet McCall	 79	 White	 Female	 5 p.m.	 Unknown
+8.	 Jan. 5	 Moses Walker	 23	 Black	 Male	 11 p.m.	 Firearm
+9.	 Jan. 5	 Sydel Weisberg	 80	 White	 Female	 8 a.m.	 Firearm
+10.	 Jan. 7	 Oluwatayo Koku	 22	 Black	 Male	 1 p.m.	 Firearm
+11.	 Jan. 7	 Lamar R. Robinson	 19	 Black	 Male	 7 p.m.	 Firearm
+12.	 Jan. 9	 Lamont Sparrow	 21	 Black	 Male	 4 p.m.	 Firearm
+13.	 Jan. 11	 Arlene Williams	 40	 Black	 Female	 6 a.m.	 Unknown
+14.	 Jan. 14	 Darnell Winn	 15	 Black	 Male	 1 a.m.	 Firearm
+15.	 Jan. 14	 Koran Stafford	 23	 Black	 Male	 7 p.m.	 Firearm
+16.	 Jan. 16	 Kenneth Brokenbrough	 52	 Black	 Male	 8 a.m.	 Firearm
+17.	 Jan. 18	 Warren Smith	 53	 Black	 Male	 3 a.m.	 Firearm
+18.	 Jan. 18	 D'Shaun Taylor	 20	 Black	 Male	 3 a.m.	 Firearm
+19.	 Jan. 19	 Victor Quinones	 32	 White	 Male	 8 p.m.	 Firearm
+20.	 Jan. 22	 Jonathan Lemons	 22	 Black	 Male	 11 p.m.	 Firearm
+21.	 Jan. 23	 Tynisha Robinson	 17	 Black	 Female	 10 a.m.	 Arson
+22.	 Jan. 23	 Marrieon Currie	 0	 Black	 Male	 3 p.m.	 Hands, Fist, Feet
+23.	 Jan. 25	 Jasmine Riddick	 18	 Black	 Female	 8 p.m.	 Firearm
+24.	 Jan. 25	 John Johnson	 22	 Black	 Male	 9 p.m.	 Firearm
+25.	 Jan. 26	 David Williams	 18	 Black	 Male	 9 p.m.	 Firearm
+26.	 Jan. 28	 Christopher Bradshaw	 32	 Black	 Male	 6 p.m.	 Firearm
+27.	 Jan. 28	 Maurice Poinsette	 20	 Black	 Male	 6 p.m.	 Firearm
+28.	 Jan. 30	 Corey Robinson	 39	 Black	 Male	 6 a.m.	 Firearm
+29.	 Jan. 31	 John Anderson	 43	 White	 Male	 10 p.m.	 Cutting Instrument
+30.	 Feb. 1	 Danh Nguyen	 24	 Asian	 Male	 9 p.m.	 Cutting Instrument
+31.	 Feb. 2	 Lamont King	 31	 Black	 Male	 3 p.m.	 Firearm
+32.	 Feb. 3	 Brandon King	 23	 Black	 Male	 6 a.m.	 Firearm
+33.	 Feb. 3	 Tyreese Gaymon	 23	 Black	 Male	 10 a.m.	 Firearm
+34.	 Feb. 4	 Tito Lomax	 42	 Black	 Male	 8 p.m.	 Firearm
+35.	 Feb. 5	 Derrell Windley	 31	 Black	 Male	 3 p.m.	 Firearm
+36.	 Feb. 6	 Geraldine Watts	 61	 Black	 Female	 10 p.m.	 Firearm
+37.	 Feb. 7	 Jamel Connor	 35	 Black	 Male	 3 a.m.	 Firearm
+38.	 Feb. 7	 Marcus Ginn	 36	 Black	 Male	 3 a.m.	 Firearm
+39.	 Feb. 12	 Tayvon Hall	 21	 Black	 Male	 2 a.m.	 Firearm
+40.	 Feb. 14	 David Bey	 44	 Black	 Male	 3 a.m.	 Cutting Instrument
+41.	 Feb. 14	 Dolores Jones	 47	 Black	 Female	 4 a.m.	 Blunt Instrument
+42.	 Feb. 15	 Jahmir Furman	 1	 Black	 Male	 4 p.m.	 Hands, Fist, Feet
+43.	 Feb. 16	 Darryl Hicks	 32	 Black	 Male	 10 p.m.	 Firearm
+44.	 Feb. 20	 Augustus Favors	 15	 Black	 Male	 5 p.m.	 Firearm
+45.	 Feb. 21	 Steven Bartley	 29	 Black	 Male	 2 a.m.	 Firearm
+46.	 Feb. 23	 Hasson Walker	 36	 Black	 Male	 6 p.m.	 Firearm
+47.	 Feb. 24	 Ibn Salaam Roberts	 26	 Black	 Male	 10 p.m.	 Firearm
+48.	 Feb. 25	 Ty Reed	 27	 Black	 Male	 1 a.m.	 Firearm
+49.	 Feb. 25	 Kairis Godwin	 24	 Black	 Female	 2 a.m.	 Firearm
+50.	 March 1	 George Conway	 48	 White	 Male	 1 a.m.	 Firearm
+51.	 March 1	 Samir Mohammaed	 19	 Black	 Male	 11 a.m.	 Firearm
+52.	 March 2	 Marquel Allen	 18	 Black	 Male	 10 a.m.	 Unknown
+53.	 March 3	 Megan Higgans	 30	 White	 Female	 5 p.m.	 Unknown
+54.	 March 3	 Anthony Sanders	 43	 Black	 Male	 5 p.m.	 Arson
+55.	 March 5	 Kenneth Williams	 54	 Black	 Male	 3 a.m.	 Cutting Instrument
+56.	 March 5	 Tyrone Hill	 22	 Black	 Male	 4 p.m.	 Firearm
+57.	 March 8	 Gregory Burton	 27	 Black	 Male	 2 p.m.	 Firearm
+58.	 March 9	 Catherine Smullen	 82	 Black	 Female	 10 a.m.	 Cutting Instrument
+59.	 March 11	 Samuel Everett	 31	 Black	 Male	 9 p.m.	 Firearm
+60.	 March 11	 Akinwolemiwa Akinrotimi	 46	 Black	 Male	 11 p.m.	 Firearm
+61.	 March 12	 Lynette Logan	 22	 Black	 Female	 5 a.m.	 Firearm
+62.	 March 12	 Naim Skou Whaley	 30	 Black	 Male	 7 p.m.	 Firearm
+63.	 March 15	 Tariq Blue	 14	 Black	 Male	 5 p.m.	 Firearm
+64.	 March 17	 Andre Barder	 46	 Black	 Male	 11 p.m.	 Firearm
+65.	 March 18	 Samuel Craighead	 53	 Black	 Male	 8 p.m.	 Arson
+66.	 March 18	 Johnny Harmon	 38	 Black	 Male	 11 p.m.	 Firearm
+67.	 March 18	 Latoya Bostick	 18	 Black	 Female	 11 p.m.	 Firearm
+68.	 March 19	 Tyrone Talington	 33	 Black	 Male	 4 a.m.	 Arson
+69.	 March 21	 Steve Brown	 24	 Black	 Male	 8 a.m.	 Firearm
+70.	 March 21	 Abdul Wyatt	 23	 Black	 Male	 9 a.m.	 Firearm
+71.	 March 21	 Jose De Jesus	 28	 White	 Male	 11 a.m.	 Firearm
+72.	 March 22	 Nelson Vangas	 61	 Black	 Male	 2 a.m.	 Arson
+73.	 March 24	 James Johnson	 31	 Black	 Male	 8 p.m.	 Firearm
+74.	 March 26	 Raheed Muhfooth	 15	 Black	 Male	 1 p.m.	 Firearm
+75.	 March 27	 Ibrahima Diakhite	 31	 Black	 Male	 10 p.m.	 Firearm
+76.	 March 27	 Paul Chladek	 41	 White	 Male	 2 p.m.	 Firearm
+77.	 March 28	 Angel Rodriguez	 24	 Black	 Male	 12 a.m.	 Firearm
+78.	 March 28	 Rafael Rivera	 32	 Black	 Male	 2 a.m.	 Firearm
+79.	 March 28	 Charles Allison	 38	 Black	 Male	 4 a.m.	 Firearm
+80.	 March 29	 Joseph Moses 3d	 30	 Black	 Male	 1 a.m.	 Firearm
+81.	 March 30	 Muhammad Stokes	 20	 Black	 Male	 1 p.m.	 Firearm
+82.	 March 31	 Hassan Poulson	 28	 Black	 Male	 8 p.m.	 Firearm
+83.	 April 1	 Gregory Brown	 18	 Black	 Male	 4 p.m.	 Firearm
+84.	 April 1	 Johnte Gravitt	 18	 Black	 Male	 10 p.m.	 Firearm
+85.	 April 2	 Manuel Duprey	 23	 White	 Male	 4 a.m.	 Firearm
+86.	 April 2	 Ronald J. Powell	 31	 Black	 Male	 4 p.m.	 Firearm
+87.	 April 5	 Anthony Patterson	 24	 Black	 Male	 10 p.m.	 Firearm
+88.	 April 7	 Eric Molina	 35	 White	 Male	 10 a.m.	 Firearm
+89.	 April 7	 Garth Ferguson	 30	 Black	 Male	 2 p.m.	 Firearm
+90.	 April 7	 Kevin Bing	 31	 Black	 Male	 3 p.m.	 Firearm
+91.	 April 7	 Jason Bryan	 22	 Black	 Male	 11 p.m.	 Firearm
+92.	 April 8	 Robert Anderson	 36	 Black	 Male	 12 a.m.	 Unknown
+93.	 April 8	 Devin Dunbar	 23	 Black	 Male	 7 p.m.	 Firearm
+94.	 April 8	 Bradley Deshield	 27	 Black	 Male	 7 p.m.	 Firearm
+95.	 April 10	 Patrick Spencer	 19	 Black	 Male	 10 p.m.	 Firearm
+96.	 April 13	 Vincent Thomas	 17	 Black	 Male	 7 a.m.	 Firearm
+97.	 April 13	 Lateisha Barber	 20	 Black	 Female	 7 a.m.	 Firearm
+98.	 April 14	 Tyrone Taylor	 33	 Black	 Male	 11 p.m.	 Firearm
+99.	 April 14	 Ernest Butler	 63	 Black	 Male	 7 p.m.	 Firearm
+100.	 April 14	 Donovan Francis	 45	 Black	 Male	 10 p.m.	 Firearm
+101.	 April 15	 Tyrone Myers	 22	 Black	 Male	 4 p.m.	 Firearm
+102.	 April 16	 Terrell Anderson	 16	 Black	 Male	 11 p.m.	 Firearm
+103.	 April 16	 Jojuan Brown	 29	 Black	 Male	 4 a.m.	 Firearm
+104.	 April 17	 Robert Pierson	 17	 White	 Male	 8 p.m.	 Firearm
+105.	 April 19	 Khalil Sallard	 19	 Black	 Male	 12 p.m.	 Firearm
+106.	 April 21	 Baby Boy Fredericks	 0	 Black	 Male	 3 a.m.	 Person
+107.	 April 21	 Steven Witherspoon	 46	 Black	 Male	 3 a.m.	 Firearm
+108.	 April 21	 William Boggs	 19	 Black	 Male	 4 p.m.	 Firearm
+109.	 April 23	 Omar Rodriquez	 16	 Black	 Male	 12 p.m.	 Firearm
+110.	 April 23	 Brian Woolfolk	 19	 Black	 Male	 11 p.m.	 Firearm
+111.	 April 26	 Carlos Lamos	 25	 White	 Male	 10 p.m.	 Firearm
+112.	 April 27	 Arien Robinson	 38	 Black	 Male	 11 p.m.	 Firearm
+113.	 April 27	 George Abaroniam	 51	 White	 Male	 2 a.m.	 Cutting Instrument
+114.	 April 27	 Anthony Burgess	 33	 Black	 Male	 1 a.m.	 Firearm
+115.	 April 27	 Yagouba Bah	 17	 Black	 Male	 9 p.m.	 Firearm
+116.	 April 28	 Terrence Hawkins	 26	 Black	 Male	 2 a.m.	 Hands, Fist, Feet
+117.	 April 28	 Terrell Pratt	 19	 Black	 Male	 11 p.m.	 Firearm
+118.	 April 29	 Mordechai Doga	 28	 White	 Male	 11 p.m.	 Firearm
+119.	 April 30	 Anthony Williams	 15	 Black	 Male	 3 p.m.	 Firearm
+120.	 May 3	 Elijah Wilson	 0	 Black	 Male	 8 p.m.	 Unknown
+121.	 May 3	 Derrick Bennett	 21	 Black	 Male	 9 a.m.	 Firearm
+122.	 May 3	 Sabir McCants	 19	 Black	 Male	 10 p.m.	 Firearm
+123.	 May 5	 Melinda Santiago	 38	 Black	 Female	 4 a.m.	 Cutting Instrument
+124.	 May 5	 Brenda Nixom	 42	 Black	 Female	 9 a.m.	 Firearm
+125.	 May 5	 Hakim Reid	 35	 Black	 Male	 6 p.m.	 Firearm
+126.	 May 6	 Jarred Bullock	 16	 Black	 Male	 7 p.m.	 Firearm
+127.	 May 7	 John Madison	 25	 Black	 Male	 1 a.m.	 Firearm
+128.	 May 6	 Evan McDowell	 19	 Black	 Male	 3 p.m.	 Firearm
+129.	 May 8	 Mark Mitchell	 20	 Black	 Male	 6 p.m.	 Firearm
+130.	 May 8	 Gary Skerski	 46	 White	 Male	 10 p.m.	 Firearm
+131.	 May 9	 Jose Cintron	 17	 White	 Male	 2 p.m.	 Firearm
+132.	 May 10	 Derrick Brown	 23	 Black	 Male	 11 a.m.	 Firearm
+133.	 May 11	 Antose Brown	 19	 Black	 Male	 10 a.m.	 Firearm
+134.	 May 12	 Valerie Brzycki	 21	 White	 Female	 12 a.m.	 Firearm
+135.	 May 12	 Brandon Cook	 19	 Black	 Male	 10 p.m.	 Firearm
+136.	 May 12	 Raymond Ruffin	 18	 Black	 Male	 6 p.m.	 Firearm
+137.	 May 13	 Tariq Blackwell	 20	 Black	 Male	 12 p.m.	 Firearm
+138.	 May 14	 Raymond Napper	 34	 Black	 Male	 3 a.m.	 Firearm
+139.	 May 15	 Stephanie Labance	 24	 White	 Female	 4 a.m.	 Firearm
+140.	 May 15	 Calvin Williams	 46	 Black	 Male	 3 p.m.	 Firearm
+141.	 May 16	 Michael Kraus	 41	 White	 Male	 2 a.m.	 Firearm
+142.	 May 16	 Derrick Nalley	 23	 Black	 Male	 7 a.m.	 Firearm
+143.	 May 20	 Damon Heggs	 34	 Black	 Male	 2 a.m.	 Firearm
+144.	 May 21	 William Fowler	 53	 White	 Male	 1 a.m.	 Firearm
+145.	 May 21	 Estella Fowler	 50	 White	 Female	 1 a.m.	 Firearm
+146.	 May 21	 John Fowler	 20	 White	 Male	 1 a.m.	 Firearm
+147.	 May 26	 Algie Dennis	 19	 Black	 Male	 11 p.m.	 Firearm
+148.	 May 28	 Samuel Brown	 51	 Black	 Male	 2 a.m.	 Firearm
+149.	 May 28	 Michael Williams	 18	 Black	 Male	 6 p.m.	 Firearm
+150.	 May 30	 William Palmer	 18	 Black	 Male	 11 p.m.	 Firearm
+151.	 May 31	 Robert Harris	 48	 White	 Male	 4 a.m.	 Firearm
+152.	 June 1	 Kecin Tanczak	 21	 White	 Male	 1 a.m.	 Firearm
+153.	 June 1	 Sajaad Jackson	 0	 Black	 Male	 9 a.m.	 Hands, Fist, Feet
+154.	 June 1	 Sung Kyom Kim	 32	 Asian	 Male	 2 p.m.	 Firearm
+155.	 June 1	 Sung J. Kim	 36	 Asian	 Male	 2 p.m.	 Firearm
+156.	 June 1	 Jamaine A Frazier	 29	 Black	 Male	 10 p.m.	 Firearm
+157.	 June 2	 Dewayne Russell	 29	 Black	 Male	 11 p.m.	 Firearm
+158.	 June 5	 Michael Powell	 30	 Black	 Male	 12 a.m.	 Firearm
+159.	 June 6	 Lucious Joe	 23	 Black	 Male	 1 a.m.	 Firearm
+160.	 June 6	 Manuel Muruzumbay	 49	 White	 Male	 2 a.m.	 Unknown
+161.	 June 6	 Victor Shaw	 20	 Black	 Male	 11 p.m.	 Firearm
+162.	 June 6	 Derrick Ford	 21	 Black	 Male	 11 p.m.	 Firearm
+163.	 June 7	 Darryl Bailey	 44	 Black	 Male	 2 a.m.	 Firearm
+164.	 June 7	 Niall Saracini	 20	 Black	 Male	 1 p.m.	 Firearm
+165.	 June 7	 Charles Carter	 20	 Black	 Male	 1 p.m.	 Firearm
+166.	 June 9	 Kenana Mack	 31	 Black	 Male	 11 a.m.	 Firearm
+167.	 June 12	 Akeem Robinson	 20	 Black	 Male	 8 p.m.	 Firearm
+168.	 June 13	 Rogelio Gonzalez	 40	 White	 Male	 12 p.m.	 Firearm
+169.	 June 15	 Sharieff Lighty	 20	 Black	 Male	 11 p.m.	 Firearm
+170.	 June 17	 Edward Figueroa	 22	 White	 Male	 12 a.m.	 Firearm
+171.	 June 19	 Andrew Senior	 24	 Black	 Male	 4 p.m.	 Firearm
+172.	 June 19	 Andrew Perkint	 25	 Black	 Male	 4 p.m.	 Firearm
+173.	 June 19	 Salina Sayyi Brown	 22	 Black	 Female	 9 p.m.	 Cutting Instrument
+174.	 June 21	 Calvin Finney	 21	 Black	 Male	 11 p.m.	 Firearm
+175.	 June 23	 Anwar Roscoe	 20	 Black	 Male	 2 a.m.	 Firearm
+176.	 June 23	 John Waller	 30	 Black	 Male	 5 p.m.	 Firearm
+177.	 June 23	 Ramiro Roman	 31	 White	 Male	 11 p.m.	 Firearm
+178.	 June 26	 Calil Jones	 22	 Black	 Male	 1 a.m.	 Firearm
+179.	 June 27	 Stephen Rochard	 23	 Black	 Male	 12 a.m.	 Firearm
+180.	 June 27	 Jayden Gibson	 35	 Black	 Male	 12 a.m.	 Firearm
+181.	 June 27	 Luiz Lopez	 25	 White	 Male	 6 p.m.	 Firearm
+182.	 June 27	 Brian Washington	 18	 Black	 Male	 6 p.m.	 Firearm
+183.	 June 27	 Shirley Stinson	 28	 Black	 Female	 5 p.m.	 Firearm
+184.	 June 28	 Reginald Collier	 20	 Black	 Male	 11 p.m.	 Firearm
+185.	 June 29	 Damon Jones	 32	 Black	 Male	 5 a.m.	 Firearm
+186.	 July 1	 Michael Cooley	 19	 Black	 Male	 6 a.m.	 Firearm
+187.	 July 1	 Ignacio Vargas	 30	 White	 Male	 12 p.m.	 Firearm
+188.	 July 1	 Neshia Wright	 27	 Black	 Female	 11 p.m.	 Firearm
+189.	 July 2	 Israel Rivera	 22	 Black	 Male	 2 a.m.	 Firearm
+190.	 July 3	 Lawrence Pelouze	 55	 White	 Male	 6 a.m.	 Firearm
+191.	 July 3	 Terrell Adams	 21	 Black	 Male	 9 p.m.	 Firearm
+192.	 July 6	 Tahir Amin Hayes	 27	 Black	 Male	 2 a.m.	 Firearm
+193.	 July 6	 Darnell Thomas	 18	 Black	 Male	 9 a.m.	 Firearm
+194.	 July 6	 Jarrett Gore	 15	 Black	 Male	 2 p.m.	 Firearm
+195.	 July 7	 Tyvette Coleman	 43	 Black	 Female	 6 p.m.	 Firearm
+196.	 July 8	 James Dolan	 40	 White	 Male	 6 a.m.	 Firearm
+197.	 July 9	 Robert Thompson III	 24	 Black	 Male	 5 a.m.	 Firearm
+198.	 July 10	 Loretta Thomas	 42	 Black	 Female	 9 p.m.	 Unknown
+199.	 July 10	 Rameek Roland	 19	 Black	 Male	 11 p.m.	 Firearm
+200.	 July 11	 Gregory Aguayo	 27	 White	 Male	 11 p.m.	 Firearm
+201.	 July 11	 Emily Jackson	 48	 Black	 Female	 11 p.m.	 Firearm
+202.	 July 12	 Robert Wyatt	 21	 Black	 Male	 12 p.m.	 Firearm
+203.	 July 12	 David Knight	 18	 Black	 Male	 12 p.m.	 Firearm
+204.	 July 14	 Donovan Campbell	 35	 Black	 Male	 1 p.m.	 Unknown
+205.	 July 14	 Cesar Lluberes	 64	 White	 Male	 4 a.m.	 Firearm
+206.	 July 15	 Joseph Tindle	 27	 Black	 Male	 2 a.m.	 Firearm
+207.	 July 15	 Derik Saunders	 25	 Black	 Male	 3 a.m.	 Firearm
+208.	 July 15	 Richy Santiago	 23	 White	 Male	 5 a.m.	 Firearm
+209.	 July 15	 Champ Johnson	 21	 Black	 Male	 11 a.m.	 Firearm
+210.	 July 15	 Mark Smith	 29	 Black	 Male	 5 p.m.	 Firearm
+211.	 July 16	 Kareem Smith	 33	 Black	 Male	 1 a.m.	 Firearm
+212.	 July 17	 Keith Qualls	 24	 Black	 Male	 2 a.m.	 Firearm
+213.	 July 17	 Leis Desir	 56	 Black	 Male	 3 a.m.	 Firearm
+214.	 July 17	 John Londell Stokes	 40	 Black	 Male	 2 a.m.	 Firearm
+215.	 July 18	 Dorothy Cromarte	 77	 Black	 Female	 12 a.m.	 Arson
+216.	 July 18	 Dominic Pinto	 18	 White	 Male	 8 a.m.	 Firearm
+217.	 July 18	 Francis Jaquez	 34	 White	 Male	 10 p.m.	 Firearm
+218.	 July 19	 Marcus Matthews	 35	 Black	 Male	 5 a.m.	 Firearm
+219.	 July 19	 Tiffany Bond	 25	 Black	 Female	 7 p.m.	 Cutting Instrument
+220.	 July 22	 Segundo Maulin	 48	 Black	 Male	 9 p.m.	 Arson
+221.	 July 23	 Jason Coleman	 41	 Black	 Male	 6 p.m.	 Firearm
+222.	 July 24	 John Pellegrino	 23	 White	 Male	 8 a.m.	 Firearm
+223.	 July 26	 Charles Hewett	 23	 Black	 Male	 2 p.m.	 Firearm
+224.	 July 27	 Jamal McNeill	 19	 Black	 Male	 11 p.m.	 Firearm
+225.	 July 27	 Terrance Hill	 26	 Black	 Male	 2 a.m.	 Firearm
+226.	 July 27	 Terrence Adams	 17	 Black	 Male	 5 p.m.	 Firearm
+227.	 July 28	 Shakeem Perry	 21	 Black	 Male	 4 a.m.	 Firearm
+228.	 July 28	 Donovan Malcolm	 47	 Black	 Male	 6 p.m.	 Firearm
+229.	 July 28	 Anthony Weaver	 23	 Black	 Male	 8 p.m.	 Firearm
+230.	 July 29	 Cesar Reyes	 34	 White	 Male	 6 a.m.	 Firearm
+231.	 July 29	 Ty Williams	 23	 Black	 Male	 9 p.m.	 Firearm
+232.	 July 30	 Tarik Hunter	 34	 Black	 Male	 2 a.m.	 Firearm
+233.	 July 31	 Derrick Hampton	 38	 Black	 Male	 11 p.m.	 Firearm
+234.	 July 31	 Edison Santiago	 54	 White	 Male	 11 p.m.	 Hands, Fist, Feet
+235.	 Aug. 2	 Eltanya Conover	 28	 Black	 Female	 3 a.m.	 Blunt Instrument
+236.	 Aug. 4	 Brian Dedmon	 33	 Black	 Male	 2 a.m.	 Firearm
+237.	 Aug. 4	 Jamil Burton	 19	 Black	 Male	 2 a.m.	 Firearm
+238.	 Aug. 4	 Michael Williams	 26	 Black	 Male	 4 p.m.	 Firearm
+239.	 Aug. 7	 Emanuel Clements	 23	 Black	 Male	 7 p.m.	 Firearm
+240.	 Aug. 9	 Nelson Serrano	 30	 White	 Male	 4 a.m.	 Firearm
+241.	 Aug. 11	 Leon Thomas	 20	 Black	 Male	 1 a.m.	 Firearm
+242.	 Aug. 11	 Latroy Ceasar	 18	 Black	 Male	 3 a.m.	 Firearm
+243.	 Aug. 11	 Kareek Adams	 16	 Black	 Male	 10 p.m.	 Firearm
+244.	 Aug. 14	 Safwat Mitchell	 27	 Black	 Male	 12 p.m.	 Firearm
+245.	 Aug. 17	 Kenneth Spevack	 50	 White	 Male	 7 p.m.	 Unknown
+246.	 Aug. 17	 Marquis Ward	 20	 Black	 Male	 3 p.m.	 Firearm
+247.	 Aug. 18	 Lawson Hunt	 26	 Black	 Male	 12 a.m.	 Firearm
+248.	 Aug. 18	 Tamir Johnson	 25	 Black	 Male	 5 p.m.	 Firearm
+249.	 Aug. 19	 Jeremy Barcliff	 32	 Black	 Male	 2 p.m.	 Firearm
+250.	 Aug. 19	 Francisco Ortiz	 56	 White	 Male	 9 p.m.	 Unknown
+251.	 Aug. 20	 John Ciampoli	 19	 Black	 Male	 11 a.m.	 Firearm
+252.	 Aug. 23	 Gloria Seals	 33	 Black	 Female	 1 a.m.	 Firearm
+253.	 Aug. 23	 John Thistlewood	 26	 White	 Male	 8 p.m.	 Blunt Instrument
+254.	 Aug. 23	 William Green	 22	 Black	 Male	 7 p.m.	 Firearm
+255.	 Aug. 24	 Raphael Glee	 17	 Black	 Male	 1 p.m.	 Firearm
+256.	 Aug. 24	 Christopher Wright	 28	 Black	 Male	 4 p.m.	 Firearm
+257.	 Aug. 25	 Zong Wang	 44	 Asian	 Male	 5 p.m.	 Firearm
+258.	 Aug. 30	 Larres Curry	 64	 Black	 Male	 2 a.m.	 Firearm
+259.	 Aug. 31	 Anthony Burno	 48	 Black	 Male	 12 a.m.	 Firearm
+260.	 Aug. 31	 Kira Derrick	 29	 Black	 Female	 11 p.m.	 Firearm
+261.	 Aug. 31	 Lsalle Harvey	 22	 Black	 Male	 3 a.m.	 Firearm
+262.	 Sept. 2	 Khalif Burnett	 18	 Black	 Male	 12 a.m.	 Firearm
+263.	 Sept. 3	 Anthony Washington	 31	 Black	 Male	 3 a.m.	 Firearm
+264.	 Sept. 4	 Johnnie Colson	 26	 Black	 Male	 12 a.m.	 Firearm
+265.	 Sept. 4	 Kendall Stevens	 20	 Black	 Male	 5 p.m.	 Firearm
+266.	 Sept. 4	 Gary Hall	 20	 Black	 Male	 11 p.m.	 Firearm
+267.	 Sept. 6	 Michael Lawry	 18	 Black	 Male	 9 p.m.	 Firearm
+268.	 Sept. 7	 Sherman Henderson	 41	 Black	 Male	 1 a.m.	 Firearm
+269.	 Sept. 9	 Richard Grantham	 27	 Black	 Male	 9 a.m.	 Hands, Fist, Feet
+270.	 Sept. 8	 Alayiah Turman	 1	 Black	 Female	 12 p.m.	 Hands, Fist, Feet
+271.	 Sept. 13	 Donte Coston	 18	 Black	 Male	 2 a.m.	 Firearm
+272.	 Sept. 15	 Thoeun Bon	 22	 Asian	 Male	 8 a.m.	 Firearm
+273.	 Sept. 15	 Francis Sanford	 20	 White	 Male	 3 a.m.	 Hands, Fist, Feet
+274.	 Sept. 16	 Perry Nelson	 55	 Black	 Male	 11 p.m.	 Firearm
+275.	 Sept. 17	 Ejazz Brown	 19	 Black	 Male	 1 a.m.	 Firearm
+276.	 Sept. 19	 Robert Johnson	 19	 Black	 Male	 1 a.m.	 Firearm
+277.	 Sept. 20	 David Delgado	 38	 Black	 Male	 6 a.m.	 Firearm
+278.	 Sept. 20	 Leary Wall	 18	 Black	 Male	 10 p.m.	 Firearm
+279.	 Sept. 20	 Robert Burton	 45	 Black	 Male	 11 p.m.	 Firearm
+280.	 Sept. 22	 James Crawford	 20	 Black	 Male	 1 a.m.	 Firearm
+281.	 Sept. 22	 Devon English	 19	 Black	 Male	 1 a.m.	 Firearm
+282.	 Sept. 22	 Mary Jones	 56	 Black	 Female	 7 p.m.	 Cutting Instrument
+283.	 Sept. 22	 Lawrence Niesborella	 21	 Black	 Male	 12 a.m.	 Firearm
+284.	 Sept. 23	 Michelle Mason-Campbe	 17	 Black	 Female	 6 a.m.	 Cutting Instrument
+285.	 Sept. 23	 Jorge Ramos	 18	 Black	 Male	 5 p.m.	 Firearm
+286.	 Sept. 24	 Henry Dennis	 40	 Black	 Male	 2 a.m.	 Firearm
+287.	 Sept. 24	 Casha'e Rivers	 5	 Black	 Female	 11 a.m.	 Firearm
+288.	 Sept. 24	 Daveda O'Hannon	 22	 Black	 Female	 10 p.m.	 Cutting Instrument
+289.	 Sept. 24	 Erron Watson	 21	 Black	 Male	 11 p.m.	 Firearm
+290.	 Sept. 25	 Marsha Prescod	 51	 Black	 Female	 9 p.m.	 Cutting Instrument
+291.	 Sept. 27	 Andre Bivins	 24	 Black	 Male	 1 a.m.	 Firearm
+292.	 Sept. 27	 James Herbert	 30	 Black	 Male	 11 p.m.	 Firearm
+293.	 Sept. 29	 Felix Palacio	 60	 White	 Male	 6 p.m.	 Firearm
+294.	 Sept. 30	 Forrest Braxton	 23	 Black	 Male	 3 a.m.	 Firearm
+295.	 Sept. 30	 Dwight Hines	 47	 Black	 Male	 9 p.m.	 Firearm
+296.	 Oct. 2	 Tyrone Clanton	 48	 Black	 Male	 5 p.m.	 Firearm
+297.	 Oct. 2	 William Hilton	 26	 Black	 Male	 8 p.m.	 Firearm
+298.	 Oct. 2	 Darnell Deloatch	 17	 Black	 Male	 8 p.m.	 Firearm
+299.	 Oct. 2	 Carlton Griffin	 30	 Black	 Male	 4 p.m.	 Firearm
+300.	 Oct. 3	 Jysir Norville	 0	 Black	 Male	 2 p.m.	 Unknown
+301.	 Oct. 3	 Joyce White	 50	 Black	 Female	 5 p.m.	 Firearm
+302.	 Oct. 3	 Kyle Brown	 17	 Black	 Male	 9 p.m.	 Firearm
+303.	 Oct. 4	 Bryan Motley	 22	 Black	 Male	 11 p.m.	 Firearm
+304.	 Oct. 4	 Lance Mears	 30	 Black	 Male	 9 a.m.	 Unknown
+305.	 Oct. 4	 Lenwood Robinson	 76	 Black	 Male	 8 p.m.	 Unknown
+306.	 Oct. 4	 Alfred Quitman	 23	 White	 Male	 4 p.m.	 Firearm
+307.	 Oct. 5	 Raheem Smith	 24	 Black	 Male	 11 a.m.	 Firearm
+308.	 Oct. 5	 Kareem Murray	 19	 Black	 Male	 4 p.m.	 Firearm
+309.	 Oct. 5	 Rahshad Ray	 25	 Black	 Male	 10 p.m.	 Firearm
+310.	 Oct. 5	 Michael Thierry	 29	 White	 Male	 9 p.m.	 Firearm
+311.	 Oct. 6	 Donnell Goulbourne	 30	 Black	 Male	 11 p.m.	 Firearm
+312.	 Oct. 7	 Rashad Ferrell	 21	 Black	 Male	 12 a.m.	 Firearm
+313.	 Oct. 7	 Willie Jacobs	 27	 Black	 Male	 3 a.m.	 Firearm
+314.	 Oct. 11	 Christopher Grant	 19	 Black	 Male	 10 p.m.	 Firearm
+315.	 Oct. 12	 Glenn Morgan	 38	 Black	 Male	 2 a.m.	 Firearm
+316.	 Oct. 13	 Andre King	 28	 Black	 Male	 1 a.m.	 Firearm
+317.	 Oct. 15	 Shannon Stotts	 22	 Black	 Male	 11 p.m.	 Firearm
+318.	 Oct. 15	 Perry Freeman	 49	 Black	 Male	 4 a.m.	 Firearm
+319.	 Oct. 15	 Taijim Chamorro Jr.	 1	 White	 Male	 2 p.m.	 Hands, Fist, Feet
+320.	 Oct. 16	 Etienne Nelson	 24	 Black	 Male	 7 p.m.	 Firearm
+321.	 Oct. 17	 Wayne Dodson	 25	 Black	 Male	 6 p.m.	 Firearm
+322.	 Oct. 18	 Abudu King	 24	 Black	 Male	 5 p.m.	 Firearm
+323.	 Oct. 18	 Steven Lawrence	 21	 Black	 Male	 9 p.m.	 Firearm
+324.	 Oct. 20	 Thomas Speech	 22	 Black	 Male	 12 a.m.	 Firearm
+325.	 Oct. 20	 Dennis Pettigrew	 42	 Black	 Male	 4 p.m.	 Firearm
+326.	 Oct. 21	 Darlene Morris	 37	 Black	 Female	 2 a.m.	 Firearm
+327.	 Oct. 22	 Anthony Nelson	 27	 Black	 Male	 2 a.m.	 Firearm
+328.	 Oct. 22	 Michael Williams	 36	 Black	 Male	 1 p.m.	 Firearm
+329.	 Oct. 22	 David Sanders	 31	 Black	 Male	 10 p.m.	 Firearm
+330.	 Oct. 26	 Antonio Johnson	 19	 Black	 Male	 2 a.m.	 Firearm
+331.	 Oct. 28	 Lenise Saunders	 46	 Black	 Female	 1 p.m.	 Cutting Instrument
+332.	 Oct. 29	 Hanif Woodson	 19	 Black	 Male	 9 a.m.	 Firearm
+333.	 Oct. 30	 Louis Julia	 40	 White	 Male	 5 a.m.	 Firearm
+334.	 Oct. 30	 Julio Brico	 51	 White	 Male	 11 a.m.	 Firearm
+335.	 Oct. 31	 Billy Langley	 36	 Black	 Male	 8 p.m.	 Hands, Fist, Feet
+336.	 Oct. 31	 Rafiq Mininall	 30	 Black	 Male	 6 a.m.	 Firearm
+337.	 Oct. 31	 Jimmie Lee Johnson	 80	 Black	 Male	 4 p.m.	 Firearm
+338.	 Nov. 1	 Jose Orlando Rivera	 27	 White	 Male	 3 p.m.	 Firearm
+339.	 Nov. 3	 Danieal Kelly	 15	 Black	 Female	 9 a.m.	 Unknown
+340.	 Nov. 3	 Taneke Daniels	 29	 Black	 Female	 6 a.m.	 Pillow
+341.	 Nov. 4	 Zack Holmes III	 28	 Black	 Male	 1 a.m.	 Firearm
+342.	 Nov. 4	 Jamie Thompson	 22	 Black	 Female	 9 a.m.	 Unknown
+343.	 Nov. 5	 Maurice Weatherbe	 31	 Black	 Male	 4 a.m.	 Firearm
+344.	 Nov. 5	 James Burke	 30	 Black	 Male	 1 p.m.	 Firearm
+345.	 Nov. 7	 Sonia Alvarez	 32	 White	 Female	 3 a.m.	 Arson
+346.	 Nov. 7	 Earl Prince	 23	 Black	 Male	 8 p.m.	 Firearm
+347.	 Nov. 9	 Randy Rodriquez	 21	 White	 Male	 1 a.m.	 Firearm
+348.	 Nov. 9	 Damien Burton	 19	 Black	 Male	 8 p.m.	 Firearm
+349.	 Nov. 10	 Terrence Bell	 27	 Black	 Male	 9 p.m.	 Firearm
+350.	 Nov. 10	 Theodus Small	 45	 Black	 Male	 8 p.m.	 Firearm
+351.	 Nov. 11	 Isaiah Sizer	 19	 Black	 Male	 2 a.m.	 Firearm
+352.	 Nov. 11	 Durrell Marshall	 56	 Black	 Male	 7 p.m.	 Firearm
+353.	 Nov. 11	 Kaire Oakes	 17	 Black	 Male	 10 p.m.	 Firearm
+354.	 Nov. 11	 Jameel Clark	 21	 Black	 Male	 11 p.m.	 Firearm
+355.	 Nov. 13	 Monica Smith	 27	 Black	 Female	 1 p.m.	 Firearm
+356.	 Nov. 14	 Josue Rojas	 20	 White	 Male	 12 a.m.	 Firearm
+357.	 Nov. 14	 Karl Moore	 55	 Black	 Male	 11 p.m.	 Firearm
+358.	 Nov. 16	 Bahir Roberts	 18	 Black	 Male	 12 a.m.	 Firearm
+359.	 Nov. 16	 Kevin Johnson	 22	 Black	 Male	 4 p.m.	 Firearm
+360.	 Nov. 18	 Walter Jackson Jr.	 26	 Black	 Male	 12 a.m.	 Firearm
+361.	 Nov. 18	 Jimmy Moody	 25	 Black	 Male	 1 p.m.	 Firearm
+362.	 Nov. 18	 Justin Jones	 20	 Black	 Male	 9 p.m.	 Firearm
+363.	 Nov. 20	 James Rousey	 28	 Black	 Male	 12 a.m.	 Firearm
+364.	 Nov. 24	 James Epps-Fontain	 29	 Black	 Male	 7 a.m.	 Unknown
+365.	 Nov. 24	 Eric Hayes	 17	 Black	 Male	 10 a.m.	 Firearm
+366.	 Nov. 25	 Michael Mucha	 26	 White	 Male	 11 p.m.	 Firearm
+367.	 Nov. 25	 Shawn Sullivan	 38	 White	 Male	 3 a.m.	 Firearm
+368.	 Nov. 25	 Lucia Perry	 26	 Black	 Female	 3 p.m.	 Unknown
+369.	 Nov. 25	 Kevin Frazier	 25	 Black	 Male	 4 p.m.	 Firearm
+370.	 Nov. 26	 Angel Rodriguez	 30	 Black	 Male	 1 a.m.	 Cutting Instrument
+371.	 Nov. 29	 Kerry Alexander	 27	 Black	 Male	 2 p.m.	 Firearm
+372.	 Nov. 29	 Andre Harris	 40	 Black	 Male	 7 a.m.	 Firearm
+373.	 Dec. 2	 Frederick Smith	 72	 Black	 Male	 6 p.m.	 Firearm
+374.	 Dec. 2	 Long V Le	 41	 Asian	 Male	 9 p.m.	 Firearm
+375.	 Dec. 3	 Eric Williams	 34	 Black	 Male	 8 p.m.	 Firearm
+376.	 Dec. 5	 Derrick Williams	 24	 Black	 Male	 12 p.m.	 Firearm
+377.	 Dec. 5	 Jamal Wright	 19	 Black	 Male	 11 p.m.	 Firearm
+378.	 Dec. 6	 Damien Floyd	 17	 Black	 Male	 5 p.m.	 Firearm
+379.	 Dec. 8	 Adreese Love	 29	 Black	 Male	 11 p.m.	 Firearm
+380.	 Dec. 8	 Ronald Santiago	 35	 Black	 Male	 12 p.m.	 Hands, Fists, Feet
+381.	 Dec. 9	 Sean Frazier	 30	 Black	 Male	 11 p.m.	 Firearm
+382.	 Dec. 10	 Barry Lee Robinson	 24	 White	 Male	 4 a.m.	 Firearm
+383.	 Dec. 10	 James Harris	 18	 Black	 Male	 1 p.m.	 Firearm
+384.	 Dec. 10	 Donald Johnson	 18	 Black	 Male	 1 p.m.	 Firearm
+385.	 Dec. 12	 Ivan Simmons	 17	 Black	 Male	 7 p.m.	 Firearm
+386.	 Dec. 13	 Akeem Daily	 20	 Black	 Male	 3 p.m.	 Firearm
+387.	 Dec. 13	 Azeem Jordan	 24	 Black	 Male	 10 p.m.	 Firearm
+388.	 Dec. 14	 Jarvis Davis	 19	 Black	 Male	 11 a.m.	 Firearm
+389.	 Dec. 14	 Rashaad Lowman	 19	 Black	 Male	 2 p.m.	 Firearm
+390.	 Dec. 14	 Rafael Lopez	 66	 Other	 Male	 9 p.m.	 Hands, Fists, Feet
+391.	 Dec. 15	 Yvonne Adams	 47	 Black	 Female	 9 a.m.	 Unknown
+392.	 Dec. 17	 Lam Mai Ho	 21	 Asian	 Male	 2 a.m.	 Cutting Instrument
+393.	 Dec. 17	 Talib Torain	 27	 Black	 Male	 7 p.m.	 Firearm
+394.	 Dec. 18	 Jason Goldsmith	 29	 Black	 Male	 10 p.m.	 Firearm
+395.	 Dec. 20	 Lionell Widgins	 64	 Black	 Male	 3 a.m.	 Unknown
+396.	 Dec. 23	 James Harris	 25	 Black	 Male	 2 a.m.	 Firearm
+397.	 Dec. 23	 Michael Orlando	 43	 White	 Male	 11 p.m.	 Firearm
+398.	 Dec. 24	 Rahdeen Dixon	 20	 Black	 Male	 2 a.m.	 Firearm
+399.	 Dec. 24	 Robert Rose	 23	 Black	 Male	 3 a.m.	 Firearm
+400.	 Dec. 24	 Aaron Finney	 23	 Black	 Male	 3 a.m.	 Firearm
+401.	 Dec. 24	 McKennon Pigford	 24	 Black	 Male	 2 a.m.	 Firearm
+402.	 Dec. 25	 Reginald Branham	 37	 Black	 Male	 10 p.m.	 Firearm
+403.	 Dec. 26	 Norman White	 23	 Black	 Male	 1 a.m.	 Firearm
+404.	 Dec. 28	 Ernest Owens	 46	 Black	 Male	 8 p.m.	 Firearm
+405.	 Dec. 29	 Claude Stewart-Jones	 34	 Black	 Male	 9 p.m.	 Firearm
+406.	 Dec. 30	 Kiesha Wilkins	 31	 Black	 Female	 11 p.m.	 Cutting Instrument

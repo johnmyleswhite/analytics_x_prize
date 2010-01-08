@@ -1,0 +1,78 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\title{Analytics X Prize}
+\author{John Myles White}
+\date{\today}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\section{Naive Models}
+The first thing we should do is to consider a series of progressively more meaningful naive models to get a sense of the accuracy of the lowest possible quality predictions we can give. This allows us to see how low the baseline RMSE is for this problem without clever models.
+
+At a minimum, it is safe to assume that we must start with the empirical proportions of homicides that have occurred in each of Philadelphia's 47 zipcodes for a sample of recent years. Fake data of this sort is available in the \verb|fake_input_data| directory. These CSV files provide data that looks like the following:
+\begin{table}[htdp]
+\caption{Historical Homicide Data}
+\begin{center}
+\begin{tabular}{|c|c|c|}
+Zip & Year & Probability \\
+\hline
+11911 & 2009 & 0.5 \\
+$\ldots$ & $\ldots$ & $\ldots$ \\
+11911 & 2007 & 0.5 \\
+\end{tabular}
+\end{center}
+\label{default}
+\end{table}
+
+\subsection{Naive Model 1}
+With this historical data, we can construct our most naive model: we assume that the probability of a homicide occurring in zipcode $Z$ in 2010 is equal to the probability of a homicide in zipcode $Z$ in 2009:
+\[
+p(H | Z, Y = 2010) = p(H | Z, Y = 2009)
+\]
+More generally, we assume that
+\[
+p(H | Z, Y) = p(H | Z, Y -1)
+\]
+
+\subsection{Naive Model 2}
+One obvious way in which such a model might fail is that uses only the most recent year's data. Unless a sort of Markov assumption holds for our data, it would be better to use all of the historical data we have access to. Of course, we want to weight the more recent data more strongly. A naive model is to weight every year in our data set, $D$, by its distance from our target year, $T$:
+\[
+p(H | Z, Y = T) = \frac{\sum_{Y \in D, Y < T} \frac{1}{T - Y} p(H | Z, Y)}{\sum_{Y \in D, Y < T} \frac{1}{T - Y}}
+\]
+
+\subsection{Naive Model 3}
+A still more sophisticated model is to assume that the homicide rate in each zipcode exhibits a linear trend over our data set: either increasing or decreasing monotonically over time. At base this amounts to the assumption that
+\[
+p(H | Z, Y) = \alpha_{Z} + \beta_{Z} Y,
+\]
+modulo a normalization to insure that the resulting values are actual probabilities when pooling across the zipcodes in our dataset:
+\[
+p(H | Z, Y) = \frac{\alpha_{Z} + \beta_{Z} Y}{\sum_{Z \in D} \alpha_{Z} + \beta_{Z} Y}
+\]
+
+\subsection{Naive Model 4}
+Building upon this simple linear model, we can further assume that the $\alpha_Z$'s and $\beta_Z$'s are normally distributed and construct a hierarchical regression model of the sort described in Gelman and Hill's ARM textbook:
+\[
+p(H | Z, Y) = \frac{\alpha_{Z} + \beta_{Z} Y}{\sum_{Z \in D} \alpha_{Z} + \beta_{Z} Y}
+\]
+
+\[
+\alpha_{Z} ~ N(\mu, \sigma)
+\]
+
+
+\[
+\beta_{Z} ~ N(\mu, \sigma)
+\]
+
+\subsection{Real Models}
+Beyond this, it is clear that we can use external predictors variables for each zipcode, such as the average income in the zipcode, as well as year level predictors. Moreover, non-linear models such a k-nearest neighbors might easily be used. Finally, Drew has suggested using spatial regression, which, from what little I know, might be a substantial improvement over k-nearest neighbors while employing a similar pooling of data across neighboring zipcodes (modulo a metric space definition for our data set).
+
+\end{document}

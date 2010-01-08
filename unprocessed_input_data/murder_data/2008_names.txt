@@ -1,0 +1,3339 @@
+<tr>
+     <td>	<b>Number</b>		</td>
+     <td>	<b>Date</b>			</td>
+     <td>	<b>Victim</b>			</td>
+     <td>	<b>Age</b>	</td>
+     <td>	<b>Race</b>	</td>
+     <td>	<b>Sex</b>	</td>
+     <td>	<b>Hour</b>	</td>
+     <td>	<b>Weapon</b>	</td>
+ </tr>
+ <tr>
+     <td>1</td>
+     <td>Jan. 1, 2008</td>
+     <td>Andreas Gabranidis</td>
+     <td>55</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>2</td>
+     <td>Jan. 2, 2008</td>
+     <td>Edward Coaxum</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>3</td>
+     <td>Jan. 2, 2008</td>
+     <td>Michael Ruiz</td>
+     <td>39</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>4</td>
+     <td>Jan. 4, 2008</td>
+     <td>Seamus O'Neill</td>
+     <td>60</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>5</td>
+     <td>Jan. 5, 2008</td>
+     <td>Jonathon James</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>6</td>
+     <td>Jan. 9, 2008</td>
+     <td>Gregory Slaughter</td>
+     <td>26</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>7</td>
+     <td>Jan. 10, 2008</td>
+     <td>Gregory Jackson</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>8</td>
+     <td>Jan. 14, 2008</td>
+     <td>Eric Brown</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>9</td>
+     <td>Jan. 15, 2008</td>
+     <td>Victor Alfonsi</td>
+     <td>41</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>10</td>
+     <td>Jan. 18, 2008</td>
+     <td>Erica Harvey</td>
+     <td>24</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>12 a.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>11</td>
+     <td>Jan. 18, 2008</td>
+     <td>Charles Trotman</td>
+     <td>16</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>12</td>
+     <td>Jan. 19, 2008</td>
+     <td>Chante Jackson</td>
+     <td>23</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>13</td>
+     <td>Jan. 19, 2008</td>
+     <td>Octavia Green</td>
+     <td>23</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>14</td>
+     <td>Jan. 20, 2008</td>
+     <td>Eduardo Tubens</td>
+     <td>27</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>4 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>15</td>
+     <td>Jan. 20, 2008</td>
+     <td>Cindy Clothier</td>
+     <td>35</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>6 p.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>16</td>
+     <td>Jan. 20, 2008</td>
+     <td>Brandon Hicks</td>
+     <td>24</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>17</td>
+     <td>Jan. 22, 2008</td>
+     <td>Andre Russell</td>
+     <td>40</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>18</td>
+     <td>Jan. 24, 2008</td>
+     <td>Ralph Hibner</td>
+     <td>50</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>19</td>
+     <td>Jan. 26, 2008</td>
+     <td>Hajj Blackwell</td>
+     <td>35</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 a.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>20</td>
+     <td>Jan. 26, 2008</td>
+     <td>Walter Taylor</td>
+     <td>37</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>21</td>
+     <td>Jan. 26, 2008</td>
+     <td>Eugene Campbell</td>
+     <td>50</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>22</td>
+     <td>Jan. 30, 2008</td>
+     <td>Robert Overton</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>23</td>
+     <td>Jan. 31, 2008</td>
+     <td>Emine Harjredinaj</td>
+     <td>20</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>24</td>
+     <td>Jan. 31, 2008</td>
+     <td>Troy Jennings</td>
+     <td>32</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>25</td>
+     <td>Jan. 31, 2008</td>
+     <td>Marcellus Johnson</td>
+     <td>29</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>26</td>
+     <td>Feb. 3, 2008</td>
+     <td>Anthony Saunders</td>
+     <td>39</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>27</td>
+     <td>Feb. 3, 2008</td>
+     <td>Katherine McCormick</td>
+     <td>29</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>28</td>
+     <td>Feb. 4, 2008</td>
+     <td>Richard Lawrence</td>
+     <td>43</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>29</td>
+     <td>Feb. 5, 2008</td>
+     <td>Andre Cerdan</td>
+     <td>23</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>30</td>
+     <td>Feb. 5, 2008</td>
+     <td>Kuame Burkett</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>31</td>
+     <td>Feb. 8, 2008</td>
+     <td>Alice Thurnau</td>
+     <td>90</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>9 a.m.</td>
+     <td>Hands</td>
+ </tr>
+ <tr>
+     <td>32</td>
+     <td>Feb. 10, 2008</td>
+     <td>Julius Dante Hall</td>
+     <td>26</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>33</td>
+     <td>Feb. 11, 2008</td>
+     <td>Maximino Diaz</td>
+     <td>37</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>34</td>
+     <td>Feb. 14, 2008</td>
+     <td>Donovan Weary</td>
+     <td>25</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>35</td>
+     <td>Feb. 15, 2008</td>
+     <td>Nakeia McCafferty</td>
+     <td>32</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>7 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>36</td>
+     <td>Feb. 20, 2008</td>
+     <td>David Everett-Bey</td>
+     <td>23</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>37</td>
+     <td>Feb. 20, 2008</td>
+     <td>Josephine Faust</td>
+     <td>29</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>5 p.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>38</td>
+     <td>Feb. 20, 2008</td>
+     <td>Marvin Hutson</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>39</td>
+     <td>Feb. 20, 2008</td>
+     <td>Michelle Hicks</td>
+     <td>36</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>8 p.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>40</td>
+     <td>Feb. 21, 2008</td>
+     <td>Kenneth Henderson</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>41</td>
+     <td>Feb. 21, 2008</td>
+     <td>Ronald Saunders</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>42</td>
+     <td>Feb. 23, 2008</td>
+     <td>Mark Rivera</td>
+     <td>16</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>43</td>
+     <td>Feb. 24, 2008</td>
+     <td>Dantea Hart</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>44</td>
+     <td>Feb. 25, 2008</td>
+     <td>Teven Rutledge</td>
+     <td>15</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>45</td>
+     <td>Feb. 25, 2008</td>
+     <td>Charles Allmond</td>
+     <td>51</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Hands</td>
+ </tr>
+ <tr>
+     <td>46</td>
+     <td>Feb. 25, 2008</td>
+     <td>Steeve Charles</td>
+     <td>24</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>47</td>
+     <td>Feb. 26, 2008</td>
+     <td>Ismael Valentin</td>
+     <td>27</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>48</td>
+     <td>Feb. 29, 2008</td>
+     <td>Antonio McKenzie</td>
+     <td>37</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>49</td>
+     <td>Feb. 29, 2008</td>
+     <td>Anthony Grasso</td>
+     <td>26</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>50</td>
+     <td>March 1, 2008</td>
+     <td>David Atkins</td>
+     <td>43</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>51</td>
+     <td>March 2, 2008</td>
+     <td>Nicholas Cruz</td>
+     <td>38</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>8 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>52</td>
+     <td>March 10, 2008</td>
+     <td>Khalil Wright</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>53</td>
+     <td>March 11, 2008</td>
+     <td>Carlos Torres</td>
+     <td>55</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>9 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>54</td>
+     <td>March 12, 2008</td>
+     <td>James Perkins</td>
+     <td>29</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>55</td>
+     <td>March 13, 2008</td>
+     <td>Travis Ellerbe</td>
+     <td>26</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>56</td>
+     <td>March 13, 2008</td>
+     <td>Lorenzo Thomas</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>57</td>
+     <td>March 16, 2008</td>
+     <td>Edward Baez</td>
+     <td>35</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>5 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>58</td>
+     <td>March 17, 2008</td>
+     <td>Edward Somerville</td>
+     <td>72</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 p.m.</td>
+     <td>Hands</td>
+ </tr>
+ <tr>
+     <td>59</td>
+     <td>March 17, 2008</td>
+     <td>George McGonigle</td>
+     <td>50</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>4 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>60</td>
+     <td>March 18, 2008</td>
+     <td>Marcus Barnes</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>61</td>
+     <td>March 18, 2008</td>
+     <td>Robert Daniels</td>
+     <td>60</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>62</td>
+     <td>March 20, 2008</td>
+     <td>Maurice Shaw</td>
+     <td>33</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>63</td>
+     <td>March 22, 2008</td>
+     <td>James Lane</td>
+     <td>38</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>64</td>
+     <td>March 22, 2008</td>
+     <td>Raphael-Ray Richburg</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>65</td>
+     <td>March 23, 2008</td>
+     <td>Bao Nguyen</td>
+     <td>23</td>
+     <td>Asian</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>66</td>
+     <td>March 23, 2008</td>
+     <td>Kevin Parker</td>
+     <td>22</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>67</td>
+     <td>March 23, 2008</td>
+     <td>Johnathan Palmer</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>68</td>
+     <td>March 26, 2008</td>
+     <td>Sean Patrick Conroy</td>
+     <td>36</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>3 p.m.</td>
+     <td>Hands</td>
+ </tr>
+ <tr>
+     <td>69</td>
+     <td>March 28, 2008</td>
+     <td>Hasan Deloatch</td>
+     <td>30</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>70</td>
+     <td>March 30, 2008</td>
+     <td>Anthony Salley</td>
+     <td>23</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>71</td>
+     <td>March 31, 2008</td>
+     <td>Nicholas Pisano</td>
+     <td>25</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>72</td>
+     <td>March 29, 2008</td>
+     <td>James Anderson</td>
+     <td>43</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>73</td>
+     <td>April 6, 2008</td>
+     <td>Robert Bullock</td>
+     <td>30</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>74</td>
+     <td>April 5, 2008</td>
+     <td>Kevin Perry</td>
+     <td>25</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>75</td>
+     <td>April 10, 2008</td>
+     <td>Anthony Stephens</td>
+     <td>50</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>76</td>
+     <td>April 10, 2008</td>
+     <td>Donte Jones</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>77</td>
+     <td>April 5, 2008</td>
+     <td>Jocelyne Desay</td>
+     <td>64</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>7 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>78</td>
+     <td>April 12, 2008</td>
+     <td>Robert Stone</td>
+     <td>50</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>5 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>79</td>
+     <td>April 12, 2008</td>
+     <td>Kenneth Wiggins</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>80</td>
+     <td>April 12, 2008</td>
+     <td>Gregory Barber</td>
+     <td>24</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>81</td>
+     <td>April 13, 2008</td>
+     <td>Quadii Soulimani</td>
+     <td>33</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>5 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>82</td>
+     <td>April 13, 2008</td>
+     <td>Reginald Maily</td>
+     <td>36</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>83</td>
+     <td>April 13, 2008</td>
+     <td>Raymond Brown</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>84</td>
+     <td>April 15, 2008</td>
+     <td>Gary James Jr.</td>
+     <td>28</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>85</td>
+     <td>April 4, 2008</td>
+     <td>Aiden Salber-Do</td>
+     <td>1</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Hands</td>
+ </tr>
+ <tr>
+     <td>86</td>
+     <td>April 15, 2008</td>
+     <td>Tony Brown</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>87</td>
+     <td>April 16, 2008</td>
+     <td>Leon Williams</td>
+     <td>26</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>88</td>
+     <td>March 9, 2008</td>
+     <td>William Wright</td>
+     <td>12</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>89</td>
+     <td>April 18, 2008</td>
+     <td>Michael Johnson</td>
+     <td>36</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>90</td>
+     <td>April 19, 2008</td>
+     <td>Timothy Haines</td>
+     <td>24</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>91</td>
+     <td>April 19, 2008</td>
+     <td>Terron Epps</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>92</td>
+     <td>April 19, 2008</td>
+     <td>James Corry</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>93</td>
+     <td>April 20, 2008</td>
+     <td>Chon Kim</td>
+     <td>62</td>
+     <td>Asian</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>94</td>
+     <td>April 20, 2008</td>
+     <td>Benjamin Elder</td>
+     <td>46</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>95</td>
+     <td>April 20, 2008</td>
+     <td>Anthony Stevenson</td>
+     <td>32</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>96</td>
+     <td>April 21, 2008</td>
+     <td>Muliek Brown</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>97</td>
+     <td>April 27, 2008</td>
+     <td>Marcus Davis</td>
+     <td>37</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>98</td>
+     <td>April 27, 2008</td>
+     <td>Tyrone Miller</td>
+     <td>43</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>99</td>
+     <td>April 27, 2008</td>
+     <td>Louis Campbell</td>
+     <td>66</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 a.m.</td>
+     <td>Hands</td>
+ </tr>
+ <tr>
+     <td>100</td>
+     <td>April 27, 2008</td>
+     <td>Robert McNair</td>
+     <td>48</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>101</td>
+     <td>April 27, 2008</td>
+     <td>Kalif Leslie</td>
+     <td>15</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>102</td>
+     <td>April 30, 2008</td>
+     <td>Jameel Martin</td>
+     <td>25</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>103</td>
+     <td>May 3, 2008</td>
+     <td>Steven Liczbinski</td>
+     <td>39</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>11 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>104</td>
+     <td>May 4, 2008</td>
+     <td>Donny Skipworth</td>
+     <td>23</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>105</td>
+     <td>May 4, 2008</td>
+     <td>Andrew Coach</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>106</td>
+     <td>May 5, 2008</td>
+     <td>Jahlil Garrett</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>107</td>
+     <td>May 5, 2008</td>
+     <td>Jovan Bradley-Dixon</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>108</td>
+     <td>May 5, 2008</td>
+     <td>William Thomas</td>
+     <td>28</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>109</td>
+     <td>May 6, 2008</td>
+     <td>Delaney Humphey</td>
+     <td>29</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>110</td>
+     <td>May 11, 2008</td>
+     <td>Nathaniel Nash</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>111</td>
+     <td>May 11, 2008</td>
+     <td>Alvin Ortiz</td>
+     <td>22</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>112</td>
+     <td>May 13, 2008</td>
+     <td>Tirrell Dekeyser</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>113</td>
+     <td>May 14, 2008</td>
+     <td>Sokoni Meachum</td>
+     <td>29</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>114</td>
+     <td>May 16, 2008</td>
+     <td>Timothy Sanders</td>
+     <td>28</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>115</td>
+     <td>May 16, 2008</td>
+     <td>Terrence Mickey</td>
+     <td>24</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>116</td>
+     <td>May 19, 2008</td>
+     <td>Cheryl Curran</td>
+     <td>36</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>4 p.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>117</td>
+     <td>May 19, 2008</td>
+     <td>Santos Sindo</td>
+     <td>46</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>118</td>
+     <td>May 21, 2008</td>
+     <td>Anthony Elam</td>
+     <td>4</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Hands</td>
+ </tr>
+ <tr>
+     <td>119</td>
+     <td>May 23, 2008</td>
+     <td>Oahn Na Lieu</td>
+     <td>22</td>
+     <td>Asian</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>120</td>
+     <td>May 24, 2008</td>
+     <td>Donnell Murphy</td>
+     <td>28</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>121</td>
+     <td>May 24, 2008</td>
+     <td>Michael Fernandez</td>
+     <td>21</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>122</td>
+     <td>May 24, 2008</td>
+     <td>Len Coppock</td>
+     <td>32</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>123</td>
+     <td>May 25, 2008</td>
+     <td>Vincent Green</td>
+     <td>43</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>124</td>
+     <td>May 25, 2008</td>
+     <td>Damien Palmer</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>125</td>
+     <td>May 25, 2008</td>
+     <td> Quami Jefferson</td>
+     <td>27</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>126</td>
+     <td>May 28, 2008</td>
+     <td>John Evans</td>
+     <td>38</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>127</td>
+     <td>May 30, 2008</td>
+     <td>Charles Purnell</td>
+     <td>22</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>128</td>
+     <td>May 31, 2008</td>
+     <td>Kenneth Wyche</td>
+     <td>48</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 p.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>129</td>
+     <td>May 30, 2008</td>
+     <td>Inmon Goggans</td>
+     <td>31</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>130</td>
+     <td>May 31, 2008</td>
+     <td>Adam McGill</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>131</td>
+     <td>June 1, 2008</td>
+     <td>John Doe</td>
+     <td>30</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>132</td>
+     <td>June 2, 2008</td>
+     <td>Najee Gilliard</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>133</td>
+     <td>June 2, 2008</td>
+     <td>Bobbie Booker</td>
+     <td>26</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>134</td>
+     <td>June 2, 2008</td>
+     <td>Aly Elkaied</td>
+     <td>44</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>135</td>
+     <td>June 4, 2008</td>
+     <td>Kareem McCoy</td>
+     <td>27</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>136</td>
+     <td>June 5, 2008</td>
+     <td>Dorothy Smith</td>
+     <td>37</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>137</td>
+     <td>June 6, 2008</td>
+     <td>Iris Reyes-Mulero</td>
+     <td>21</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>4 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>138</td>
+     <td>June 10, 2008</td>
+     <td>Jalil Joyner-Cla</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>139</td>
+     <td>June 14, 2008</td>
+     <td>Torel Smith</td>
+     <td>32</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>140</td>
+     <td>June 14, 2008</td>
+     <td>Kenneth Sims</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>141</td>
+     <td>June 15, 2008</td>
+     <td>Beau Zabel</td>
+     <td>23</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>142</td>
+     <td>June 15, 2008</td>
+     <td>William Stanton</td>
+     <td>23</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>143</td>
+     <td>June 16, 2008</td>
+     <td>Adelaide Walker</td>
+     <td>53</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>2 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>144</td>
+     <td>June 16, 2008</td>
+     <td>Ricardo Zayas</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>145</td>
+     <td>June 16, 2008</td>
+     <td>James Lewis</td>
+     <td>17</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>146</td>
+     <td>June 17, 2008</td>
+     <td>Brandon Edwards</td>
+     <td>34</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>147</td>
+     <td>June 17, 2008</td>
+     <td>Jerrett Washington</td>
+     <td>22</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>148</td>
+     <td>June 17, 2008</td>
+     <td>Donte Wylie</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>149</td>
+     <td>June 18, 2008</td>
+     <td>Tyrone Poaches</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>150</td>
+     <td>June 19, 2008</td>
+     <td>Synia Keo</td>
+     <td>25</td>
+     <td>Asian</td>
+     <td>Male</td>
+     <td>4 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>151</td>
+     <td>June 19, 2008</td>
+     <td>Thomas Teagues</td>
+     <td>22</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>152</td>
+     <td>June 21, 2008</td>
+     <td>Keron Remeran</td>
+     <td>16</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>153</td>
+     <td>June 21, 2008</td>
+     <td>Gerald Woods</td>
+     <td>29</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>154</td>
+     <td>June 22, 2008</td>
+     <td>Nathaniel Crawford</td>
+     <td>26</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>155</td>
+     <td>June 22, 2008</td>
+     <td>Christopher Lomax</td>
+     <td>27</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>156</td>
+     <td>June 22, 2008</td>
+     <td>William Elliott</td>
+     <td>26</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>157</td>
+     <td>June 23, 2008</td>
+     <td>Fassara Kouyate</td>
+     <td>37</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>158</td>
+     <td>June 24, 2008</td>
+     <td>Clifford Clayton</td>
+     <td>42</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>159</td>
+     <td>June 29, 2008</td>
+     <td>Gregory Lyles</td>
+     <td>23</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>160</td>
+     <td>June 29, 2008</td>
+     <td>Nestor Rodriguez</td>
+     <td>26</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>161</td>
+     <td>June 29, 2008</td>
+     <td>Allen Jones</td>
+     <td>31</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>162</td>
+     <td>June 30, 2008</td>
+     <td>Steven Mullins</td>
+     <td>24</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>163</td>
+     <td>June 30, 2008</td>
+     <td>Ari Weston</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>164</td>
+     <td>July 2, 2008</td>
+     <td>Michael Ellerbe</td>
+     <td>21</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>11 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>165</td>
+     <td>July 4, 2008</td>
+     <td>Hamin Span</td>
+     <td>30</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>166</td>
+     <td>July 9, 2008</td>
+     <td>Anthony Mahoney</td>
+     <td>25</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>167</td>
+     <td>July 11, 2008</td>
+     <td>Matthew Smith</td>
+     <td>24</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>168</td>
+     <td>July 12, 2008</td>
+     <td>Anthony Oliver</td>
+     <td>36</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>169</td>
+     <td>July 12, 2008</td>
+     <td>Michael Giles-Brown</td>
+     <td>16</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>170</td>
+     <td>July 12, 2008</td>
+     <td>Cortez Ennis</td>
+     <td>46</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>171</td>
+     <td>July 12, 2008</td>
+     <td>Harry Ballard</td>
+     <td>41</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>172</td>
+     <td>July 15, 2008</td>
+     <td>Amissi Ndikumasabo</td>
+     <td>41</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>173</td>
+     <td>July 15, 2008</td>
+     <td>Alfred Holly Jr.</td>
+     <td>28</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>174</td>
+     <td>July 16, 2008</td>
+     <td>Charles Johnson</td>
+     <td>17</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>175</td>
+     <td>July 17, 2008</td>
+     <td>Shavissa Bender</td>
+     <td>1</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>1 a.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>176</td>
+     <td>July 18, 2008</td>
+     <td>Barry Jacobs</td>
+     <td>26</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>177</td>
+     <td>July 18, 2008</td>
+     <td>Carnell Crosby</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>178</td>
+     <td>July 19, 2008</td>
+     <td>Corey Moody</td>
+     <td>38</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>179</td>
+     <td>July 20, 2008</td>
+     <td>Raheem Ellis</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>180</td>
+     <td>July 21, 2008</td>
+     <td>Monica Wilson</td>
+     <td>41</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>12 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>181</td>
+     <td>July 21, 2008</td>
+     <td>Luis Whitfield</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>182</td>
+     <td>July 22, 2008</td>
+     <td>Robert Battle</td>
+     <td>30</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>183</td>
+     <td>July 22, 2008</td>
+     <td>Korey Anderson</td>
+     <td>29</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>184</td>
+     <td>July 26, 2008</td>
+     <td>Lafayette Davis</td>
+     <td>35</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>185</td>
+     <td>July 26, 2008</td>
+     <td>Tyreek Robinson</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>186</td>
+     <td>July 27, 2008</td>
+     <td>Ratseiey Yun</td>
+     <td>23</td>
+     <td>Asian</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>187</td>
+     <td>July 27, 2008</td>
+     <td>Bintou Soumare</td>
+     <td>45</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>2 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>188</td>
+     <td>Aug. 3, 2008</td>
+     <td>William Wilson</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>189</td>
+     <td>Aug. 5, 2008</td>
+     <td>Chauncy Miller</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>190</td>
+     <td>Aug. 5, 2008</td>
+     <td>Yvette Prince</td>
+     <td>45</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>3 p.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>191</td>
+     <td>Aug. 7, 2008</td>
+     <td>Glenn Ballard</td>
+     <td>25</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>192</td>
+     <td>Aug. 7, 2008</td>
+     <td>Allen Moment</td>
+     <td>26</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>193</td>
+     <td>Aug. 7, 2008</td>
+     <td>Derrick Middleton</td>
+     <td>25</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>194</td>
+     <td>Aug. 8, 2008</td>
+     <td>Ryshon Howard</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>195</td>
+     <td>Aug. 10, 2008</td>
+     <td>Forrest Bell</td>
+     <td>41</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>196</td>
+     <td>Aug. 10, 2008</td>
+     <td>Darren Grant</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>197</td>
+     <td>Aug. 10, 2008</td>
+     <td>Darryl Sutton</td>
+     <td>48</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>198</td>
+     <td>Aug. 10, 2008</td>
+     <td>Anthony Jackson</td>
+     <td>36</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>199</td>
+     <td>Aug. 11, 2008</td>
+     <td>David Vazquez</td>
+     <td>19</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>200</td>
+     <td>Aug. 11, 2008</td>
+     <td>Brian Jones</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>201</td>
+     <td>Aug. 12, 2008</td>
+     <td>Melvin Smith</td>
+     <td>34</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>202</td>
+     <td>Aug. 14, 2008</td>
+     <td>Kwame Walker</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>203</td>
+     <td>Aug. 19, 2008</td>
+     <td>Narsizo Rivera</td>
+     <td>32</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>204</td>
+     <td>Aug. 15, 2008</td>
+     <td>Malik McAfee</td>
+     <td>23</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>205</td>
+     <td>Aug. 16, 2008</td>
+     <td>Jamell White</td>
+     <td>22</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>206</td>
+     <td>Aug. 20, 2008</td>
+     <td>Fakhur Uddin</td>
+     <td>20</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>12 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>207</td>
+     <td>Aug. 28, 2008</td>
+     <td>Samir Thomas</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>208</td>
+     <td>Aug. 28, 2008</td>
+     <td>Jessica Alejandro</td>
+     <td>24</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>209</td>
+     <td>Aug. 28, 2008</td>
+     <td>Donald Henderson</td>
+     <td>23</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>210</td>
+     <td>Aug. 28, 2008</td>
+     <td>Shawn Long</td>
+     <td>34</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>211</td>
+     <td>Aug. 29, 2008</td>
+     <td>Russell McCoy</td>
+     <td>72</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Hands</td>
+ </tr>
+ <tr>
+     <td>212</td>
+     <td>Aug. 29, 2008</td>
+     <td>Enor Williams</td>
+     <td>78</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>213</td>
+     <td>Aug. 30, 2008</td>
+     <td>Troy DeLoatch</td>
+     <td>22</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>214</td>
+     <td>Aug. 30, 2008</td>
+     <td>Thomas Cherry</td>
+     <td>41</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>215</td>
+     <td>Aug. 30, 2008</td>
+     <td>Donte Benjamin</td>
+     <td>23</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>216</td>
+     <td>Aug. 31, 2008</td>
+     <td>Bruce Lassiter</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>217</td>
+     <td>Sept. 1, 2008</td>
+     <td>Jorge Garcia Baez</td>
+     <td>47</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>218</td>
+     <td>Sept. 2, 2008</td>
+     <td>Kenneth Lockwood</td>
+     <td>47</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>219</td>
+     <td>Sept. 2, 2008</td>
+     <td>Antonio Rivera</td>
+     <td>37</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>220</td>
+     <td>Sept. 2, 2008</td>
+     <td>Patricia Moscato</td>
+     <td>38</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>221</td>
+     <td>Sept. 2, 2008</td>
+     <td>Keith Bolden</td>
+     <td>31</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>222</td>
+     <td>Sept. 6, 2008</td>
+     <td>Tyreek Taylor</td>
+     <td>22</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>223</td>
+     <td>Sept. 6, 2008</td>
+     <td>Isabel Nazario</td>
+     <td>40</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>10 p.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>224</td>
+     <td>Sept. 6, 2008</td>
+     <td>Ronnell Davis</td>
+     <td>29</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>225</td>
+     <td>Sept. 6, 2008</td>
+     <td>James Nelson</td>
+     <td>30</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Hands</td>
+ </tr>
+ <tr>
+     <td>226</td>
+     <td>Sept. 8, 2008</td>
+     <td>Galina Zherebchevsk</td>
+     <td>62</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>5 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>227</td>
+     <td>Sept. 8, 2008</td>
+     <td>Eric Byrd</td>
+     <td>27</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>228</td>
+     <td>Sept. 9, 2008</td>
+     <td>Cedrick Brown</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>229</td>
+     <td>Sept. 11, 2008</td>
+     <td>Jermaine Myers</td>
+     <td>31</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>230</td>
+     <td>Sept. 11, 2008</td>
+     <td>Darren Hankins</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>231</td>
+     <td>Sept. 11, 2008</td>
+     <td>Miles Mack</td>
+     <td>42</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>232</td>
+     <td>Sept. 13, 2008</td>
+     <td>Todd Wilson</td>
+     <td>46</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>233</td>
+     <td>Sept. 14, 2008</td>
+     <td>Dwayne Davis</td>
+     <td>30</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>234</td>
+     <td>Sept. 14, 2008</td>
+     <td>Tyleigh Perkins</td>
+     <td>22</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>235</td>
+     <td>Sept. 14, 2008</td>
+     <td>Edward Whitby</td>
+     <td>33</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>236</td>
+     <td>Sept. 16, 2008</td>
+     <td>Rockie Jenkins</td>
+     <td>25</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>237</td>
+     <td>Sept. 16, 2008</td>
+     <td>Shareef Brown</td>
+     <td>24</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>238</td>
+     <td>Sept. 19, 2008</td>
+     <td>Thomas Dangerfield</td>
+     <td>26</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>10 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>239</td>
+     <td>Sept. 21, 2008</td>
+     <td>Michael Walker</td>
+     <td>32</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>240</td>
+     <td>Sept. 23, 2008</td>
+     <td>Patrick McDonald</td>
+     <td>30</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>2 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>241</td>
+     <td>Sept. 25, 2008</td>
+     <td>Loretta Cannon</td>
+     <td>58</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>1 a.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>242</td>
+     <td>Sept. 25, 2008</td>
+     <td>Calvin Jordan</td>
+     <td>26</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>243</td>
+     <td>Sept. 28, 2008</td>
+     <td>Anthony Williams</td>
+     <td>37</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Hands</td>
+ </tr>
+ <tr>
+     <td>244</td>
+     <td>Sept. 28, 2008</td>
+     <td>Matthew Novak</td>
+     <td>24</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>245</td>
+     <td>Sept. 30, 2008</td>
+     <td>Michael Lockhart</td>
+     <td>32</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>246</td>
+     <td>Oct. 1, 2008</td>
+     <td>Robert Cuadrado</td>
+     <td>15</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>247</td>
+     <td>Oct. 3, 2008</td>
+     <td>Randolph Yelverton</td>
+     <td>25</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 p.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>248</td>
+     <td>Oct. 3, 2008</td>
+     <td>Rasheed Harrod</td>
+     <td>16</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>249</td>
+     <td>Oct. 4, 2008</td>
+     <td>Bernard Marrow</td>
+     <td>41</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>250</td>
+     <td>Oct. 4, 2008</td>
+     <td>Robert Byrd</td>
+     <td>36</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>251</td>
+     <td>Oct. 4, 2008</td>
+     <td>Marquel Colbert</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>252</td>
+     <td>Oct. 5, 2008</td>
+     <td>Steven Tucker</td>
+     <td>53</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>253</td>
+     <td>Oct. 11, 2008</td>
+     <td>Timothy Mitchell</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>254</td>
+     <td>Oct. 11, 2008</td>
+     <td>Gilberto Leon-Alvarez</td>
+     <td>37</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>255</td>
+     <td>Oct. 12, 2008</td>
+     <td>Karimah Ballard</td>
+     <td>32</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>3 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>256</td>
+     <td>Oct. 12, 2008</td>
+     <td>Lakeesha Ross</td>
+     <td>35</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>11 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>257</td>
+     <td>Oct. 14, 2008</td>
+     <td>Alan Brooks</td>
+     <td>52</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>258</td>
+     <td>Oct. 14, 2008</td>
+     <td>Anthony Marko</td>
+     <td>45</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>259</td>
+     <td>Oct. 16, 2008</td>
+     <td>Kendall Scott</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>260</td>
+     <td>Oct. 17, 2008</td>
+     <td>John Bryant</td>
+     <td>27</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>261</td>
+     <td>Oct. 17, 2008</td>
+     <td>Morton Goodman</td>
+     <td>91</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>12 a.m.</td>
+     <td>Hands</td>
+ </tr>
+ <tr>
+     <td>262</td>
+     <td>Oct. 17, 2008</td>
+     <td>Milton Ayala</td>
+     <td>35</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>263</td>
+     <td>Oct. 18, 2008</td>
+     <td>Terrance Davis</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>264</td>
+     <td>Oct. 21, 2008</td>
+     <td>Darryl Harris</td>
+     <td>22</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>265</td>
+     <td>Oct. 21, 2008</td>
+     <td>Marta Lozada</td>
+     <td>37</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>266</td>
+     <td>Oct. 22, 2008</td>
+     <td>Thomas Frederick</td>
+     <td>49</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>267</td>
+     <td>Oct. 23, 2008</td>
+     <td>Rupert Tulloch</td>
+     <td>47</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>268</td>
+     <td>Oct. 23, 2008</td>
+     <td>Tyrone Reese</td>
+     <td>27</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>269</td>
+     <td>Oct. 23, 2008</td>
+     <td>Roberto Beltran</td>
+     <td>38</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>270</td>
+     <td>Oct. 23, 2008</td>
+     <td>Jose Ortiz</td>
+     <td>45</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>271</td>
+     <td>Oct. 23, 2008</td>
+     <td>Barry Johnson</td>
+     <td>33</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>272</td>
+     <td>Oct. 23, 2008</td>
+     <td>Rubin Eason</td>
+     <td>28</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>273</td>
+     <td>Oct. 24, 2008</td>
+     <td>Luis Rivera</td>
+     <td>32</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>10 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>274</td>
+     <td>Oct. 25, 2008</td>
+     <td>James Sanders</td>
+     <td>54</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>275</td>
+     <td>Oct. 26, 2008</td>
+     <td>Derrick Nedd</td>
+     <td>30</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>276</td>
+     <td>Oct. 26, 2008</td>
+     <td>Carlos Maldonado</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>277</td>
+     <td>Oct. 27, 2008</td>
+     <td>Bryant Collins</td>
+     <td>42</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>278</td>
+     <td>Oct. 27, 2008</td>
+     <td>Antoine Jones</td>
+     <td>27</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>279</td>
+     <td>Oct. 27, 2008</td>
+     <td>Kenneth Poindexter</td>
+     <td>39</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>280</td>
+     <td>Oct. 28, 2008</td>
+     <td>Christopher White</td>
+     <td>43</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>281</td>
+     <td>Oct. 28, 2008</td>
+     <td>Raymond Collazo</td>
+     <td>49</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>282</td>
+     <td>Oct. 29, 2008</td>
+     <td>Ishmail Williams</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>283</td>
+     <td>Oct. 30, 2008</td>
+     <td>Jaleel Loving</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>284</td>
+     <td>Nov. 2, 2008</td>
+     <td>Henry Santos</td>
+     <td>24</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>285</td>
+     <td>Nov. 2, 2008</td>
+     <td>Van Tri Chi</td>
+     <td>37</td>
+     <td>Asian</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>286</td>
+     <td>Nov. 2, 2008</td>
+     <td>Anthony Linn</td>
+     <td>33</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>287</td>
+     <td>Nov. 2, 2008</td>
+     <td>Joshua Sutton</td>
+     <td>18</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>288</td>
+     <td>Nov. 4, 2008</td>
+     <td>Charmaine McQuilkin</td>
+     <td>47</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>289</td>
+     <td>Nov. 5, 2008</td>
+     <td>Bruce Hollowman</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>290</td>
+     <td>Nov. 6, 2008</td>
+     <td>Elliott Ortiz</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>291</td>
+     <td>Nov. 8, 2008</td>
+     <td>Muhammad Davis</td>
+     <td>16</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>292</td>
+     <td>Nov. 8, 2008</td>
+     <td>Parrin Jone</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>293</td>
+     <td>Nov. 9, 2008</td>
+     <td>Tameeka Freeman</td>
+     <td>24</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>294</td>
+     <td>Nov. 9, 2008</td>
+     <td>Mariaela Duran</td>
+     <td>21</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>2 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>295</td>
+     <td>Nov. 9, 2008</td>
+     <td>Avel Belous</td>
+     <td>22</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>296</td>
+     <td>Nov. 10, 2008</td>
+     <td>Kasey Chambers</td>
+     <td>15</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>297</td>
+     <td>Nov. 12, 2008</td>
+     <td>Fred Johnson</td>
+     <td>43</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>298</td>
+     <td>Nov. 14, 2008</td>
+     <td>Alvin Smith</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>299</td>
+     <td>Nov. 16, 2008</td>
+     <td>Jamal Ahmad</td>
+     <td>66</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>300</td>
+     <td>Nov. 20, 2008</td>
+     <td>Edward Decker</td>
+     <td>65</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>301</td>
+     <td>Nov. 21, 2008</td>
+     <td>Sean Thomas</td>
+     <td>40</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>302</td>
+     <td>Nov. 23, 2008</td>
+     <td>Nicholas Sweeney</td>
+     <td>27</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>303</td>
+     <td>Nov. 25, 2008</td>
+     <td>Eugene Sims</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>304</td>
+     <td>Nov. 26, 2008</td>
+     <td>Rodney Edney</td>
+     <td>21</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>1 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>305</td>
+     <td>Nov. 26, 2008</td>
+     <td>Stephen Lloyd</td>
+     <td>54</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>7 a.m.</td>
+     <td>Other</td>
+ </tr>
+ <tr>
+     <td>306</td>
+     <td>Nov. 28, 2008</td>
+     <td>Daylen Edwards</td>
+     <td>22</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>307</td>
+     <td>Nov. 29, 2008</td>
+     <td>Curtis Jordan</td>
+     <td>29</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>308</td>
+     <td>Dec. 1, 2008</td>
+     <td>Anthony Ottaviano</td>
+     <td>40</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>309</td>
+     <td>Dec. 1, 2008</td>
+     <td>Samantha Houston</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Female</td>
+     <td>5 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>310</td>
+     <td>Dec. 2, 2008</td>
+     <td>Richard Carter</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>311</td>
+     <td>Dec. 3, 2008</td>
+     <td>Dewayne Butler</td>
+     <td>39</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>312</td>
+     <td>Dec. 5, 2008</td>
+     <td>Steven Mita</td>
+     <td>46</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>5 p.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>313</td>
+     <td>Dec. 6, 2008</td>
+     <td>Jeremaine Hardy</td>
+     <td>30</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>314</td>
+     <td>Dec. 10, 2008</td>
+     <td>George Sydnor</td>
+     <td>24</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>315</td>
+     <td>Dec. 11, 2008</td>
+     <td>Anthony Harris</td>
+     <td>38</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>316</td>
+     <td>Dec. 14, 2008</td>
+     <td>Peter Styles</td>
+     <td>25</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>317</td>
+     <td>Dec. 14, 2008</td>
+     <td>Edmond Brown</td>
+     <td>65</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>12 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>318</td>
+     <td>Dec. 14, 2008</td>
+     <td>Kosai Barouki</td>
+     <td>30</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>2 a.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>319</td>
+     <td>Dec. 14, 2008</td>
+     <td>Khalid Trice</td>
+     <td>20</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>320</td>
+     <td>Dec. 16, 2008</td>
+     <td>Herberto Santiago</td>
+     <td>47</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>3 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>321</td>
+     <td>Dec. 18, 2008</td>
+     <td>Stefan Carter</td>
+     <td>31</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>8 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>322</td>
+     <td>Dec. 21, 2008</td>
+     <td>Andrew Armstrong</td>
+     <td>16</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>323</td>
+     <td>Dec. 25, 2008</td>
+     <td>Helen Wollaver</td>
+     <td>43</td>
+     <td>White</td>
+     <td>Female</td>
+     <td>7 a.m.</td>
+     <td>Knife</td>
+ </tr>
+ <tr>
+     <td>324</td>
+     <td>Dec. 25, 2008</td>
+     <td>Christopher Gullop</td>
+     <td>24</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>325</td>
+     <td>Dec. 25, 2008</td>
+     <td>Rashim Shuler</td>
+     <td>30</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>11 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>326</td>
+     <td>Dec. 26, 2008</td>
+     <td>J.J. Govan</td>
+     <td>54</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>327</td>
+     <td>Dec. 26, 2008</td>
+     <td>Karl Papendick</td>
+     <td>37</td>
+     <td>White</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>328</td>
+     <td>Dec. 27, 2008</td>
+     <td>Charles West</td>
+     <td>61</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>329</td>
+     <td>Dec. 27, 2008</td>
+     <td>Ronald Simmons</td>
+     <td>56</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>6 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>330</td>
+     <td>Dec. 27, 2008</td>
+     <td>Terrell Holliday</td>
+     <td>19</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>331</td>
+     <td>Dec. 28, 2008</td>
+     <td>Ernest Miller</td>
+     <td>41</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>4 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>332</td>
+     <td>Dec. 29, 2008</td>
+     <td>Shayah Muhammad</td>
+     <td>29</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>9 p.m.</td>
+     <td>Firearm</td>
+ </tr>
+ <tr>
+     <td>333</td>
+     <td>Dec. 31, 2008</td>
+     <td>Mack Alderman</td>
+     <td>34</td>
+     <td>Black</td>
+     <td>Male</td>
+     <td>7 p.m.</td>
+     <td>Firearm</td>
