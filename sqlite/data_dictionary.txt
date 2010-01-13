@@ -1,0 +1,28 @@
+everyblock_crimes - contains data from the everyblock rss feeds
+	id text primary key -- unique key from everyblock using the 
+		format /2010/1/11/736222/.  Note that this is a subset of the everyblock
+		crime detail page (http://philly.everyblock.com/crime/by-date/2010/1/9/734332/)
+	crime_type, 
+	crime_desc, 
+	location, 
+	date -- datetime the crime occurred.  note that sqlite doesnt have a date type, so 
+		this is formatted to be compatible with the sqlite strftime functions. 
+	zip
+	
+homicides - import of the crime_data.csv file
+	address text
+	datetime text
+	zip text
+
+pooled_crimes - import of the old_data/pooled_crimes.csv file
+	dc_key text, 
+	ucr text, 
+	ucr_text text, 
+	location text, 
+	dispatch_date_time text, 
+	dc_dist text, 
+	sector text, 
+	premise_text text, 
+	x_coord real, 
+	y_coord real
+
