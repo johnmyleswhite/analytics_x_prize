@@ -1,4 +1,4 @@
-models <- c(1, 2, 3, 4)
+models <- 1:5
 
 performance <- data.frame(Model = models)
 performance$RMSE <- rep(NA, nrow(performance))
