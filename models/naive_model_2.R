@@ -8,7 +8,7 @@ for (i in 1:nrow(predicted.homicides))
 {
   zipcode <- predicted.homicides[i,'Zipcode']
   data.subset <- subset(homicides, Zipcode == zipcode)
-  weights <- 1 / (target.year - data.subset$Year)
+  weights <- 1 / (target[['target']] - data.subset$Year)
   prediction <- sum(weights * data.subset$Probability) / sum(weights)
   predicted.homicides[i,'Probability'] <- prediction
 }
