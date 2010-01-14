@@ -1,0 +1,5 @@
+tables:
+  - "everyblock_crimes"
+  - "homicides"
+  - "locations_zip"
+  - "pooled_crimes"

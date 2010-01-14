@@ -1,9 +1,5 @@
 #!/usr/bin/Rscipt
 
-source('library/load_config.R')
-source('library/load_data.R')
-source('library/utilities.R')
-
 for (i in 1:nrow(predicted.homicides))
 {
   zipcode <- predicted.homicides[i,'Zipcode']

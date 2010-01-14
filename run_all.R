@@ -1,3 +1,5 @@
+source('library/boot.R')
+
 source('models/naive_model_1.R')
 source('models/naive_model_2.R')
 source('models/naive_model_3.R')

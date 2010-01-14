@@ -1,9 +1,5 @@
 #!/usr/bin/Rscipt
 
-source('library/load_config.R')
-source('library/load_data.R')
-source('library/utilities.R')
-
 last.year <- with(homicides, max(Year))
 
 for (i in 1:nrow(predicted.homicides))

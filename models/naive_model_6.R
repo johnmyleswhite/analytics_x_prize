@@ -1,11 +1,5 @@
 #!/usr/bin/Rscipt
 
-source('library/load_config.R')
-source('library/load_data.R')
-source('library/utilities.R')
-
-library('lme4')
-
 model.fit <- lmer(Probability ~ (1 + Year | Zipcode), data = homicides)
 
 for (i in 1:nrow(predicted.homicides))
