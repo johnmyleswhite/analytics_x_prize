@@ -133,13 +133,14 @@ def main():
     for data in crime_data.values():
 
         newdate = parse_date(data['date'], data['disp_time'])    
-        c.execute("insert or replace into everyblock_crimes (id,crime_type,crime_desc,location,date,zip) values (?,?,?,?,?,?)", 
+        c.execute("insert or replace into everyblock_crimes (id,crime_type,crime_desc,location,date,zip, is_violent) values (?,?,?,?,?,?,?)", 
                   (data['id'],
                   data['crime_type'],
                   data['crime_desc'],
                   data['location'],
                   newdate,
-                  data['zip']))
+                  data['zip'],
+                  is_violent(data['crime_type'])))
 
     conn.commit()
     c.close()
