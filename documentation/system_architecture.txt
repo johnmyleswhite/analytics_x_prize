@@ -1,0 +1,23 @@
+Ideally, I think we want to build a system for training, testing and deriving predictions from our team's models with all of the following minimal characteristics:
+
+(1) We want to be able to globally configure the training and test data years for all models.
+
+(2) We want to have all of our models receive the same data in a canonical set of data frames, so that they can decide what to do with it without cluttering model-level code with data import statements.
+
+(3) We want all models to make predictions at the level required by the prize rules.
+
+(4) We want to test all models by computing their RMSE on specific testing years.
+
+(5) We want to automatically submit our best model's predictions at the start of each day.
+
+For now, I'm approaching these issues as follows:
+
+(1) & (2) The test data is defined by a target year for which predictions are going to be made. This year is now set in `config/target.yml`. Given this year, the code in `library/load_data.R` loads all of the data for years below this year from `input_data/training_data.csv`. In the future, `load_data.R` should be changed to load data from the SQLite database.
+
+(3) All models generate a `predicted.homicides` data frame that is dumped out using the `write.data()` function from `library/utilities.R`.
+
+(4) All models are tested by `test_models.R` and the results are dumped to `rmse.csv`.
+
+(5) There's no automatic submissions, as I understand that Drew would like to be in charge of team submissions.
+
+-- John
