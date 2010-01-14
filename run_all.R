@@ -3,6 +3,6 @@ source('models/naive_model_2.R')
 source('models/naive_model_3.R')
 source('models/naive_model_4.R')
 source('models/naive_model_5.R')
-#source('models/naive_model_6.R')
+source('models/naive_model_6.R')
 
 source('test_models.R')
