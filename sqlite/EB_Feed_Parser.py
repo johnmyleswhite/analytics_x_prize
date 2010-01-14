@@ -53,6 +53,14 @@ def parse_date(dispatch_date, dispatch_time):
 
     return newdate
 
+def is_violent(crime_type):
+# Check if crime report is violent
+    ct=crime_type.lower()
+    if ct.find("assault")>-1 or ct.find("rape")>-1 or ct.find("homicide")>-1:
+        return 1
+    else:
+        return 0
+
 def main():
     # List of all Philadelphia zip codes
     zips=(19102,19103,19104,19106,19107,19111,19112,19114,19115,19116,19118,19119,19120,19121,19122,19123,19124,19125,19126,19127,19128,19129,19130,19131,19132,19133,19134,19135,19136,19137,19138,19139,19140,19141,19142,19143,19144,19145,19146,19147,19148,19149,19150,19151,19152,19153,19154)
@@ -62,7 +70,7 @@ def main():
     
     # Record keeping
     entry=0
-    col_names=['id','crime_type','crime_desc','location','disp_time','date','zip']
+    col_names=['id','crime_type','crime_desc','location','disp_time','date','zip','violent']
     
     # Collect data on all zips
     for z in zips:
@@ -76,7 +84,13 @@ def main():
             for r in reports:
                 crime_data[entry]=dict.fromkeys(col_names)
                 crime_data[entry]['id']=base_id
-                crime_data[entry]["crime_type"]=r.find("strong","crimetype regrouper").contents[0]
+                # Get general crime type
+                crime_type=r.find("strong","crimetype regrouper").contents[0]
+                # Check if it is a violent crime
+                violent=is_violent(crime_type)
+                crime_data[entry]["violent"]=violent
+                crime_data[entry]["crime_type"]=crime_type
+                # Get detail on crime
                 crime_data[entry]["crime_desc"]=r.find("a","url").contents[0]
                 
                 # use the last part of the everyblock detail URL as the ID
