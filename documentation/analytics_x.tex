@@ -21,11 +21,13 @@ At a minimum, it is safe to assume that we must start with the empirical proport
 \caption{Historical Homicide Data}
 \begin{center}
 \begin{tabular}{|c|c|c|}
+\hline
 Zip & Year & Probability \\
 \hline
 11911 & 2009 & 0.5 \\
 $\ldots$ & $\ldots$ & $\ldots$ \\
 11911 & 2007 & 0.5 \\
+\hline
 \end{tabular}
 \end{center}
 \label{default}
@@ -56,9 +58,23 @@ modulo a normalization to insure that the resulting values are actual probabilit
 \[
 p(H | Z, Y) = \frac{\alpha_{Z} + \beta_{Z} Y}{\sum_{Z \in D} \alpha_{Z} + \beta_{Z} Y}
 \]
+These linear models are fit separately within each zipcode, which can lead to overfitting.
 
 \subsection{Naive Model 4}
-Building upon this simple linear model, we can further assume that the $\alpha_Z$'s and $\beta_Z$'s are normally distributed and construct a hierarchical regression model of the sort described in Gelman and Hill's ARM textbook:
+A better linear model is to fit using all of the training data, by including dummy variables for each zipcode:
+\[
+p(H | Z, Y) = \alpha_{Z} + \beta Y.
+\]
+In the process, we abandon varying slopes for the year regressor.
+
+\subsection{Naive Model 5}
+Still better is to fit using all of the training data, including dummy variables for each zipcode and interacting them with the year variable to get specific slopes for each zipcode:
+\[
+p(H | Z, Y) = \alpha_{Z} + \beta_{Z} Y.
+\]
+
+\subsection{Naive Model 6}
+Building upon the previous simple linear models, we can further assume that the $\alpha_Z$'s and $\beta_Z$'s are normally distributed and construct a hierarchical regression model of the sort described in Gelman and Hill's ARM textbook:
 \[
 p(H | Z, Y) = \frac{\alpha_{Z} + \beta_{Z} Y}{\sum_{Z \in D} \alpha_{Z} + \beta_{Z} Y}
 \]
@@ -70,6 +86,29 @@ p(H | Z, Y) = \frac{\alpha_{Z} + \beta_{Z} Y}{\sum_{Z \in D} \alpha_{Z} + \beta_
 \[
 \beta_{Z} ~ N(\mu, \sigma)
 \]
+This solves some of the overfitting of the earlier models.
+
+\subsection{Naive Model 7}
+Here is the simplest model that I can think of that uses something like k-nearest neighbors to generate predictions. We use Drew's graph distance metric as a distance between two zipcodes, $z_{1}$ and $z_{2}$, as a function $\delta(z_{1}, z_{2})$. With this distance metric, we generate weights as follows:
+\[
+w(z_{1}, z_{2}) = \frac{1}{1 + \delta(z_{1}, z_{2})}
+\]
+With these weights we generate predictions as,
+\[
+p(H | Z_{i}, Y = T) = \frac{\sum_{j = 1}^{47} w(z_{i}, z_{j}) p(H | Z_{i}, Y = T - 1)}{\sum_{j = 1}^{47} w(z_{i}, z_{j})}
+\]
+modulo a possibly required normalization.
+
+Once this works, we can improve it by using optimization techniques to select a function over $\delta$ that weights the distances more heavily:
+\[
+w(z_{1}, z_{2}) = \frac{1}{1 + f(\delta(z_{1}, z_{2}))}
+\]
+Taking $f(\delta) = \delta^a$ for an $a$ fitted by least squares would be the easiest approach.
+
+Afterwards, we can try pooling historical data in lieu of the previous year's data as the inputs for weighting.
+
+\subsection{Ensemble Technique}
+Once you predictions from a series of models, you can pool them using ridge regression to get a better prediction.
 
 \subsection{Real Models}
 Beyond this, it is clear that we can use external predictors variables for each zipcode, such as the average income in the zipcode, as well as year level predictors. Moreover, non-linear models such a k-nearest neighbors might easily be used. Finally, Drew has suggested using spatial regression, which, from what little I know, might be a substantial improvement over k-nearest neighbors while employing a similar pooling of data across neighboring zipcodes (modulo a metric space definition for our data set).
