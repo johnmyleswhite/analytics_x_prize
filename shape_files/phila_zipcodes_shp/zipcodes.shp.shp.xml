@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>City Planning Commission (PCPC) Department - GIS Division</origin>
+				<pubdate>2003</pubdate>
+				<title>STREETS:ZIP Codes</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Philadelphia , PA</pubplace>
+					<publish>City Planning Commission (PCPC) Department - GIS Division</publish>
+				</pubinfo>
+				<onlink>phila-zipcodes</onlink>
+				<ftname Sync="TRUE">zipcodes</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Boundaries of USPS 5 digit address enhancement system.</abstract>
+			<purpose>To illustrate zipcode boundaries in Philadelphia.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>Unknown</caldate>
+					<time>Unknown</time>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-75.28</westbc>
+				<eastbc>-74.96</eastbc>
+				<northbc>40.14</northbc>
+				<southbc>39.87</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">2660575.000000</leftbc><rightbc Sync="TRUE">2750112.750000</rightbc><bottombc Sync="TRUE">204651.046875</bottombc><topbc Sync="TRUE">304942.437500</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>City of Philadelphia</themekt>
+				<themekey>zip code</themekey>
+				<themekey>boundary</themekey>
+			</theme>
+			<place>
+				<placekt>City of Philadelphia</placekt>
+				<placekey>Philadelphia</placekey>
+			</place>
+		</keywords>
+		<accconst>You must agree to the disclaimer and all other terms provided below prior to downloading City of Philadelphia GIS data.</accconst>
+		<useconst>The City of Philadelphia makes no warranty or representation, expressed or implied, with respect to the quality, content, accuracy, completeness, currency, or non-infringement of proprietary rights, of any of the GIS or other data or information, or any other materials and items, that are displayed or made available for download from the Pennsylvania Spatial Data Access (PASDA) Internet site.  All such data, information, items and materials (collectively, the City GIS Data) are provided on an "as is" basis, and you are fully and solely responsible for your use of them and for any results or consequences of your use.  They have been created from a variety of sources, including sources beyond the control of the City of Philadelphia, and are subject to change without notice from the City of Philadelphia.  Users should be aware that the parcel dataset was created from the Philadelphia City Planning Commission's base maps and has not been updated since 1992.  To the extent you use, apply, add to, modify or implement this information in your own information system or other setting, or otherwise for your own purposes, you do so at your own risk.  In no event shall the City of Philadelphia or its agencies, officers, employees, agents, or representatives be liable for any damages of any kind or nature whatsoever arising from your downloading, modifying, sharing, distributing, or using of City GIS Data, including, but not limited to, direct, indirect, special, punitive, incidental, exemplary or consequential damages, even if notified of the possibility of such damages.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Paul Reisner</cntper>
+					<cntorg>Streets Department - Transportation</cntorg>
+				</cntperp>
+				<cntpos>GIS Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>Philadelphia Streets Department, 1401 JFK Blvd. Room 900</address>
+					<city>Philadelphia</city>
+					<state>PA</state>
+					<postal>19102</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>(215) 686-5071</cntvoice>
+				<cntemail>paul.reisner@phila.gov</cntemail>
+				<hours>7:30 am - 5:00 pm</hours>
+			</cntinfo>
+		</ptcontac>
+		<native>ArcInfo coverage (.PAT and .AAT) on Streets' Phoenix GIS server</native>
+		<natvform Sync="TRUE">ArcInfo Coverage</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>ZIPCODE was poplated using the USPS.com information.</attraccr>
+		</attracc>
+		<logic>This layer was created with the assistance of Steve Rose at the USPS Data Management Office at the 30th Street Post Office in Philadelphia.  Arcs were selected from the City's GIS composite layer to formulate the zipcode boundaries. Data used for verification of arc selection were (the geocoded) BRT data and the USPS Zipcode information found at USPS.com. The City's former zipcode layer was also used as a geographic reference.</logic>
+		<complete>Citywide</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Features are accurate as per their positional accuracy. For example, streets are positionally placed to the middle third of the cartway.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdesc>PCPC zip code layer was used as a geographic reference. The geocoded BRT data also has zipcode information. Each zip code boundary was identified and boundary arcs were verified using the addresses and zipcodes found in the USPS information at USPS.com</procdesc>
+				<procdate>Unknown</procdate>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">\\Orser52\cxp7\cut\xml\zipcodes.xml</srcused><date Sync="TRUE">20031009</date><time Sync="TRUE">12593600</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="arc">
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>47</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="label">
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>47</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="polygon">
+				<sdtstype>Node, planar graph</sdtstype>
+				<ptvctcnt>2100</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="node">
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt>4</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="arc"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Arc</efeageom><esritopo Sync="TRUE">TRUE</esritopo><efeacnt Sync="TRUE">2146</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="label"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Label</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">47</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="polygon"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">TRUE</esritopo><efeacnt Sync="TRUE">47</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="node"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Node</efeageom><esritopo Sync="TRUE">TRUE</esritopo><efeacnt Sync="TRUE">2100</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="tic"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Tic</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">4</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="tic"><sdtstype Sync="TRUE">Point</sdtstype><ptvctcnt Sync="TRUE">4</ptvctcnt></sdtsterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137</semiaxis>
+				<denflat>298.257</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_StatePlane_Pennsylvania_South_FIPS_3702_Feet</projcsn></cordsysn><planar><gridsys><gridsysn Sync="TRUE">State Plane Coordinate System 1983</gridsysn><spcs><spcszone Sync="TRUE">3702</spcszone><lambertc><stdparll Sync="TRUE">39.933333</stdparll><stdparll Sync="TRUE">40.966667</stdparll><longcm Sync="TRUE">-77.750000</longcm><latprjo Sync="TRUE">39.333333</latprjo><feast Sync="TRUE">1968500.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></spcs></gridsys><planci><plance Sync="TRUE">coordinate pair</plance><plandu Sync="TRUE">survey feet</plandu><coordrep><absres Sync="TRUE">0.000256</absres><ordres Sync="TRUE">0.000256</ordres></coordrep></planci></planar></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="zipcodes.aat">
+			<enttyp>
+				<enttypl>ZIPCODE.PAT</enttypl>
+				<enttypd>5 digit zipcode of polygon in numeric format</enttypd>
+				<enttypds>Streets_Dept: Transportation GIS Unit</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">2146</enttypc></enttyp>
+			<attr>
+				<attrlabl>ZIPCODE</attrlabl>
+				<attrdef>ZIP Code; Type (I), Width (5), Precision (unknown)</attrdef>
+				<attrdefs>Streets_Dept: Transportation GIS Unit</attrdefs>
+				<attrdomv>
+					<udom>All of the zipcodes found in citywide polygons</udom>
+				</attrdomv>
+				<begdatea>20020101</begdatea>
+				<enddatea>20020831</enddatea>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>FNODE#</attrlabl>
+				<attrdef>Internal node number for the beginning of an arc (from-node).</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>TNODE#</attrlabl>
+				<attrdef>Internal node number for the end of an arc (to-node).</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>LPOLY#</attrlabl>
+				<attrdef>Internal node number for the left polygon.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>RPOLY#</attrlabl>
+				<attrdef>Internal node number for the right polygon.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>LENGTH</attrlabl>
+				<attrdef>Length of feature in internal units.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>ZIPCODES#</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>ZIPCODES-ID</attrlabl>
+				<attrdef>User-defined feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>F_NAME</attrlabl>
+				<attwidth Sync="TRUE">30</attwidth><atoutwid Sync="TRUE">30</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr>
+			<attr>
+				<attrlabl>ST_CODE</attrlabl>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>SEG_ID</attrlabl>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">7</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>F_SOURCE</attrlabl>
+				<attwidth Sync="TRUE">1</attwidth><atoutwid Sync="TRUE">1</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr>
+			<attr>
+				<attrlabl>BORDER</attrlabl>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">1</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>ZIP</attrlabl>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">1</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>ZIPCODE</attrlabl>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>SIDE</attrlabl>
+				<attwidth Sync="TRUE">5</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr>
+		</detailed>
+		<detailed Name="zipcodes.pat">
+			<enttyp>
+				<enttypl>ZIPCODES.AAT</enttypl>
+				<enttypd>Specific definition of polygon boundaries</enttypd>
+				<enttypds></enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">47</enttypc></enttyp>
+			<attr>
+				<attrlabl>BORDER</attrlabl>
+				<attrdef>Field populated with a 1 if arc is a border of the city boundary</attrdef>
+				<attrdefs></attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv></edomv>
+						<edomvd></edomvd>
+						<edomvds></edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>F_NAME</attrlabl>
+				<attrdef>Feature Name. If Street Name, then F_NAME taken from street centerline file. Various water names from HYDRO layer. Otherwise, could be blank</attrdef>
+				<attrdefs></attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv></edomv>
+						<edomvd></edomvd>
+						<edomvds></edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>F_SOURCE</attrlabl>
+				<attrdef>Feature_Source: Either Street (S), Rail (R), Hydro (H), or Other (O)</attrdef>
+				<attrdefs></attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv></edomv>
+						<edomvd></edomvd>
+						<edomvds></edomvds>
+					</edom>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>SEG_ID</attrlabl>
+				<attrdef>If feature is street, then unique seg_id from street centerline file</attrdef>
+				<attrdefs></attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv></edomv>
+						<edomvd></edomvd>
+						<edomvds></edomvds>
+					</edom>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>ST_CODE</attrlabl>
+				<attrdef>If feature source is a street, then ST_CODE is populated from street centerline file</attrdef>
+				<attrdefs></attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv></edomv>
+						<edomvd></edomvd>
+						<edomvds></edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>ZIPCODE</attrlabl>
+				<attrdef>If both sides of the arc are in the same zipcode, then this field is populated with that zipcode. If populated with a 0, then the arc geographically splits the zipcodes on either side of the arc.</attrdef>
+				<attrdefs></attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv></edomv>
+						<edomvd></edomvd>
+						<edomvds></edomvds>
+					</edom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>ZIPCODE</attrlabl>
+				<attwidth Sync="TRUE">5</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Integer</attrtype></attr>
+		</detailed>
+		<detailed Name="zipcodes.nat">
+			<enttyp>
+				<enttypl>zipcodes.nat</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">2100</enttypc></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>ARC#</attrlabl>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>ZIPCODES#</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>ZIPCODES-ID</attrlabl>
+				<attrdef>User-defined feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+		</detailed>
+		<overview>
+			<eaover>Polygon attributes: ZIPCODE</eaover>
+			<eadetcit></eadetcit>
+		</overview>
+		<overview>
+			<eaover>Arc attributes: FNAME, ST_CODE, SEG_ID, F_SOURCE, BORDER, ZIPCODE</eaover>
+			<eadetcit></eadetcit>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Pennsylvania Spatial Data Access (PASDA)</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>Land and Water Building</address>
+					<city>University Park</city>
+					<state>PA</state>
+					<postal>16802</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntemail>pasda@psu.edu</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>PCPC Zipcodes</resdesc>
+		<distliab>The USER shall indemnify, save harmless, and, if requested, defend those parties involved with the development and distribution of this data, their officers, agents, and employees from and against any suits, claims, or actions for injury, death, or property damage arising out of the use of or any defect in the FILES or any accompanying documentation. Those parties involved with the development and distribution excluded any and all implied warranties, including warranties or merchantability and fitness for a particular purpose and makes no warranty or representation, either express or implied, with respect to the FILES or accompanying documentation, including its quality, performance, merchantability, or fitness for a particular purpose. The FILES and documentation are provided "as is" and the USER assumes the entire risk as to its quality and performance. Those parties involved with the development and distribution of this data will not be liable for any direct, indirect, special, incidental, or consequential damages arising out of the use or inability to use the FILES or any accompanying documentation.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Coverage or Shape-file</formname>
+					<transize Sync="TRUE">0.419</transize><dssize Sync="TRUE">0.419</dssize></digtinfo>
+			</digform>
+			<fees>none</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20020831</metd>
+		<metrd>20031009</metrd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Paul Reisner</cntper>
+					<cntorg>Streets Department - Transportation</cntorg>
+				</cntperp>
+				<cntpos>GIS Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>Philadelphia Streets Department, 1401 JFK Blvd. Room 900</address>
+					<city>Philadelphia</city>
+					<state>PA</state>
+					<postal>19102</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>(215) 686-5071</cntvoice>
+				<cntemail>paul.reisner@phila.gov</cntemail>
+				<hours>7:30 am - 5:00 pm</hours>
+				<cntorgp><cntper>REQUIRED: The person responsible for the metadata information.</cntper><cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg></cntorgp></cntinfo>
+		</metc>
+		<metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{40D5BDF1-7DD6-4A66-BCF7-4A693609B7EB}</MetaID><CreaDate>20031009</CreaDate><CreaTime>12593600</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20031009</SyncDate><SyncTime>13003600</SyncTime><ModDate>20031009</ModDate><ModTime>13003600</ModTime></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 8.3.0.800</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">zipcodes</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">2660575</westBL><eastBL Sync="TRUE">2750112.75</eastBL><northBL Sync="TRUE">304942.4375</northBL><southBL Sync="TRUE">204651.046875</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-75.284167</westBL><eastBL Sync="TRUE">-74.954039</eastBL><northBL Sync="TRUE">40.143797</northBL><southBL Sync="TRUE">39.861288</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\ORSER55\U$\work\phila\covers\zipcodes</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.419</transSize></distorTran><distorFormat><formatName Sync="TRUE">ArcInfo Coverage</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_StatePlane_Pennsylvania_South_FIPS_3702_Feet</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="004"></TopoLevCd></topLvl><geometObjs Name="arc"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="003"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">2146</geoObjCnt></geometObjs><geometObjs Name="label"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">47</geoObjCnt></geometObjs><geometObjs Name="polygon"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="002"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">47</geoObjCnt></geometObjs><geometObjs Name="node"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">2100</geoObjCnt></geometObjs><geometObjs Name="tic"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20031009</mdDateSt></metadata>
