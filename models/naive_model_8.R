@@ -1,14 +1,12 @@
 # File-Name:       naive_model_8.R                 
 # Date:            2010-01-19                                
 # Author:          Drew Conway                                       
-# Purpose:         Use a SAR model specification to predict 
+# Purpose:         Use a SAR model specification to predict homicides from 2009 data
 # Data Used:       homicides
 # Packages Used:   spdep
 # Output File:     
 # Data Output:     
 # Machine:         Drew Conway's MacBook                         
-                                                                    
-library(spdep)
 
 # Load shapefile of Philadelphia zips
 prj<-CRS("+proj=utm +zone=30 +units=km")
@@ -16,6 +14,9 @@ shape.data<-readShapeSpatial("shape_files/phila_zipcodes_shp/zipcodes.shp", ID="
 
 # Load homicide data from previous year
 homicide.2009<-subset(master.datasets[["homicides"]],master.datasets[["homicides"]]$datetime>=2009)
+
+# Load homicde data from this year, plus violent crimes
+eb.data<-master.datasets[["everyblock_crimes"]]
 
 # Create new data frame that matches raw homicide counts to zip codes
 raw.homicides<-cbind(sapply(levels(homicides$Zipcode),function(x) nrow(subset(homicide.2009,homicide.2009$zip==x))))
@@ -48,6 +49,3 @@ rownames(predicted.homicides)<-1:length(shape.data$ZIPCODE)
 
 # Output the data
 write.data(predicted.homicides, 'naive_model_8')
-
-
-
