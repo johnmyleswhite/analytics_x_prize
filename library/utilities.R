@@ -16,3 +16,9 @@ db.escape <- function(name)
 {
   return(paste('`', name, '`', sep = ''))
 }
+
+load.model.predictions <- function(model.number)
+{
+  filename <- paste('predictions/', 'naive_model_', model.number, '_predictions.csv', sep = '')
+  return(read.csv(filename, header = TRUE, sep = '\t'))
+}
