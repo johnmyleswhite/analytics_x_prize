@@ -45,19 +45,19 @@ phi.lw<-nb2listw(phi.nb,style="B")    # Create list of weight
 lag.sar<-lagsarlm(Homicides ~ Violent + Non.Violent, shape.data,phi.lw)
 lag.pred<-predict.sarlm(lag.sar)
 pred.lag<-cbind(lag.pred[names(lag.pred)])
-pred.lag<-pred.lag+abs(min(pred.lag)) 
+if(min(pred.lag)<0) pred.lag<-pred.lag+abs(min(pred.lag)) 
 
 # Create a error-SAR using spatial weights, and predict homicides
 err.sar<-errorsarlm(Homicides ~ Violent + Non.Violent, shape.data,phi.lw)
 err.pred<-predict.sarlm(err.sar)
 pred.err<-cbind(err.pred[names(err.pred)])
-pred.err<-pred.err+abs(min(pred.err)) 
+if(min(pred.err)<0) pred.err<-pred.err+abs(min(pred.err)) 
 
 # Create a mixed-SAR using spatial weights, and predict homicides
 mix.sar<-lagsarlm(Homicides ~ Violent + Non.Violent, shape.data,phi.lw,type="mixed")
 mix.pred<-predict.sarlm(mix.sar)
 pred.mix<-cbind(mix.pred[names(mix.pred)])
-pred.mix<-pred.mix+abs(min(pred.mix)) 
+if(min(pred.mix)<0) pred.mix<-pred.mix+abs(min(pred.mix)) 
 
 # NOTE: Due to such small N on homicides (4 total), the models are actually predicting
 # negaitive numbers for several zip codes.  I use a simple affine transformation whereby
