@@ -3,3 +3,4 @@ tables:
   - "homicides"
   - "locations_zip"
   - "pooled_crimes"
+  - "rsallo_data"
