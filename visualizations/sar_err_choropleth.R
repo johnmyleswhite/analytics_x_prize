@@ -46,6 +46,6 @@ shape.data@data$Probability<-as.numeric(predicted.homicides[,3])
 # Create col.vec from blue to red, and save image
 most.recent<-strsplit(max(eb.data$date)," ")[[1]][1]
 heat.breaks<-hist(shape.data$Probability,plot=FALSE)$breaks
-png(paste("visualizations/",most.recent,"sar_err_heatmap.png",sep=""),width=800,height=800)
+png(paste("visualizations/",most.recent,"_errSAR_heatmap.png",sep=""),width=800,height=800)
 plot.heat(shape.data,shape.data,z="Probability",breaks=heat.breaks,col.vec=rev(heat.colors(length(heat.breaks))))
 dev.off()
