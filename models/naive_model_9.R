@@ -29,10 +29,27 @@ violent.2010<-subset(eb.data,eb.data$is_violent>0)
 violent.all<-cbind(sapply(zips,function(x) nrow(subset(violent.2010,violent.2010$zip==x))))
 violent.crimes<-violent.all-homicides
 
-# Get non-violent crimes and add all to data frame
+# Get non-violent crimes
 other.2010<-subset(eb.data,eb.data$is_violent<1)
 other<-cbind(sapply(zips,function(x) nrow(subset(other.2010,other.2010$zip==x))))
-data.2010<-transform(data.2010,Violent=violent.crimes,Non.Violent=other)
+
+# Add dummies for zip codes that contain a water border
+deleware<-as.character(c(14,36,35,37,34,25,23,06,47,48,12,53)) # E. Philly border on DE River
+schuykill.w<-as.character(c(53,43,04,31)) # West side of Schuykill River
+schuykill.e<-as.character(c(12,45,46,03,30,21,32,29,27,28)) # East side
+river.list<-list(deleware,schuykill.e,schuykill.w)
+river.zips<-lapply(river.list,function(x) paste("191",x,sep=""))
+
+de.dummy<-rep(0,length(zips))
+se.dummy<-rep(0,length(zips))
+sw.dummy<-rep(0,length(zips))
+
+de.dummy[match(river.zips[[1]],zips)]<-1
+se.dummy[match(river.zips[[2]],zips)]<-1
+sw.dummy[match(river.zips[[3]],zips)]<-1
+
+# Now add all the data
+data.2010<-transform(data.2010,Violent=violent.crimes,Non.Violent=other,DE.Dummy=de.dummy,SE.Dummy=se.dummy,SW.Dummy=sw.dummy)
 
 # Bind variables to shape data
 shape.data<-spCbind(shape.data,data.2010)
@@ -43,23 +60,29 @@ phi.lw<-nb2listw(phi.nb,style="B")    # Create list of weight
 
 # Create a lagged-SAR using spatial weights, and predict homicides
 lag.sar<-lagsarlm(Homicides ~ Violent + Non.Violent, shape.data,phi.lw)
+summary(lag.sar)
 lag.pred<-predict.sarlm(lag.sar)
 pred.lag<-cbind(lag.pred[names(lag.pred)])
 if(min(pred.lag)<0) pred.lag<-pred.lag+abs(min(pred.lag)) 
 
-# Create a error-SAR using spatial weights, and predict homicides
+# Create a error-SAR using spatial weights, and predict homicides,
+# Inlcude new model with dummies for water borders (er.ar.r)
+err.sar.r<-errorsarlm(Homicides ~ Violent + Non.Violent + DE.Dummy + SE.Dummy + SW.Dummy, shape.data,phi.lw)
 err.sar<-errorsarlm(Homicides ~ Violent + Non.Violent, shape.data,phi.lw)
+# summary(err.sar)
+# summary(err.sar.r)
 err.pred<-predict.sarlm(err.sar)
 pred.err<-cbind(err.pred[names(err.pred)])
 if(min(pred.err)<0) pred.err<-pred.err+abs(min(pred.err)) 
 
 # Create a mixed-SAR using spatial weights, and predict homicides
 mix.sar<-lagsarlm(Homicides ~ Violent + Non.Violent, shape.data,phi.lw,type="mixed")
+summary(mix.sar)
 mix.pred<-predict.sarlm(mix.sar)
 pred.mix<-cbind(mix.pred[names(mix.pred)])
 if(min(pred.mix)<0) pred.mix<-pred.mix+abs(min(pred.mix)) 
 
-# NOTE: Due to such small N on homicides (4 total), the models are actually predicting
+# NOTE: Due to current small N on homicides, the models are actually predicting
 # negaitive numbers for several zip codes.  I use a simple affine transformation whereby
 # all predicted values have the minimum prdicted value added to them. This is a BAD fix, 
 # but so far all I could think of.  I welcome other ideas.
