@@ -126,25 +126,32 @@ def main():
     
     #write out to the sqlitedb
     dbname="analyticsx.db"
-    conn = sqlite3.connect("analyticsx.db")
-    
+    conn = sqlite3.connect(dbname)
+
+    print "Beginning database operations to " + dbname
+     
     c = conn.cursor()
     
     for data in crime_data.values():
 
-        newdate = parse_date(data['date'], data['disp_time'])    
-        c.execute("insert or replace into everyblock_crimes (id,crime_type,crime_desc,location,date,zip, is_violent) values (?,?,?,?,?,?,?)", 
-                  (data['id'],
-                  data['crime_type'],
-                  data['crime_desc'],
-                  data['location'],
-                  newdate,
-                  data['zip'],
-                  is_violent(data['crime_type'])))
-
+        try:
+            newdate = parse_date(data['date'], data['disp_time'])    
+            c.execute("insert or replace into everyblock_crimes (id,crime_type,crime_desc,location,date,zip, is_violent) values (?,?,?,?,?,?,?)", 
+                      (data['id'],
+                      data['crime_type'],
+                      data['crime_desc'],
+                      data['location'],
+                      newdate,
+                      data['zip'],
+                      is_violent(data['crime_type'])))
+        except:
+            print "Could not write id %s:%s, %s"% (data['id'], data['crime_desc'],data['location'])
+    
     conn.commit()
     c.close()
 
+    print "Completed database operations."
+    
 if __name__ == '__main__':
     main()
 
