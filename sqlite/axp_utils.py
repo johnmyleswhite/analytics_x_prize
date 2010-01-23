@@ -94,6 +94,8 @@ class GeoData:
         """
         try:
             street_address = "".join(street_address)
+            street_address = street_address.replace("BLOCK","")
+            street_address = street_address.replace("  "," ")
         except:
             pass
         #validate the parameters
@@ -106,7 +108,7 @@ class GeoData:
             city = "Philadelphia"
         
         #reset member variables, we dont want lingering zip/long/lat values    
-        self.address = street_address
+        self.address = None
         self.longitude = None
         self.latitude = None
         self.zip = None
@@ -119,12 +121,12 @@ class GeoData:
             'city' : city,
             'state' : state }
         url = url + urllib.urlencode(geoparams)    
-        self.geoinfo.clear()
-        
+
         #if we havent reached our limit yet
         if self.retries > 0:
             try:
                 #print "opening " + url
+                print "geocoding address: " + street_address
                 self.retries = self.retries - 1
                 self.xml = urllib2.urlopen(url).read()
             except urllib2.HTTPError, e:
@@ -136,6 +138,7 @@ class GeoData:
                 print "Network error: %s" % e.reason.args[1]
                 return False
         
+            print "START XML:%s:END XML"%self.xml
             #TODO: Add some error checking here to parse result tag
             self.parser = xml.parsers.expat.ParserCreate()
             self.parser.StartElementHandler = self.geocode_start_handler
@@ -167,11 +170,6 @@ class GeoData:
         
         if self.geoinfo['results'] == 1 and self.geoinfo['precision'] == "address":
             return True
-        elif street_address.find("BLOCK") != -1:
-            #edit the address and try again
-            street_address = street_address.replace("BLOCK","")
-            print "street address is now: " + street_address
-            return self.geocode_address(street_address, city, state)
         elif self.retries <= 0:
             return False  #fail silently, we expect this to happen a lot
         else:
@@ -213,7 +211,7 @@ class GeoData:
 
 class PhilaCrimeParser:
     url = None
-    dbname="analyticsx.db"
+    dbname="philapd.db"
     conn = None
     geocoder = GeoData()
     
@@ -367,24 +365,24 @@ class PhilaCrimeParser:
     def geocode_and_import(self):
         #loop through the location values without info
         c = self.conn.cursor()
-        c.execute("select location from location_info where zip is null limit %d"%self.geocoder.retries)
+        c.execute("select location from location_info where precision <> 'address' limit %d"%self.geocoder.retries)
         emptylist = c.fetchall()
         for loc in emptylist:
             #fix them
             #lets geocode this mofo
-            self.geocoder.geocode_address(loc)
-            
-            geotuple = (self.geocoder.geoinfo['Latitude'],
-                                    self.geocoder.geoinfo['Longitude'],
-                                    self.geocoder.geoinfo['precision'],
-                                    self.geocoder.geoinfo['Zip'],
-                                    self.geocoder.geoinfo['PlusFour'],) + loc
-            sql = "update location_info set lat = '%s', long = '%s', precision = '%s', zip = '%s', plusfour = '%s' where location = '%s'"%geotuple
-            c.execute(sql)
-            print sql
-            print geotuple
-            sql = "update philapd_crimes set lat = '%s', long = '%s', address_precision = '%s', zip = '%s', plus_four = '%s' where location = '%s'"%geotuple
-            c.execute(sql)
+            if(self.geocoder.geocode_address(loc)):
+                #only save the data if we've got a correct return val
+                geotuple = (self.geocoder.geoinfo['Latitude'],
+                                        self.geocoder.geoinfo['Longitude'],
+                                        self.geocoder.geoinfo['precision'],
+                                        self.geocoder.geoinfo['Zip'],
+                                        self.geocoder.geoinfo['PlusFour'],) + loc
+                sql = "update location_info set lat = '%s', long = '%s', precision = '%s', zip = '%s', plusfour = '%s' where location = '%s'"%geotuple
+                c.execute(sql)
+                print sql
+                print geotuple
+                sql = "update philapd_crimes set lat = '%s', long = '%s', address_precision = '%s', zip = '%s', plus_four = '%s' where location = '%s'"%geotuple
+                c.execute(sql)
         self.conn.commit()
         c.close()
 
@@ -417,6 +415,8 @@ def main(argv=None):
                       help = "import or reimport the file given by police_filename")
     parser.add_option("-g", "--geocode",
                       action="store_true", dest="geocode", help="Geocode empty locations")
+    parser.add_option("-n", "--geocodelimit",
+                      dest="num_geocode_tries", help="How many times we're allowed to hit the geocoding APIs this session")
     
     (options, args) = parser.parse_args()
     
@@ -442,6 +442,13 @@ def main(argv=None):
     if options.geocode:
         did_something = True
         t = PhilaCrimeParser()
+        if options.num_geocode_tries:
+            try:
+                t.geocoder.retries = int(options.num_geocode_tries)
+                print "Geocoding %d locations."%t.geocoder.retries 
+            except ValueError:
+                print "Could not set geocode retries to " + options.num_geocode_tries + ".  exiting."
+                return 2
         t.geocode_and_import()
         print "finished geocoding"
         
