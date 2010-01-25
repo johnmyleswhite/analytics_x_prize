@@ -80,17 +80,13 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/1/21/742947/,Robbery,Robbery: Highway no weapon,1300 Block Foulkrod St,9:21 a.m.,"January 21, 2010",19124,0
 2010/1/21/743096/,Theft,Theft: Over $200: All others,2100 Block Simon St,8:34 p.m.,"January 21, 2010",19124,0
 2010/1/21/743296/,Vehicle theft,Vehicle theft: Recovered - for other jurisdiction,1300 Block Steinber St,5:59 p.m.,"January 21, 2010",19124,0
-2010/1/19/742519/,Aggravated assault,Aggravated assault: by handgun,1600 Block Lycoming St,9:50 p.m.,"January 19, 2010",19124,1
-2010/1/20/742515/,Robbery,Robbery: Highway by shotgun,5300 Block Hawthorne St,12:55 a.m.,"January 20, 2010",19124,0
 2010/1/22/743914/,Burglary,Burglary: Day; Force: Private residence,2300 Block Coral St,10:14 p.m.,"January 22, 2010",19125,0
 2010/1/22/743997/,Theft,Theft: $50 to $200: All others,2500 Block Tulip St,2:22 p.m.,"January 22, 2010",19125,0
 2010/1/22/744062/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,E Sergeant St  &amp;  Coral St,5:30 p.m.,"January 22, 2010",19125,0
 2010/1/20/743076/,Burglary,Burglary: Night; Force: Private residence,2300 Block E Harold St,12:22 p.m.,"January 20, 2010",19125,0
 2010/1/21/743108/,Theft,Theft: Over $200: Retail theft,2500 Block Aramingo Av,5:20 p.m.,"January 21, 2010",19125,0
 2010/1/21/743302/,Vehicle theft,Vehicle theft: Recovered - for other jurisdiction,2500 Block Aramingo Av,4:10 p.m.,"January 21, 2010",19125,0
-2010/1/20/742522/,Theft,Theft: Under $50: Retail theft,2500 Block Aramingo Av,1:31 a.m.,"January 20, 2010",19125,0
 2010/1/22/744064/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,6400 Block N Sydenham St,4:13 p.m.,"January 22, 2010",19126,0
-2010/1/19/742523/,Theft,"Theft: From vehicle: Non-accessories, over $200",6500 Block N 18th St,11:42 p.m.,"January 19, 2010",19126,0
 2010/1/22/743990/,Theft,Theft: $50 to $200: All others,100 Block Cotton St,3:31 p.m.,"January 22, 2010",19127,0
 2010/1/22/743883/,Robbery,Robbery: Force: $50 or more,400 Block Pensdale St,3:56 p.m.,"January 22, 2010",19128,0
 2010/1/22/744027/,Theft,"Theft: From vehicle: Non-accessories, over $200",5800 Block Magdalena St,10:11 a.m.,"January 22, 2010",19128,0
@@ -104,7 +100,6 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/1/19/743085/,Burglary,Burglary: Night; No Force: Private residence,800 Block N 29th St,8:41 p.m.,"January 19, 2010",19130,0
 2010/1/20/743186/,Theft,"Theft: From vehicle: Accessories, over $200",700 Block N 17th St,10:39 p.m.,"January 20, 2010",19130,0
 2010/1/20/743350/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,800 Block N 24th St,8:54 a.m.,"January 20, 2010",19130,0
-2010/1/20/742514/,Robbery,Robbery: Miscellaneous: By handgun,800 Block N Broad St,1:13 a.m.,"January 20, 2010",19130,0
 2010/1/22/743923/,Burglary,Burglary: Day; No Force: Private residence,5400 Block Euclid St,5:07 p.m.,"January 22, 2010",19131,0
 2010/1/22/743961/,Theft,Theft: Over $200: All others,1500 Block N 54th St ,6:58 p.m.,"January 22, 2010",19131,0
 2010/1/22/744061/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,2200 Block N Wanamaker St,6:12 p.m.,"January 22, 2010",19131,0
@@ -112,7 +107,6 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/1/20/743069/,Burglary,Burglary: Day; No Force: Other,4200 Block City Av,6:56 p.m.,"January 20, 2010",19131,0
 2010/1/21/743086/,Theft,"Theft: From vehicle: Non-accessories, over $200",N 55th St  &amp;  Media St,11:56 p.m.,"January 21, 2010",19131,0
 2010/1/21/743322/,Vehicle theft,Vehicle theft: Stolen/ recovered: Prior to report,600 Block N Creighton St,12:15 a.m.,"January 21, 2010",19131,0
-2010/1/19/742525/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,600 Block N Creighton St,11:14 p.m.,"January 19, 2010",19131,0
 2010/1/22/743929/,Burglary,Burglary: Day; No Force: Private residence,2500 Block N Stanley St,12:33 p.m.,"January 22, 2010",19132,0
 2010/1/22/743863/,Rape,Rape: Stranger,1500 Block W Oakdale St,2:56 a.m.,"January 22, 2010",19132,1
 2010/1/22/743870/,Robbery,Robbery: Highway no weapon,2500 Block N Marston St,9:43 p.m.,"January 22, 2010",19132,0
@@ -132,7 +126,6 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/1/20/742960/,Robbery,Robbery: Highway by handgun,1200 Block W Dauphin St,9:16 p.m.,"January 20, 2010",19133,0
 2010/1/21/743087/,Theft,"Theft: From vehicle: Accessories, over $200",2800 Block N 7th St,11:43 p.m.,"January 21, 2010",19133,0
 2010/1/21/743320/,Vehicle theft,Vehicle theft: Recovered - for other jurisdiction,200 Block W Lehigh Av,7:30 a.m.,"January 21, 2010",19133,0
-2010/1/20/742516/,Aggravated assault,Aggravated Assault: Other weapon,400 Block W Indiana St,12:46 a.m.,"January 20, 2010",19133,1
 2010/1/22/743908/,Aggravated assault,Aggravated Assault: Domestic: By handgun,100 Block E Westmoreland St,6:28 a.m.,"January 22, 2010",19134,1
 2010/1/22/743931/,Burglary,Burglary: Day; Force: Private residence,3000 Block Livingston St,11:16 a.m.,"January 22, 2010",19134,0
 2010/1/22/744007/,Theft,"Theft: From vehicle: Non-accessories, over $200",3200 Block Hurley St,12:46 p.m.,"January 22, 2010",19134,0
@@ -142,8 +135,6 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/1/21/742952/,Robbery,Robbery: Highway other weapon,3000 Block A St,1:11 a.m.,"January 21, 2010",19134,0
 2010/1/21/743124/,Theft,Theft: Under $50: Retail theft,1800 Block E Allegheny Av,3:15 p.m.,"January 21, 2010",19134,0
 2010/1/22/743290/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,2000 Block E Ontario St,12:01 a.m.,"January 22, 2010",19134,0
-2010/1/16/742521/,Burglary,Burglary: Night; Force: Private residence,3100 Block Tulip St,2:35 p.m.,"January 16, 2010",19134,0
-2010/1/19/742513/,Homicide,Homicide: Knife,2000 Block E Orleans St,11:16 p.m.,"January 19, 2010",19134,1
 2010/1/22/743913/,Burglary,Burglary: Night; Force: Attempts,6600 Block Charles St ,10:19 p.m.,"January 22, 2010",19135,0
 2010/1/22/743884/,Robbery,Robbery: Grocery: Other weapon,6700 Block Frankford Av,3:07 p.m.,"January 22, 2010",19135,0
 2010/1/22/744023/,Theft,"Theft: From vehicle: Non-accessories, under $50",Tyson Av  &amp;  Gillespie St,10:52 a.m.,"January 22, 2010",19135,0
@@ -152,7 +143,6 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/1/21/742953/,Robbery,Robbery: Chain store: By handgun,6900 Block Torresdale Av,1:03 a.m.,"January 21, 2010",19135,0
 2010/1/21/743138/,Theft,"Theft: From vehicle: Non-accessories, over $200",7100 Block Keystone St,12:47 p.m.,"January 21, 2010",19135,0
 2010/1/21/743293/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,6000 Block Cottage St,9:17 p.m.,"January 21, 2010",19135,0
-2010/1/20/742517/,Aggravated assault,Aggravated assault: by handgun,5900 Block Torresdale Av,12:43 a.m.,"January 20, 2010",19135,1
 2010/1/22/743952/,Theft,Theft: Under $50: Vehicle tags,Cottman Av  &amp;  State Rd,8:14 p.m.,"January 22, 2010",19136,0
 2010/1/20/743029/,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",4200 Block Rhawn St,2:34 a.m.,"January 20, 2010",19136,1
 2010/1/21/743095/,Theft,Theft: $50 to $200: Retail theft,3500 Block Cottman Av,8:39 p.m.,"January 21, 2010",19136,0
@@ -187,7 +177,6 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/1/20/742956/,Robbery,Robbery: Highway by handgun,1300 Block W Pike St,10:58 p.m.,"January 20, 2010",19140,0
 2010/1/21/743109/,Theft,Theft: Over $200: All others,3400 Block N Broad St,5:15 p.m.,"January 21, 2010",19140,0
 2010/1/22/743289/,Vehicle theft,Vehicle theft: Stolen/ recovered: Prior to report,4400 Block Wayne Av,1:10 a.m.,"January 22, 2010",19140,0
-2010/1/19/742518/,Aggravated assault,Aggravated Assault: Other weapon,3700 Block Germantown Av,11:07 p.m.,"January 19, 2010",19140,1
 2010/1/23/743896/,Aggravated assault,Aggravated assault: by knife,4800 Block N Hutchinson St,1:04 a.m.,"January 23, 2010",19141,1
 2010/1/22/743928/,Burglary,Burglary: Day; Force: Private residence,5700 Block Kemble Av,1:19 p.m.,"January 22, 2010",19141,0
 2010/1/22/743885/,Robbery,Robbery: Highway no weapon,1400 Block W Olney Av,12:33 p.m.,"January 22, 2010",19141,0
@@ -218,7 +207,6 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/1/20/742955/,Robbery,Robbery: Highway no weapon,200 Block W Chelten Av,11:07 p.m.,"January 20, 2010",19144,0
 2010/1/21/743110/,Theft,Theft: $50 to $200: Retail theft,100 Block W Chelten Av,5:09 p.m.,"January 21, 2010",19144,0
 2010/1/21/743313/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,200 Block W Clapier St,10:13 a.m.,"January 21, 2010",19144,0
-2010/1/19/742524/,Theft,"Theft: From vehicle: Non-accessories, over $200",500 Block W Chelten Av ,11:22 p.m.,"January 19, 2010",19144,0
 2010/1/23/743864/,Robbery,Robbery: Highway no weapon,1800 Block Sigel St,12:08 a.m.,"January 23, 2010",19145,0
 2010/1/22/744000/,Theft,Theft: $50 to $200: Retail theft,1500 Block W Moyamensing Av,1:47 p.m.,"January 22, 2010",19145,0
 2010/1/22/744059/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1700 Block S 32nd St,7:47 p.m.,"January 22, 2010",19145,0
@@ -235,7 +223,6 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/1/21/742950/,Robbery,Robbery: Highway by knife,1300 Block Point Breeze Av,2:48 a.m.,"January 21, 2010",19146,0
 2010/1/21/743126/,Theft,Theft: $50 to $200: All others,1300 Block S 28th St,2:32 p.m.,"January 21, 2010",19146,0
 2010/1/21/743317/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,1500 Block S Corlies St,8:37 a.m.,"January 21, 2010",19146,0
-2010/1/19/742520/,Burglary,Burglary: Night; Force: Attempts,2000 Block South St,11:27 p.m.,"January 19, 2010",19146,0
 2010/1/22/743967/,Theft,Theft: Over $200: From building,600 Block South St,6:26 p.m.,"January 22, 2010",19147,0
 2010/1/22/744060/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,600 Block Washington Avenue,7:32 p.m.,"January 22, 2010",19147,0
 2010/1/21/742992/,Aggravated assault,Aggravated Assault: No weapon,700 Block Reed Street,3:30 p.m.,"January 21, 2010",19147,1
