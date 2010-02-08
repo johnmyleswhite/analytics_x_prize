@@ -1,0 +1,20 @@
+From the Geolytics Census 2000 Long Form Dataset
+
+TODO: get complete variable definitions for urban/rural, race, and income
+
+INTPTLAT and INTPTLON 
+  latitude and longitude.
+P001001
+  total population
+P002001
+  unweighted sample count of the population
+P003001
+  100-percent count of the population
+P004001
+  percent of population in sample
+P005XXX
+  urban and rural
+P006XXX
+  race (counts for each race)
+p052XXX
+  household income in 1999 (median, and counts for each income range)
