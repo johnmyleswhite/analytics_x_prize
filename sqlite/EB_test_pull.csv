@@ -1,156 +1,315 @@
 id,crime_type,crime_desc,location,disp_time,date,zip,violent
+2010/5/22/821052/,Robbery,Robbery: Highway no weapon,Clothespin @ 1500 Market St,8:11 p.m.,"May 22, 2010",19102,0
+2010/5/21/821380/,Theft,Theft: $50 to $200: All others,N 15th St &amp;  Market St,3:31 p.m.,"May 21, 2010",19102,0
 2010/5/20/819578/,Robbery,Robbery: Chain store: By handgun,1500 Block Walnut St,8:07 p.m.,"May 20, 2010",19102,0
 2010/5/21/819713/,Theft,Theft: Over $200: From building,Hahneman Hospital @ 230 N Broad St,6:09 p.m.,"May 21, 2010",19102,0
+2010/5/23/821039/,Robbery,Robbery: Highway by knife,1800 Block Ranstead,2:43 a.m.,"May 23, 2010",19103,0
+2010/5/23/821198/,Theft,"Theft: From vehicle: Non-accessories, over $200",2100 Block Market St,11:29 p.m.,"May 23, 2010",19103,0
+2010/5/22/821438/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,200 Block S 22nd St,noon on,"May 22, 2010",19103,0
 2010/5/20/819679/,Burglary,Burglary: Day; No Force: Apartment house,100 Block S 19th St,7:09 p.m.,"May 20, 2010",19103,0
 2010/5/21/819694/,Theft,"Theft: From vehicle: Non-accessories, over $200",S 23rd St  &amp;  Sansom St,10:21 p.m.,"May 21, 2010",19103,0
 2010/5/20/819969/,Vehicle theft,Vehicle theft: Recovered - for other jurisdiction,1600 Block Sansom St,1:15 p.m.,"May 20, 2010",19103,0
+2010/5/23/821088/,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",3800 Block Olive St,2 p.m.,"May 23, 2010",19104,1
+2010/5/23/821166/,Burglary,Burglary: Night; Force: Private residence,3500 Block Mantua Av,11:29 a.m.,"May 23, 2010",19104,0
+2010/5/23/821035/,Robbery,Robbery: Gas station: Other weapon,3700 Block W Girard Av,5:24 a.m.,"May 23, 2010",19104,0
+2010/5/23/821207/,Theft,Theft: Over $200: All others,4400 Block Holden St ,7:10 p.m.,"May 23, 2010",19104,0
+2010/5/22/821429/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,3800 Block Wyalusing Av,4:44 p.m.,"May 22, 2010",19104,0
 2010/5/21/819616/,Aggravated assault,Aggravated Assault: Child Abuse: By other weapon,3700 Block Warren St,3:17 p.m.,"May 21, 2010",19104,1
 2010/5/20/819678/,Burglary,Burglary: Day; No Force: Apartment house,3600 Block Lancaster Av ,7:15 p.m.,"May 20, 2010",19104,0
 2010/5/21/819556/,Robbery,Robbery: Highway no weapon,4400 Block Pine St,8:51 p.m.,"May 21, 2010",19104,0
 2010/5/21/819693/,Theft,Theft: Over $200: All others,3800 Block Chestnut St,11:57 p.m.,"May 21, 2010",19104,0
+2010/5/23/821074/,Aggravated assault,Aggravated Assault: No weapon,100 Block S 2nd St,11:48 p.m.,"May 23, 2010",19106,1
+2010/5/23/821227/,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",100 Block Arch St,3 p.m.,"May 23, 2010",19106,0
+2010/5/22/821428/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1 Block N Independence Ml E,5:04 p.m.,"May 22, 2010",19106,0
 2010/5/21/819718/,Theft,Theft: Under $50: All others,300 Block N 7th St,5:32 p.m.,"May 21, 2010",19106,0
 2010/5/21/819919/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,300 Block Spruce St,12:48 p.m.,"May 21, 2010",19106,0
+2010/5/23/821024/,Robbery,Robbery: Highway no weapon,200 Block S 13th St,9:43 p.m.,"May 23, 2010",19107,0
+2010/5/23/821223/,Theft,"Theft: From vehicle: Non-accessories, under $50",800 Block Cherry St,3:48 p.m.,"May 23, 2010",19107,0
+2010/5/22/821448/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,900 Block Vine St,9:49 a.m.,"May 22, 2010",19107,0
 2010/5/21/819538/,Homicide,Homicide: Handgun,900 Block Filbert St,2:29 a.m.,"May 21, 2010",19107,1
 2010/5/21/819567/,Robbery,Robbery: Drug store: No weapon,1000 Block Market St,11:44 a.m.,"May 21, 2010",19107,0
 2010/5/21/819697/,Theft,Theft: $50 to $200: From building,100 Block S 13th St,9:25 p.m.,"May 21, 2010",19107,0
+2010/5/22/821179/,Burglary,Burglary: Day; Force: Private residence,1300 Block Englewood St,9:08 p.m.,"May 22, 2010",19111,0
+2010/5/22/821051/,Robbery,Robbery: Highway by handgun,6600 Block Martins Mill Rd,8:35 p.m.,"May 22, 2010",19111,0
+2010/5/23/821218/,Theft,"Theft: From vehicle: Non-accessories, over $200",8500 Block Verree Rd,4:29 p.m.,"May 23, 2010",19111,0
+2010/5/23/821404/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,1900 Block Rhawn St,3:12 p.m.,"May 23, 2010",19111,0
 2010/5/21/819615/,Aggravated assault,Aggravated Assault: No weapon,1600 Block Cottman Av,3:53 p.m.,"May 21, 2010",19111,1
 2010/5/20/819687/,Burglary,Burglary: Day; No Force: Private residence,1200 Block Greeby St,10:31 a.m.,"May 20, 2010",19111,0
 2010/5/21/819774/,Theft,Theft: Under $50: Vehicle tags,1300 Block Mc Kinley St,8:18 a.m.,"May 21, 2010",19111,0
 2010/5/21/819906/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,7300 Block Dungan Rd,8:20 p.m.,"May 21, 2010",19111,0
+2010/5/23/821106/,Aggravated assault,Aggravated Assault: Other weapon,9200 Block E Roosevelt Blvd,1:44 a.m.,"May 23, 2010",19114,1
+2010/5/23/821235/,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",3400 Block Red Lion Rd,1:27 p.m.,"May 23, 2010",19114,0
+2010/5/23/821413/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,3000 Block Red Lion Rd,7:53 a.m.,"May 23, 2010",19114,0
 2010/5/21/819756/,Theft,Theft: Under $50: All others,9500 Block State Rd,11:13 a.m.,"May 21, 2010",19114,0
+2010/5/23/821234/,Theft,"Theft: From vehicle: Non-accessories, over $200",1900 Block Nester St,1:34 p.m.,"May 23, 2010",19115,0
 2010/5/21/819627/,Aggravated assault,Aggravated Assault: No weapon,1900 Block Welsh Rd,1:25 a.m.,"May 21, 2010",19115,1
 2010/5/20/819682/,Burglary,Burglary: Day; No Force: Apartment house,8800 Block Krewstown Rd ,6:49 p.m.,"May 20, 2010",19115,0
 2010/5/21/819701/,Theft,Theft: $50 to $200: From building,9100 Block E Roosevelt Blvd,8:27 p.m.,"May 21, 2010",19115,0
 2010/5/20/819967/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,800 Block Welsh Rd,1:45 p.m.,"May 20, 2010",19115,0
+2010/5/23/821029/,Robbery,Robbery: Highway by knife,500 Block Tomlinson Rd,5:15 p.m.,"May 23, 2010",19116,0
+2010/5/23/821244/,Theft,Theft: Under $50: Vehicle tags,12000 Block Stevens Rd,12:34 p.m.,"May 23, 2010",19116,0
+2010/5/23/821396/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,600 Block Warwick St,6:33 p.m.,"May 23, 2010",19116,0
 2010/5/21/819660/,Burglary,Burglary: Day; Force: Private residence,13600 Block Philmont Av ,3:30 p.m.,"May 21, 2010",19116,0
 2010/5/20/819869/,Theft,"Theft: From vehicle: Non-accessories, under $50",800 Block Burgess St,10:29 a.m.,"May 20, 2010",19116,0
 2010/5/21/819921/,Vehicle theft,"Vehicle theft: Stolen - truck, bus",11000 Block E Roosevelt Blvd,12:24 p.m.,"May 21, 2010",19116,0
+2010/5/23/821022/,Robbery,Robbery: Highway by handgun,E Sharpnack St  &amp;  Belfield Av,10:29 p.m.,"May 23, 2010",19119,0
+2010/5/23/821201/,Theft,Theft: Over $200: From building,1 Block Montana St,9:28 p.m.,"May 23, 2010",19119,0
 2010/5/20/819676/,Burglary,Burglary: Day; Force: Private residence,7200 Block Emlen St,11:03 p.m.,"May 20, 2010",19119,0
 2010/5/21/819755/,Theft,Theft: Over $200: Coin-operated machine,6400 Block Greene St,11:14 a.m.,"May 21, 2010",19119,0
+2010/5/23/821073/,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",400 Block E Godfrey Av,11:50 p.m.,"May 23, 2010",19120,1
+2010/5/23/821162/,Burglary,Burglary: Day; Force: Private residence,100 Block W 65th Av,4:45 p.m.,"May 23, 2010",19120,0
+2010/5/23/821036/,Robbery,Robbery: Chain store: By handgun,100 Block E Champlost Av,4:35 a.m.,"May 23, 2010",19120,0
+2010/5/23/821200/,Theft,Theft: Over $200: All others,6100 Block N 6th St,10:13 p.m.,"May 23, 2010",19120,0
+2010/5/23/821416/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,5800 Block N 5th St,3:40 a.m.,"May 23, 2010",19120,0
 2010/5/20/819637/,Aggravated assault,Aggravated Assault: Domestic: By knife,6500 Block W Walnut Park Dr,9:47 p.m.,"May 20, 2010",19120,1
 2010/5/21/819653/,Burglary,Burglary: Night; Force: Apartment house,200 Block Rosemar St,7:27 p.m.,"May 21, 2010",19120,0
 2010/5/22/819546/,Robbery,Robbery: Highway by handgun,C St  &amp;  E Wyoming Av,12:55 a.m.,"May 22, 2010",19120,0
 2010/5/21/819703/,Theft,Theft: Under $50: Retail theft,5400 Block Rising Sun Av,7:51 p.m.,"May 21, 2010",19120,0
 2010/5/21/819911/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,4600 Block G St,4:54 p.m.,"May 21, 2010",19120,0
+2010/5/23/821083/,Aggravated assault,Aggravated assault: by handgun,2200 Block Ingersoll St,8:04 p.m.,"May 23, 2010",19121,1
+2010/5/23/821169/,Burglary,Burglary: Day; Force: Private residence,2800 Block Cecil B Moore Av,10:41 a.m.,"May 23, 2010",19121,0
+2010/5/23/821028/,Robbery,Robbery: Highway by handgun,1700 Block Master St,5:41 p.m.,"May 23, 2010",19121,0
+2010/5/23/821241/,Theft,Theft: Over $200: All others,1900 Block N 17th St,12:45 p.m.,"May 23, 2010",19121,0
+2010/5/22/821446/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1800 Block Diamond St,10:11 a.m.,"May 22, 2010",19121,0
 2010/5/21/819607/,Aggravated assault,Aggravated Assault: On police: Other weapon,2900 Block W Girard Av,8:04 p.m.,"May 21, 2010",19121,1
 2010/5/21/819655/,Burglary,Burglary: Day; Force: Private residence,2100 Block N Woodstock St,5:34 p.m.,"May 21, 2010",19121,0
 2010/5/20/819542/,Rape,Rape: Known acquaintance,2300 Block Redner Way,2:37 p.m.,"May 20, 2010",19121,1
 2010/5/22/819545/,Robbery,Robbery: Highway by handgun,2300 Block Edgley St,2:05 a.m.,"May 22, 2010",19121,0
 2010/5/21/819775/,Theft,"Theft: From vehicle: Non-accessories, under $50",1600 Block N Bouvier St,8:07 a.m.,"May 21, 2010",19121,0
 2010/5/20/819945/,Vehicle theft,Vehicle theft: Recovered - other vehicle,3000 Block Clifford St,9:23 p.m.,"May 20, 2010",19121,0
+2010/5/22/821127/,Aggravated assault,Aggravated assault: by handgun,1900 Block N 10th St,7:53 p.m.,"May 22, 2010",19122,1
+2010/5/22/821188/,Burglary,Burglary: Night; Force: Gas station,1500 Block N 2nd St,8:36 a.m.,"May 22, 2010",19122,0
+2010/5/22/821285/,Theft,Theft: $50 to $200: Bicycle,N Broad St  &amp;  W Thompson St,9:18 p.m.,"May 22, 2010",19122,0
+2010/5/22/821434/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1500 Block N Marshall St,1:17 p.m.,"May 22, 2010",19122,0
 2010/5/22/819547/,Robbery,Robbery: Highway no weapon,1200 Block Cecil B Moore Av,12:27 a.m.,"May 22, 2010",19122,0
 2010/5/21/819700/,Theft,Theft: Over $200: All others,1200 Block W Montgomery Av,8:53 p.m.,"May 21, 2010",19122,0
+2010/5/23/821037/,Robbery,Robbery: Highway no weapon,1300 Block Brown St,3:18 a.m.,"May 23, 2010",19123,0
+2010/5/23/821225/,Theft,"Theft: From vehicle: Accessories, over $200",600 Block Fairmount Av,3:10 p.m.,"May 23, 2010",19123,0
+2010/5/23/821403/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,100 Block Brown St,3:13 p.m.,"May 23, 2010",19123,0
 2010/5/21/819555/,Robbery,Robbery: Miscellaneous: No weapon,100 Block Spring Garden St,8:51 p.m.,"May 21, 2010",19123,0
 2010/5/21/819779/,Theft,"Theft: From vehicle: Accessories, over $200",1000 Block N Hancock St ,7:32 a.m.,"May 21, 2010",19123,0
 2010/5/20/819983/,Vehicle theft,Vehicle theft: Recovered - other vehicle,300 Block W Wildey St,8:31 a.m.,"May 20, 2010",19123,0
+2010/5/23/821076/,Aggravated assault,Aggravated assault: by handgun,1500 Block E Lycoming St,11:05 p.m.,"May 23, 2010",19124,1
+2010/5/24/821153/,Burglary,Burglary: Night; Force: Apartment house,1500 Block Adams Av,12:21 a.m.,"May 24, 2010",19124,0
+2010/5/23/821015/,Rape,Rape: Known acquaintance,1500 Block Orthodox St,9:38 a.m.,"May 23, 2010",19124,1
+2010/5/23/821031/,Robbery,Robbery: Highway other weapon,1600 Block Granite St,12:03 p.m.,"May 23, 2010",19124,0
+2010/5/23/821216/,Theft,Theft: $50 to $200: Retail theft,4600 Block E Roosevelt Blvd,4:45 p.m.,"May 23, 2010",19124,0
+2010/5/24/821387/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,4700 Block Oxford Ave,1:16 a.m.,"May 24, 2010",19124,0
 2010/5/21/819603/,Aggravated assault,Aggravated assault: by handgun,4800 Block Hawthorne St,9:15 p.m.,"May 21, 2010",19124,1
 2010/5/21/819663/,Burglary,Burglary: Day; Force: Private residence,800 Block Bridge St,12:55 p.m.,"May 21, 2010",19124,0
 2010/5/20/819585/,Robbery,Robbery: Highway by handgun,1400 Block Imogene St,1:32 p.m.,"May 20, 2010",19124,0
 2010/5/21/819739/,Theft,"Theft: From vehicle: Non-accessories, over $200",1300 Block E Lycoming St,2:28 p.m.,"May 21, 2010",19124,0
 2010/5/21/819916/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,4700 Block Leiper St,1:55 p.m.,"May 21, 2010",19124,0
+2010/5/22/821126/,Aggravated assault,Aggravated Assault: Domestic: Other weapon,1800 Block Frankford Av,7:55 p.m.,"May 22, 2010",19125,1
+2010/5/23/821167/,Burglary,Burglary: Night; No Force: Private residence,1200 Block Shackamaxon St,11:03 a.m.,"May 23, 2010",19125,0
+2010/5/22/821059/,Robbery,Robbery: Residential: By handgun,1300 Block E Montgomery Av,4:13 p.m.,"May 22, 2010",19125,0
+2010/5/23/821242/,Theft,Theft: $50 to $200: Bicycle,2200 Block E Sergeant St,12:37 p.m.,"May 23, 2010",19125,0
+2010/5/22/821426/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,2600 Block Memphis St,5:12 p.m.,"May 22, 2010",19125,0
 2010/5/22/819590/,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",900 Block N Delaware Av,12:41 a.m.,"May 22, 2010",19125,1
 2010/5/20/819582/,Robbery,Robbery: Highway by handgun,2400 Block Trenton Av,3:50 p.m.,"May 20, 2010",19125,0
 2010/5/21/819717/,Theft,Theft: Under $50: Vehicle tags,300 Block E Allen St,5:43 p.m.,"May 21, 2010",19125,0
 2010/5/21/819915/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,2300 Block E Lehigh Av,2:01 p.m.,"May 21, 2010",19125,0
+2010/5/24/821072/,Aggravated assault,Aggravated Assault: Domestic: By knife,1300 Block 72nd Av,1:18 a.m.,"May 24, 2010",19126,1
+2010/5/23/821025/,Robbery,Robbery: Highway by handgun,1800 Block W 67th Ave,8:46 p.m.,"May 23, 2010",19126,0
+2010/5/23/821278/,Theft,Theft: Over $200: All others,6400 Block N Smedley St,12:13 a.m.,"May 23, 2010",19126,0
+2010/5/22/821117/,Aggravated assault,Aggravated Assault: No weapon,Tower St  &amp;  Shurs La,8:45 p.m.,"May 22, 2010",19127,1
+2010/5/23/821247/,Theft,"Theft: From vehicle: Non-accessories, over $200",4700 Block Fowler St,12:07 p.m.,"May 23, 2010",19127,0
+2010/5/23/821226/,Theft,Theft: Under $50: All others,7100 Block Ridge Av,3:07 p.m.,"May 23, 2010",19128,0
 2010/5/21/819596/,Aggravated assault,Aggravated Assault: No weapon,8500 Block Henry Ave,11:16 p.m.,"May 21, 2010",19128,1
 2010/5/20/819814/,Theft,Theft: Over $200: All others,4200 Block Manayunk Av,5:39 p.m.,"May 20, 2010",19128,0
+2010/5/23/821168/,Burglary,Burglary: Night; Force: Private residence,3200 Block Sugdens Row,10:52 a.m.,"May 23, 2010",19129,0
+2010/5/23/821026/,Robbery,Robbery: Residential: By handgun,5400 Block Wissahickon Av ,6:44 p.m.,"May 23, 2010",19129,0
+2010/5/23/821211/,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",Falls Rd  &amp;  Kelly Dr,5:23 p.m.,"May 23, 2010",19129,0
 2010/5/21/819612/,Aggravated assault,Aggravated assault: by handgun,4100 Block Ridge Av,4:44 p.m.,"May 21, 2010",19129,1
 2010/5/19/819901/,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",3200 Block Scotts La,1:32 p.m.,"May 19, 2010",19129,0
+2010/5/22/821192/,Burglary,Burglary: Night; No Force: Other,2100 Block Fairmount Av,4:47 a.m.,"May 22, 2010",19130,0
+2010/5/24/821197/,Theft,Theft: Under $50: From building,400 Block N 21st St,12:27 a.m.,"May 24, 2010",19130,0
 2010/5/21/819613/,Aggravated assault,Aggravated Assault: Domestic: By knife,1700 Block Spring Garden St ,4:39 p.m.,"May 21, 2010",19130,1
 2010/5/21/819540/,Rape,Rape: Domestic,2800 Block Ogden St,6:23 a.m.,"May 21, 2010",19130,1
 2010/5/21/819551/,Robbery,Robbery: Highway no weapon,2200 Block Mount Vernon St,10:51 p.m.,"May 21, 2010",19130,0
 2010/5/21/819745/,Theft,"Theft: From vehicle: Non-accessories, under $50",2200 Block Fairmount Av,12:48 p.m.,"May 21, 2010",19130,0
 2010/5/20/819962/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,W Girard Av  &amp;  Sedgley Dr,4:37 p.m.,"May 20, 2010",19130,0
+2010/5/23/821081/,Aggravated assault,Aggravated Assault: Other weapon,600 Block N 56th St,8:27 p.m.,"May 23, 2010",19131,1
+2010/5/23/821164/,Burglary,Burglary: Day; No Force: Apartment house,1600 Block N 54th St ,1:16 p.m.,"May 23, 2010",19131,0
+2010/5/22/821047/,Robbery,Robbery: Highway no weapon,Jefferson &amp; Lindenwoord Av,10:31 p.m.,"May 22, 2010",19131,0
+2010/5/23/821199/,Theft,"Theft: From vehicle: Non-accessories, under $50",1500 Block N 57th St,11:18 p.m.,"May 23, 2010",19131,0
 2010/5/21/819559/,Robbery,Robbery: Residential: By handgun,5100 Block Viola St,8:02 p.m.,"May 21, 2010",19131,0
 2010/5/21/819698/,Theft,Theft: Under $50: Retail theft,1500 Block N 52nd St,9:09 p.m.,"May 21, 2010",19131,0
 2010/5/20/819961/,Vehicle theft,Vehicle theft: Stolen - other vehicle,5200 Block W Stiles St,5:03 p.m.,"May 20, 2010",19131,0
+2010/5/23/821079/,Aggravated assault,Aggravated assault: by handgun,2300 Block N 22nd St,9:01 p.m.,"May 23, 2010",19132,1
+2010/5/23/821170/,Burglary,Burglary: Day; Force: Private residence,2200 Block N Gratz St,10:20 a.m.,"May 23, 2010",19132,0
+2010/5/22/821019/,Rape,Rape: Stranger,2200 Block N 16th St,4:44 a.m.,"May 22, 2010",19132,1
+2010/5/23/821030/,Robbery,Robbery: Commercial other weapon,2200 Block W Lehigh Av,1:37 p.m.,"May 23, 2010",19132,0
+2010/5/23/821208/,Theft,Theft: $50 to $200: Retail theft,2900 Block N Broad St,6:27 p.m.,"May 23, 2010",19132,0
+2010/5/23/821407/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,2800 Block N 20th St,1:07 p.m.,"May 23, 2010",19132,0
 2010/5/21/819598/,Aggravated assault,Aggravated Assault: Other weapon,2300 Block N Lambert St,10:33 p.m.,"May 21, 2010",19132,1
 2010/5/21/819651/,Burglary,Burglary: Night; Force: Private residence,1600 Block W Lehigh Av,9:29 p.m.,"May 21, 2010",19132,0
 2010/5/21/819553/,Robbery,Robbery: Highway no weapon,1700 Block W Allegheny Avgheny Av,10:10 p.m.,"May 21, 2010",19132,0
 2010/5/21/819759/,Theft,Theft: Over $200: From building,2400 Block N Cleveland St,10:55 a.m.,"May 21, 2010",19132,0
 2010/5/21/819929/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,2800 Block N 13th St,10:50 a.m.,"May 21, 2010",19132,0
+2010/5/22/821147/,Aggravated assault,Aggravated Assault: Domestic: By handgun,2600 Block N Reese St,4:38 a.m.,"May 22, 2010",19133,1
+2010/5/22/821187/,Burglary,Burglary: Night; Force: Other,2400 Block N 8th St,noon on,"May 22, 2010",19133,0
+2010/5/23/821034/,Robbery,Robbery: Grocery: No weapon,300 Block W York St,10:58 a.m.,"May 23, 2010",19133,0
+2010/5/23/821275/,Theft,"Theft: From vehicle: Accessories, over $200",1100 Block W Cumberland St,1:10 a.m.,"May 23, 2010",19133,0
+2010/5/23/821394/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,2400 Block N 11th St,7:08 p.m.,"May 23, 2010",19133,0
 2010/5/21/819622/,Aggravated assault,Aggravated Assault: Other weapon,2800 Block N Reese St,9:11 a.m.,"May 21, 2010",19133,1
 2010/5/21/819650/,Burglary,Burglary: Night; No Force: Private residence,2800 Block N 5th St,9:40 p.m.,"May 21, 2010",19133,0
 2010/5/20/819579/,Robbery,Robbery: Highway by handgun,200 Block W Allegheny Av,7:38 p.m.,"May 20, 2010",19133,0
 2010/5/21/819740/,Theft,Theft: Under $50: Vehicle tags,2700 Block N Fairhill St,2:16 p.m.,"May 21, 2010",19133,0
 2010/5/21/819909/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,2800 Block Waterloo St,7:03 p.m.,"May 21, 2010",19133,0
+2010/5/23/821090/,Aggravated assault,Aggravated Assault: Domestic: By handgun,3200 Block N Front St,12:49 p.m.,"May 23, 2010",19134,1
+2010/5/23/821163/,Burglary,Burglary: Day; Force: Other,2400 Block Castor Av,4:09 p.m.,"May 23, 2010",19134,0
+2010/5/22/821018/,Rape,Rape: Domestic,3000 Block Ruth St,6:04 a.m.,"May 22, 2010",19134,1
+2010/5/22/821045/,Robbery,Robbery: Residential: By handgun,3300 Block Kensington Av,10:58 p.m.,"May 22, 2010",19134,0
+2010/5/23/821214/,Theft,Theft: Under $50: Vehicle tags,3400 Block Hurley St,4:52 p.m.,"May 23, 2010",19134,0
+2010/5/23/821417/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,3500 Block Brabant St,3:21 a.m.,"May 23, 2010",19134,0
 2010/5/21/819591/,Aggravated assault,Aggravated Assault: Other weapon,1800 Block E Somerset St,11:47 p.m.,"May 21, 2010",19134,1
 2010/5/19/819690/,Burglary,Burglary: Day; No Force: Private residence,1900 Block E Clearfield St,10:09 a.m.,"May 19, 2010",19134,0
 2010/5/21/819539/,Rape,Rape: Domestic,1800 Block E Somerset St,7:03 p.m.,"May 21, 2010",19134,1
 2010/5/21/819558/,Robbery,Robbery: Highway by handgun,E 2300 E Westmoreland St,8:10 p.m.,"May 21, 2010",19134,0
 2010/5/21/819714/,Theft,Theft: Over $200: All others,3600 Block I St,5:59 p.m.,"May 21, 2010",19134,0
 2010/5/21/819910/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,2000 Block E Clearfield St,5:13 p.m.,"May 21, 2010",19134,0
+2010/5/23/821087/,Aggravated assault,Aggravated Assault: Other weapon,5800 Block Torresdale Av,2:06 p.m.,"May 23, 2010",19135,1
+2010/5/22/821048/,Robbery,Robbery: Highway by handgun,4900 Block Knorr St,10:05 p.m.,"May 22, 2010",19135,0
+2010/5/23/821220/,Theft,"Theft: From vehicle: Non-accessories, over $200",6000 Block Tacony St,4:06 p.m.,"May 23, 2010",19135,0
+2010/5/23/821406/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,4900 Block Wellington St,1:38 p.m.,"May 23, 2010",19135,0
 2010/5/21/819608/,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",Vogt Rec Center @ 4300 Unruh Av,7:29 p.m.,"May 21, 2010",19135,1
 2010/5/21/819658/,Burglary,Burglary: Day; Force: Private residence,6400 Block Edmund St,4:34 p.m.,"May 21, 2010",19135,0
 2010/5/20/819583/,Robbery,Robbery: Highway by handgun,5900 Block Charles St,3:23 p.m.,"May 20, 2010",19135,0
 2010/5/21/819734/,Theft,Theft: Over $200: All others,4900 Block Van Kirk St,3:20 p.m.,"May 21, 2010",19135,0
 2010/5/22/819903/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,6600 Block Jackson St,1:05 a.m.,"May 22, 2010",19135,0
+2010/5/23/821084/,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",Erdrick St  &amp;  Decatur St,5:11 p.m.,"May 23, 2010",19136,1
+2010/5/22/821049/,Robbery,Robbery: Highway no weapon,7700 Block Craig St,10:03 p.m.,"May 22, 2010",19136,0
+2010/5/23/821228/,Theft,Theft: Over $200: All others,3500 Block Tudor St,2:56 p.m.,"May 23, 2010",19136,0
+2010/5/22/821437/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,7300 Block Leon St,12:01 p.m.,"May 22, 2010",19136,0
 2010/5/21/819606/,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",4500 Block Aberdale Rd,8:20 p.m.,"May 21, 2010",19136,1
 2010/5/20/819686/,Burglary,Burglary: Day; Force: Rooming house,4700 Block Marple St,3:46 p.m.,"May 20, 2010",19136,0
 2010/5/19/819544/,Rape,Rape: Stranger,8300 Block Frankford Av,9 p.m.,"May 19, 2010",19136,1
 2010/5/20/819584/,Robbery,Robbery: Highway no weapon,8000 Block Rowland Av,2:47 p.m.,"May 20, 2010",19136,0
 2010/5/21/819780/,Theft,"Theft: From vehicle: Accessories, over $200",4200 Block Frost St,6:52 a.m.,"May 21, 2010",19136,0
+2010/5/23/821206/,Theft,Theft: $50 to $200: All others,2800 Block Gillingham St,7:14 p.m.,"May 23, 2010",19137,0
+2010/5/22/821447/,Vehicle theft,Vehicle theft: Stolen - other vehicle,2700 Block Alresford St,9:53 a.m.,"May 22, 2010",19137,0
 2010/5/20/819873/,Theft,"Theft: From vehicle: Accessories, $50 to 200",2200 Block Wakeling St,10:08 a.m.,"May 20, 2010",19137,0
 2010/5/20/819968/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,4400 Block Almond St,1:25 p.m.,"May 20, 2010",19137,0
+2010/5/23/821091/,Aggravated assault,Aggravated Assault: Domestic: By knife,1000 Block E Chelten Av,12:40 p.m.,"May 23, 2010",19138,1
+2010/5/23/821176/,Burglary,Burglary: Night; Force: Attempts,6900 Block Cedar Park Av,1:08 a.m.,"May 23, 2010",19138,0
+2010/5/24/821196/,Theft,Theft: Under $50: All others,6900 Block Cedar Park Av,12:43 a.m.,"May 24, 2010",19138,0
+2010/5/23/821412/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,E Chelten Av  &amp;  Matthews St,8:27 a.m.,"May 23, 2010",19138,0
 2010/5/20/819633/,Aggravated assault,Aggravated assault: by knife,7400 Block Thouron Av,11:40 p.m.,"May 20, 2010",19138,1
 2010/5/21/819554/,Robbery,Robbery: Highway no weapon,2200 Block E Washington La,9:38 p.m.,"May 21, 2010",19138,0
 2010/5/21/819772/,Theft,Theft: Under $50: Vehicle tags,6600 Block Hollis St,9:04 a.m.,"May 21, 2010",19138,0
+2010/5/23/821078/,Aggravated assault,Aggravated Assault: Domestic: By handgun,1 Block S 54th St,9:32 p.m.,"May 23, 2010",19139,1
+2010/5/23/821155/,Burglary,Burglary: Day; Force: Private residence,1 Block N Edgewood St,11:26 p.m.,"May 23, 2010",19139,0
+2010/5/24/821021/,Robbery,Robbery: Highway by handgun,200 Block S 51st St,12:44 a.m.,"May 24, 2010",19139,0
+2010/5/22/821329/,Theft,Theft: $50 to $200: All others,5200 Block Spruce St,1:26 p.m.,"May 22, 2010",19139,0
+2010/5/23/821398/,Vehicle theft,Vehicle theft: Recovered - for other jurisdiction,Cobbs Creek Pkwy  &amp;  Marshall Rd,4:48 p.m.,"May 23, 2010",19139,0
 2010/5/21/819605/,Aggravated assault,Aggravated Assault: Other weapon,S 48th St  &amp;  Walnut St,8:21 p.m.,"May 21, 2010",19139,1
 2010/5/20/819681/,Burglary,Burglary: Day; Force: Private residence,100 Block N 58th St,6:52 p.m.,"May 20, 2010",19139,0
 2010/5/21/819568/,Robbery,Robbery: Chain store: By knife,4800 Block Market St,10:38 a.m.,"May 21, 2010",19139,0
 2010/5/21/819764/,Theft,Theft: Over $200: All others,100 Block S 48th St,10:10 a.m.,"May 21, 2010",19139,0
 2010/5/20/819959/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,5600 Block Sansom St,5:32 p.m.,"May 20, 2010",19139,0
+2010/5/23/821080/,Aggravated assault,Aggravated Assault: Domestic: Other weapon,2100 Block W Hunting Park Av,8:36 p.m.,"May 23, 2010",19140,1
+2010/5/22/821181/,Burglary,Burglary: Day; Force: Other,1700 Block W Hunting Park Av,5:45 p.m.,"May 22, 2010",19140,0
+2010/5/22/821053/,Robbery,Robbery: Highway other weapon,N Darien St  &amp;  W Hunting Park Av,7:17 p.m.,"May 22, 2010",19140,0
+2010/5/23/821202/,Theft,"Theft: From vehicle: Accessories, over $200",3200 Block N 16th St,8:52 p.m.,"May 23, 2010",19140,0
+2010/5/23/821390/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,N 18th St  &amp;  W Erie Av,9:01 p.m.,"May 23, 2010",19140,0
 2010/5/21/819620/,Aggravated assault,Aggravated Assault: No weapon,3400 Block Germantown Av,12:49 p.m.,"May 21, 2010",19140,1
 2010/5/21/819649/,Burglary,Burglary: Day; Force: Apartment house,3300 Block N Park Av,10:12 p.m.,"May 21, 2010",19140,0
 2010/5/21/819570/,Robbery,Robbery: Highway no weapon,N 13th St  &amp;  W Erie Av,7:14 a.m.,"May 21, 2010",19140,0
 2010/5/22/819692/,Theft,Theft: Over $200: All others,4600 Block N 16th St,1:09 a.m.,"May 22, 2010",19140,0
 2010/5/21/819917/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,4300 Block N 9th St,1:39 p.m.,"May 21, 2010",19140,0
+2010/5/23/821077/,Aggravated assault,Aggravated Assault: Domestic: By knife,1000 Block W Rockland St,10:23 p.m.,"May 23, 2010",19141,1
+2010/5/24/821154/,Burglary,Burglary: Night; No Force: Private residence,5100 Block N 12th St,12:17 a.m.,"May 24, 2010",19141,0
+2010/5/22/821058/,Robbery,Robbery: Highway no weapon,5700 Block N Broad St,4:39 p.m.,"May 22, 2010",19141,0
+2010/5/23/821272/,Theft,Theft: Under $50: All others,5700 Block N 12th St,1:17 a.m.,"May 23, 2010",19141,0
+2010/5/23/821391/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,5500 Block Ogontz Av,8:32 p.m.,"May 23, 2010",19141,0
 2010/5/22/819589/,Aggravated assault,Aggravated assault: by handgun,N 12th St &amp;  W Olney Av,12:55 a.m.,"May 22, 2010",19141,1
 2010/5/21/819669/,Burglary,Burglary: Night; Force: Other,5700 Block N Broad St,6:01 a.m.,"May 21, 2010",19141,0
 2010/5/21/819560/,Robbery,Robbery: Highway no weapon,N 11th St  &amp;  W Rockland St,7:59 p.m.,"May 21, 2010",19141,0
 2010/5/21/819925/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,4700 Block N Camac St,11:31 a.m.,"May 21, 2010",19141,0
+2010/5/23/821099/,Aggravated assault,Aggravated assault: by knife,2100 Block S Simpson St,4:08 a.m.,"May 23, 2010",19142,1
+2010/5/22/821044/,Robbery,Robbery: Highway no weapon,6300 Block Elmwood Av,11:11 p.m.,"May 22, 2010",19142,0
+2010/5/23/821212/,Theft,Theft: Over $200: All others,2500 Block S Robinson St,5:20 p.m.,"May 23, 2010",19142,0
+2010/5/23/821399/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,6400 Block Dicks Av,4:25 p.m.,"May 23, 2010",19142,0
 2010/5/21/819618/,Aggravated assault,Aggravated Assault: On private-school teacher: No weapon,6600 Block Elmwood Av,2:48 p.m.,"May 21, 2010",19142,1
 2010/5/21/819704/,Theft,Theft: Under $50: Retail theft,6300 Block Kingsessing Av,7:51 p.m.,"May 21, 2010",19142,0
 2010/5/21/819927/,Vehicle theft,Vehicle theft: Recovered - other vehicle,2600 Block S 61st St,11:13 a.m.,"May 21, 2010",19142,0
+2010/5/23/821075/,Aggravated assault,Aggravated Assault: Other weapon,5600 Block Pine St,11:35 p.m.,"May 23, 2010",19143,1
+2010/5/23/821157/,Burglary,Burglary: Day; Force: Attempts,5900 Block Latona St,7:53 p.m.,"May 23, 2010",19143,0
+2010/5/22/821016/,Rape,Rape: Domestic,5800 Block Cedarhurst St Rgh Blvd,11:17 p.m.,"May 22, 2010",19143,1
+2010/5/23/821219/,Theft,"Theft: From vehicle: Non-accessories, over $200",600 Block S 56th St,4:15 p.m.,"May 23, 2010",19143,0
+2010/5/23/821395/,Vehicle theft,Vehicle theft: Stolen/ recovered: Prior to report,5400 Block Windsor St,6:48 p.m.,"May 23, 2010",19143,0
 2010/5/21/819594/,Aggravated assault,Aggravated Assault: Other weapon,5500 Block Baltimore Av,11:31 p.m.,"May 21, 2010",19143,1
 2010/5/21/819667/,Burglary,Burglary: Night; Force: Private residence,800 Block S 57th St,8:32 a.m.,"May 21, 2010",19143,0
 2010/5/21/819773/,Theft,Theft: Over $200: All others,5200 Block Catharine St,8:24 a.m.,"May 21, 2010",19143,0
 2010/5/21/819933/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,4800 Block Osage Av,8:31 a.m.,"May 21, 2010",19143,0
+2010/5/22/821064/,Robbery,Robbery: Residential: By handgun,500 Block E Chelten Av,5:16 a.m.,"May 22, 2010",19144,0
+2010/5/22/821302/,Theft,Theft: Under $50: Vehicle tags,200 Block E Bringhurst St,6 p.m.,"May 22, 2010",19144,0
+2010/5/24/821389/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,500 Block E Penn St,12:26 a.m.,"May 24, 2010",19144,0
 2010/5/21/819610/,Aggravated assault,Aggravated assault: by knife,5700 Block Germantown Av,6:23 p.m.,"May 21, 2010",19144,1
 2010/5/22/819648/,Burglary,Burglary: Night; Force: Private residence,6300 Block Ambrose St,12:13 a.m.,"May 22, 2010",19144,0
 2010/5/20/819541/,Rape,Rape: Domestic,400 Block E Chelten Av,4:06 p.m.,"May 20, 2010",19144,1
 2010/5/20/819581/,Robbery,Robbery: Vehicle: By handgun,300 Block Milne St,4:34 p.m.,"May 20, 2010",19144,0
 2010/5/21/819724/,Theft,Theft: Over $200: All others,1 Block E Garfield St,5:06 p.m.,"May 21, 2010",19144,0
 2010/5/21/819905/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,500 Block E Wister St,9:05 p.m.,"May 21, 2010",19144,0
+2010/5/23/821174/,Burglary,Burglary: Night; No Force: Private residence,1500 Block Porter St,2:54 a.m.,"May 23, 2010",19145,0
+2010/5/23/821263/,Theft,Theft: Under $50: All others,1900 Block Fitzgerald St,9:05 a.m.,"May 23, 2010",19145,0
+2010/5/23/821401/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1600 Block S 27th St,3:55 p.m.,"May 23, 2010",19145,0
 2010/5/21/819601/,Aggravated assault,Aggravated assault: by knife,2800 Block S Smedley St,9:34 p.m.,"May 21, 2010",19145,1
 2010/5/21/819719/,Theft,Theft: $50 to $200: Retail theft,1900 Block Oregon Av,5:23 p.m.,"May 21, 2010",19145,0
 2010/5/21/819926/,Vehicle theft,Vehicle theft: Stolen - other vehicle,1900 Block Mifflin St,11:29 a.m.,"May 21, 2010",19145,0
+2010/5/23/821159/,Burglary,Burglary: Day; No Force: Apartment house,2100 Block Naudain St,6:47 p.m.,"May 23, 2010",19146,0
+2010/5/23/821033/,Robbery,Robbery: Highway other weapon,1200 Block S 22nd St,11:12 a.m.,"May 23, 2010",19146,0
 2010/5/21/819599/,Aggravated assault,Aggravated assault: by handgun,900 Block S 24th St,10:09 p.m.,"May 21, 2010",19146,1
 2010/5/21/819707/,Theft,Theft: $50 to $200: All others,1900 Block Kater St,7:18 p.m.,"May 21, 2010",19146,0
 2010/5/21/819939/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,2700 Block Wharton St,12:33 a.m.,"May 21, 2010",19146,0
+2010/5/24/821020/,Robbery,Robbery: Highway no weapon,S 7th St  &amp;  Tasker St,12:48 a.m.,"May 24, 2010",19147,0
+2010/5/23/821221/,Theft,Theft: $50 to $200: Retail theft,1400 Block S 10th St,4:03 p.m.,"May 23, 2010",19147,0
 2010/5/21/819657/,Burglary,Burglary: Day; Force: Apartment house,700 Block Christian St,4:49 p.m.,"May 21, 2010",19147,0
 2010/5/21/819550/,Robbery,Robbery: Highway by knife,1400 Block S 7th St,11:16 p.m.,"May 21, 2010",19147,0
 2010/5/21/819721/,Theft,Theft: Under $50: Retail theft,400 Block South St,5:21 p.m.,"May 21, 2010",19147,0
+2010/5/23/821085/,Aggravated assault,Aggravated Assault: Other weapon,S 3rd St  &amp;  Shunk St,4:29 p.m.,"May 23, 2010",19148,1
+2010/5/22/821056/,Robbery,Robbery: Highway no weapon,1 Block Wolf St,5:41 p.m.,"May 22, 2010",19148,0
+2010/5/23/821259/,Theft,Theft: Over $200: Bicycle,1300 Block Morris St,9:47 a.m.,"May 23, 2010",19148,0
 2010/5/21/819593/,Aggravated assault,Aggravated Assault: No weapon,2700 Block S Broad St,11:34 p.m.,"May 21, 2010",19148,1
 2010/5/21/819661/,Burglary,Burglary: Day; No Force: Private residence,900 Block Watkins St,1:38 p.m.,"May 21, 2010",19148,0
 2010/5/21/819561/,Robbery,Robbery: Highway other weapon,100 Block Wolf St,6:29 p.m.,"May 21, 2010",19148,0
 2010/5/21/819699/,Theft,Theft: Over $200: Bicycle,1100 Block Ritner St,8:59 p.m.,"May 21, 2010",19148,0
 2010/5/20/819941/,Vehicle theft,"Vehicle theft: Stolen - truck, bus",3100 Block S 3rd St,11:14 p.m.,"May 20, 2010",19148,0
+2010/5/22/821142/,Aggravated assault,Aggravated Assault: No weapon,Englewood St  &amp;  Leon St,9:20 a.m.,"May 22, 2010",19149,1
+2010/5/24/821152/,Burglary,Burglary: Day; Force: Apartment house,1300 Block Howell St,12:42 a.m.,"May 24, 2010",19149,0
+2010/5/23/821023/,Robbery,Robbery: Highway by handgun,1200 Block Van Kirk St,10:11 p.m.,"May 23, 2010",19149,0
+2010/5/23/821217/,Theft,Theft: Over $200: All others,7100 Block E Roosevelt Blvd,4:31 p.m.,"May 23, 2010",19149,0
+2010/5/23/821419/,Vehicle theft,Vehicle theft: Recovered - for other jurisdiction,7100 Block Saul St,2 a.m.,"May 23, 2010",19149,0
 2010/5/21/819662/,Burglary,Burglary: Day; Force: Private residence,6300 Block Oakland St,12:58 p.m.,"May 21, 2010",19149,0
 2010/5/21/819552/,Robbery,Robbery: Force: $50 or more,7100 Block Lynford St,10:25 p.m.,"May 21, 2010",19149,0
 2010/5/21/819737/,Theft,Theft: $50 to $200: Retail theft,Bustleton Av  &amp;  Cottman Av,2:44 p.m.,"May 21, 2010",19149,0
 2010/5/21/819907/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,6000 Block Agusta St,8:08 p.m.,"May 21, 2010",19149,0
+2010/5/22/821321/,Theft,Theft: Under $50: Vehicle tags,8300 Block Williams Av,2:25 p.m.,"May 22, 2010",19150,0
+2010/5/23/821409/,Vehicle theft,"Vehicle theft: Stolen - truck, bus",900 Block E Hortter St,10:17 a.m.,"May 23, 2010",19150,0
 2010/5/20/819634/,Aggravated assault,Aggravated assault: by handgun,8600 Block Forrest Av,11:31 p.m.,"May 20, 2010",19150,1
 2010/5/21/819673/,Burglary,Burglary: Night; NoForce: Apartment house,8200 Block Mansfield Av,1:28 a.m.,"May 21, 2010",19150,0
 2010/5/22/819691/,Theft,"Theft: From vehicle: Non-accessories, under $50",1600 Block Barringer St,1:18 a.m.,"May 22, 2010",19150,0
 2010/5/21/819908/,Vehicle theft,Vehicle theft: All other attempts,7900 Block Rugby St,8 p.m.,"May 21, 2010",19150,0
+2010/5/23/821108/,Aggravated assault,Aggravated Assault: Domestic: Other weapon,6100 Block Haverford Av,1:31 a.m.,"May 23, 2010",19151,1
+2010/5/22/821178/,Burglary,Burglary: Night; Force: Private residence,1700 Block N Felton St,11:03 p.m.,"May 22, 2010",19151,0
+2010/5/22/821068/,Robbery,Robbery: Highway by handgun,7500 Block Haverford Av,3:49 a.m.,"May 22, 2010",19151,0
+2010/5/23/821251/,Theft,Theft: Over $200: All others,1500 Block N Redfield St,11:26 a.m.,"May 23, 2010",19151,0
+2010/5/24/821388/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,500 Block N 63rd St,12:58 a.m.,"May 24, 2010",19151,0
 2010/5/21/819665/,Burglary,Burglary: Day; Force: Private residence,6500 Block Lebanon Av,11:31 a.m.,"May 21, 2010",19151,0
 2010/5/21/819790/,Theft,Theft: Over $200: All others,N 63rd St  &amp;  Malvern Av,12:54 a.m.,"May 21, 2010",19151,0
 2010/5/20/819951/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,N 75th St &amp;  Malvern Av,7:57 p.m.,"May 20, 2010",19151,0
+2010/5/23/821203/,Theft,Theft: Over $200: All others,1800 Block Tolbut St,7:42 p.m.,"May 23, 2010",19152,0
+2010/5/22/821425/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1900 Block Rhawn St ,5:29 p.m.,"May 22, 2010",19152,0
 2010/5/21/819668/,Burglary,Burglary: Night; Force: Other,7700 Block Castor Av,8:16 a.m.,"May 21, 2010",19152,0
 2010/5/21/819705/,Theft,Theft: Under $50: Retail theft,2300 Block Cottman Av,7:33 p.m.,"May 21, 2010",19152,0
 2010/5/21/819928/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,8600 Block Agusta St,11:05 a.m.,"May 21, 2010",19152,0
+2010/5/23/821267/,Theft,Theft: Over $200: All others,Industrial Hwy &amp; Delaware Exp,8:11 a.m.,"May 23, 2010",19153,0
+2010/5/23/821392/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,6900 Block Norwitch Dr,8:31 p.m.,"May 23, 2010",19153,0
 2010/5/21/819715/,Theft,"Theft: From vehicle: Non-accessories, over $200",6600 Block Essington Av,5:52 p.m.,"May 21, 2010",19153,0
 2010/5/21/819920/,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,6800 Block Norwitch Dr,12:38 p.m.,"May 21, 2010",19153,0
+2010/5/23/821173/,Burglary,Burglary: Night; No Force: Private residence,3300 Block Byberry Rd,2:56 a.m.,"May 23, 2010",19154,0
+2010/5/23/821243/,Theft,Theft: Over $200: All others,12300 Block Wyndom Rd,12:36 p.m.,"May 23, 2010",19154,0
+2010/5/23/821397/,Vehicle theft,Vehicle theft: Recovered - for other jurisdiction,12100 Block Academy Rd,5:48 p.m.,"May 23, 2010",19154,0
 2010/5/21/819706/,Theft,Theft: Over $200: Retail theft,1800 Block Franklin Mills Cir,7:33 p.m.,"May 21, 2010",19154,0
 2010/5/21/819913/,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,12600 Block Dunks Ferry Rd,4:13 p.m.,"May 21, 2010",19154,0
