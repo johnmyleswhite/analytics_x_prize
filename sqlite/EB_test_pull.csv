@@ -1,15 +1,16 @@
 id,crime_type,crime_desc,location,disp_time,date,zip,violent
+2010/9/10/899337/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: From building,S 15th St &amp;  Chestnut St,9:16 p.m.,"September 10, 2010",19102,0
 2010/9/9/898710/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: From building,200 Block S Broad St,5:02 p.m.,"September 9, 2010",19102,0
 2010/9/8/897983/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",N 16th St  &amp;  Race St,10:25 p.m.,"September 8, 2010",19102,0
-2010/9/7/896833/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: All others,S 15th St  &amp;  Locust St,9:53 p.m.,"September 7, 2010",19102,0
+2010/9/10/899338/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",1800 Block Arch St,9:12 p.m.,"September 10, 2010",19103,0
 2010/9/9/898692/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Retail theft,1600 Block Walnut St,6:54 p.m.,"September 9, 2010",19103,0
 2010/9/9/898820/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,S 17th St  &amp;  Sansom St,3:55 a.m.,"September 9, 2010",19103,0
 2010/9/8/898072/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,1900 Block John F Kennedy Blvd,10:23 a.m.,"September 8, 2010",19103,0
 2010/9/8/898117/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,100 Block S 23rd St,2:41 p.m.,"September 8, 2010",19103,0
-2010/9/7/896873/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; NoForce: Apartment house,2100 Block Locust St ,11:22 p.m.,"September 7, 2010",19103,0
-2010/9/7/896826/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Rape,Rape: Stranger,1600 Block John F Kennedy Blvd,7:02 p.m.,"September 7, 2010",19103,1
-2010/9/7/896832/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,1900 Block Delancey Pl,9:55 p.m.,"September 7, 2010",19103,0
-2010/9/7/896969/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: All others,N 19th St  &amp;  John F Kennedy Blvd,3:21 p.m.,"September 7, 2010",19103,0
+2010/9/10/899297/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,400 Block N 41st St,11:40 p.m.,"September 10, 2010",19104,0
+2010/9/10/899261/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,4300 Block Pine St,3:05 a.m.,"September 10, 2010",19104,0
+2010/9/10/899334/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: All others,4300 Block Baltimore Av,10:18 p.m.,"September 10, 2010",19104,0
+2010/9/10/899477/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,S 43rd St  &amp;  Chestnut St,5:45 p.m.,"September 10, 2010",19104,0
 2010/9/9/898667/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; No Force: Other,4100 Block Haverford Av,11:23 a.m.,"September 9, 2010",19104,0
 2010/9/9/898584/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Homicide,Homicide: Handgun,4100 Block Parkside Av,9:21 p.m.,"September 9, 2010",19104,1
 2010/9/9/898587/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Rape,Rape: Domestic,3900 Block Lancaster Av,7:43 p.m.,"September 9, 2010",19104,1
@@ -19,60 +20,58 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/9/8/897954/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,4000 Block Powelton Av,6:52 p.m.,"September 8, 2010",19104,0
 2010/9/8/897985/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,3900 Block Warren St,9:44 p.m.,"September 8, 2010",19104,0
 2010/9/8/898103/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,100 Block S 44th St,11:01 p.m.,"September 8, 2010",19104,0
-2010/9/7/896882/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Apartment house,4200 Block W Stiles St,6:20 p.m.,"September 7, 2010",19104,0
-2010/9/7/896837/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,400 Block N 37th Street,4 p.m.,"September 7, 2010",19104,0
-2010/9/8/896914/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,300 Block S 40th St,12:58 a.m.,"September 8, 2010",19104,0
 2010/9/8/898038/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,700 Block Market St,2:51 p.m.,"September 8, 2010",19106,0
 2010/9/8/898115/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: All other attempts,300 Block N 5th St,3:31 p.m.,"September 8, 2010",19106,0
-2010/9/7/896926/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: From building,100 Block Market St,9:34 p.m.,"September 7, 2010",19106,0
-2010/9/7/897072/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,600 Block Walnut St,11:27 a.m.,"September 7, 2010",19106,0
+2010/9/10/899250/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,1300 Block Pearl St,3:41 p.m.,"September 10, 2010",19107,0
+2010/9/10/899343/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",100 Block N Hutchinson St,9 p.m.,"September 10, 2010",19107,0
 2010/9/9/898631/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Other weapon,1 Block S 11th St,5:07 p.m.,"September 9, 2010",19107,1
 2010/9/9/898614/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,N 10th St  &amp;  Filbert St,1:48 a.m.,"September 9, 2010",19107,0
 2010/9/10/898676/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: All others,800 Block Locust St,12:30 a.m.,"September 10, 2010",19107,0
 2010/9/8/897981/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: From building,1200 Block Market St,11:51 p.m.,"September 8, 2010",19107,0
-2010/8/21/897083/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",1100 Block Arch St,9:59 a.m.,"August 21, 2010",19107,1
-2010/9/7/896835/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,300 Block N 12th St,8:07 p.m.,"September 7, 2010",19107,0
-2010/9/7/896965/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: Retail theft,1000 Block Market St ,4:12 p.m.,"September 7, 2010",19107,0
+2010/9/10/899279/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",1400 Block Princeton Av,8 p.m.,"September 10, 2010",19111,1
+2010/9/10/899306/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Private residence,7800 Block Anita Dr,4:50 p.m.,"September 10, 2010",19111,0
+2010/9/10/899385/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",1100 Block Napfle Av,3:21 p.m.,"September 10, 2010",19111,0
+2010/9/10/899473/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,400 Block Knorr St,7:50 p.m.,"September 10, 2010",19111,0
 2010/9/9/898629/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",1100 Block Wellington St,6:46 p.m.,"September 9, 2010",19111,1
-2010/9/9/898691/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: From building,7800 Block Langdon St,7:26 p.m.,"September 9, 2010",19111,0
+2010/9/9/898691/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,7800 Block Langdon St,7:26 p.m.,"September 9, 2010",19111,0
 2010/9/10/898792/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,400 Block Knorr St,12:38 a.m.,"September 10, 2010",19111,0
 2010/9/8/897972/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Office building,900 Block Rhawn St,8:39 a.m.,"September 8, 2010",19111,0
 2010/9/8/898046/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Vehicle tags,1300 Block Kerper St,1:49 p.m.,"September 8, 2010",19111,0
 2010/9/8/898132/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,700 Block Solly Av,9:14 a.m.,"September 8, 2010",19111,0
-2010/9/7/896883/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,7700 Block Loretto Av,6:14 p.m.,"September 7, 2010",19111,0
-2010/9/7/897021/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Bicycle,900 Block Ripley St,9:27 a.m.,"September 7, 2010",19111,0
 2010/9/9/898760/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Vehicle tags,4700 Block League Island Blvd,9:53 a.m.,"September 9, 2010",19112,0
+2010/9/10/899359/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: From building,9500 Block State Rd ,6:14 p.m.,"September 10, 2010",19114,0
 2010/9/9/898681/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",Blue Grass Rd  &amp;  Grant Av,9:16 p.m.,"September 9, 2010",19114,0
 2010/9/9/897979/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: All others,3400 Block Morrell Av,1:13 a.m.,"September 9, 2010",19114,0
-2010/9/7/896923/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",9700 Block E Roosevelt Blvd,10:08 p.m.,"September 7, 2010",19114,0
+2010/9/10/899367/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,2400 Block Tremont St,5:40 p.m.,"September 10, 2010",19115,0
 2010/9/8/898007/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: Bicycle,9200 Block Old Newtown Rd,6:27 p.m.,"September 8, 2010",19115,0
-2010/9/7/896857/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by knife,9800 Block Clark St,10:12 p.m.,"September 7, 2010",19115,1
-2010/9/7/896952/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: From building,2300 Block Woodward St,5:43 p.m.,"September 7, 2010",19115,0
+2010/9/9/899295/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: On police: By handgun,12000 Block E Roosevelt Blvd,10:45 p.m.,"September 9, 2010",19116,1
+2010/9/10/899370/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",13000 Block Bustleton Av,5:07 p.m.,"September 10, 2010",19116,0
 2010/9/9/898622/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,12000 Block E Roosevelt Blvd,10:49 p.m.,"September 9, 2010",19116,1
 2010/9/9/898583/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Homicide,Homicide: Handgun,12000 Block E Roosevelt Blvd,10:32 p.m.,"September 9, 2010",19116,1
 2010/9/9/898716/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Retail theft,11000 Block E Roosevelt Blvd,4:04 p.m.,"September 9, 2010",19116,0
-2010/9/7/896911/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Other,11600 Block E Roosevelt Blvd,6:21 a.m.,"September 7, 2010",19116,0
-2010/9/7/896944/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Accessories, over $200",400 Block Woodhaven Rd,6:40 p.m.,"September 7, 2010",19116,0
+2010/9/10/899255/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Bar: No weapon,8600 Block Germantown Av,1:42 p.m.,"September 10, 2010",19118,0
+2010/9/10/899349/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,200 Block E Mermaid La,7:54 p.m.,"September 10, 2010",19118,0
 2010/9/9/898673/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Other,1 Block Bethlehem Pike,6:06 a.m.,"September 9, 2010",19118,0
 2010/9/8/898122/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,7700 Block Crittenden St,1:22 p.m.,"September 8, 2010",19118,0
-2010/9/7/896989/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Retail theft,E Mermaid La  &amp;  Crittenden St,11:49 a.m.,"September 7, 2010",19118,0
+2010/9/10/899382/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",200 Block W Sedgwick St,3:42 p.m.,"September 10, 2010",19119,0
 2010/9/8/898783/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: From building,7100 Block Germantown Av,8:45 p.m.,"September 8, 2010",19119,0
 2010/9/9/898801/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,7200 Block Cresheim Rd,6:49 p.m.,"September 9, 2010",19119,0
 2010/9/8/897974/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Apartment house,7200 Block Cresheim Rd,8:33 a.m.,"September 8, 2010",19119,0
 2010/9/8/898003/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",6800 Block Sprague St,6:53 p.m.,"September 8, 2010",19119,0
 2010/9/8/898116/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,Greene St &amp;  W Upsal St,2:52 p.m.,"September 8, 2010",19119,0
-2010/9/7/897056/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,7100 Block Chew Av,11:22 p.m.,"September 7, 2010",19119,0
-2010/9/9/898600/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,300 Block Claremont Rd,10:33 p.m.,"September 9, 2010",19120,0
+2010/9/10/899302/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Apartment house,200 Block E Wellens St,7:42 p.m.,"September 10, 2010",19120,0
+2010/9/10/899420/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,4800 Block Gransback St,10:30 a.m.,"September 10, 2010",19120,0
+2010/9/10/899486/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,5700 Block Newtown Av,1:31 p.m.,"September 10, 2010",19120,0
+2010/9/9/898600/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Miscellaneous: By shotgun,300 Block Claremont Rd,10:33 p.m.,"September 9, 2010",19120,0
 2010/9/8/898786/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Retail theft,5600 Block Rising Sun Av,11:59 a.m.,"September 8, 2010",19120,0
 2010/9/9/898797/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,5300 Block Mascher St,9:17 p.m.,"September 9, 2010",19120,0
 2010/9/8/897921/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: Other weapon,300 Block Van Kirk St,11:33 p.m.,"September 8, 2010",19120,1
 2010/9/8/897958/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,200 Block Rosemar St,4:18 p.m.,"September 8, 2010",19120,0
 2010/9/8/897885/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Rape,Rape: Domestic,5200 Block N Front St,4:55 p.m.,"September 8, 2010",19120,1
 2010/9/8/898080/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",200 Block W Fisher Av,8:34 a.m.,"September 8, 2010",19120,0
-2010/9/7/896860/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Other weapon,600 Block Carver St,7:53 p.m.,"September 7, 2010",19120,1
-2010/9/7/896901/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Private residence,500 Block Alcott St,12:26 p.m.,"September 7, 2010",19120,0
-2010/9/7/896840/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Force: $50 or more,4700 Block Bingham St,1:29 p.m.,"September 7, 2010",19120,0
-2010/9/7/896925/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: Bicycle,5800 Block Rising Sun Avecheltenham Av,10:03 p.m.,"September 7, 2010",19120,0
+2010/9/11/899266/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: By handgun,1500 Block Hemberger Way ,2:01 a.m.,"September 11, 2010",19121,1
+2010/9/10/899249/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Vehicle: By knife,1600 Block Page St,8:10 p.m.,"September 10, 2010",19121,0
+2010/9/10/899410/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",1700 Block N Bouvier St,12:33 p.m.,"September 10, 2010",19121,0
 2010/9/10/898616/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: Other weapon,3000 Block Euclid Av,1:12 a.m.,"September 10, 2010",19121,1
 2010/9/9/898606/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,3100 Block French St,7:10 p.m.,"September 9, 2010",19121,0
 2010/9/10/898675/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,1900 Block N 22nd St,12:52 a.m.,"September 10, 2010",19121,0
@@ -80,26 +79,25 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/9/8/897967/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,1500 Block N Gratz St,9:48 a.m.,"September 8, 2010",19121,0
 2010/9/8/897909/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,2100 Block N Van Pelt St,11:01 a.m.,"September 8, 2010",19121,0
 2010/9/8/898034/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: All others,N 17th St &amp;  Diamond St,3:21 p.m.,"September 8, 2010",19121,0
-2010/9/8/896853/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: Other weapon,1800 Block N Gratz St,12:09 a.m.,"September 8, 2010",19121,1
-2010/9/7/896881/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Private residence,1700 Block N 24th St,6:33 p.m.,"September 7, 2010",19121,0
-2010/9/7/896838/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Chain store: By handgun,2600 Block W Girard Av,4 p.m.,"September 7, 2010",19121,0
-2010/9/7/896986/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Pickpocketing,2400 Block Sharswood St,12:28 p.m.,"September 7, 2010",19121,0
+2010/9/10/899278/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",N 12th St  &amp;  W Girard Av,8:04 p.m.,"September 10, 2010",19122,1
+2010/9/10/899379/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: From building,100 Block W Norris St,4:18 p.m.,"September 10, 2010",19122,0
+2010/9/10/899483/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,2000 Block N 9th St,2:12 p.m.,"September 10, 2010",19122,0
 2010/9/9/898704/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Bicycle,1500 Block N Broad St,5:43 p.m.,"September 9, 2010",19122,0
 2010/9/9/898819/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,2000 Block N Lawrence St,5:15 a.m.,"September 9, 2010",19122,0
 2010/9/8/897986/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",1200 Block Palethorp St,9:26 p.m.,"September 8, 2010",19122,0
 2010/9/8/898126/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,1700 Block Germantown Av,11:17 a.m.,"September 8, 2010",19122,0
-2010/9/7/896831/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,1200 Block N 12th St,9:57 p.m.,"September 7, 2010",19122,0
-2010/9/7/896918/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: All others,900 Block W Berks St,11:21 p.m.,"September 7, 2010",19122,0
-2010/9/8/897051/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,2000 Block Mascher St,1:26 a.m.,"September 8, 2010",19122,0
+2010/9/11/899324/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",900 Block Canal St,1:29 a.m.,"September 11, 2010",19123,0
 2010/9/9/898624/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Other weapon,N 11th St  &amp;  Hamilton St,10:21 p.m.,"September 9, 2010",19123,1
 2010/9/9/898602/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,N 2nd St  &amp;  Poplar St,9:31 p.m.,"September 9, 2010",19123,0
-2010/9/9/898696/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,800 Block N 2nd St,6:23 p.m.,"September 9, 2010",19123,0
+2010/9/9/898696/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Bicycle,800 Block N 2nd St,6:23 p.m.,"September 9, 2010",19123,0
 2010/9/8/897935/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Other weapon,600 Block N American St,6:14 p.m.,"September 8, 2010",19123,1
 2010/9/9/897980/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",1100 Block N 3rd St,12:26 a.m.,"September 9, 2010",19123,0
 2010/9/8/898125/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,900 Block N 6th St,12:08 p.m.,"September 8, 2010",19123,0
-2010/8/23/897084/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",800 Block N Lawerence,5:33 p.m.,"August 23, 2010",19123,0
-2010/9/7/896885/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; No Force: Private residence,200 Block W George St,5:32 p.m.,"September 7, 2010",19123,0
-2010/9/8/896915/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: car phone, computer, over $200",400 Block N Front St,12:55 a.m.,"September 8, 2010",19123,0
+2010/9/10/899274/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by knife,1000 Block E Hunting Park Av,8:27 p.m.,"September 10, 2010",19124,1
+2010/9/10/899242/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Homicide,Homicide: Handgun,4700 Block Hawthorne St,2:14 a.m.,"September 10, 2010",19124,1
+2010/9/10/899264/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,5100 Block F St,1:15 a.m.,"September 10, 2010",19124,0
+2010/9/11/899329/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,1600 Block Dyre St,12:01 a.m.,"September 11, 2010",19124,0
+2010/9/10/899469/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,900 Block E Godfrey Av,9:47 p.m.,"September 10, 2010",19124,0
 2010/9/9/898619/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Other weapon,4600 Block E Roosevelt Blvd,11 p.m.,"September 9, 2010",19124,1
 2010/9/9/898665/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; No Force: Private residence,4000 Block Ormond St,11:35 a.m.,"September 9, 2010",19124,0
 2010/9/9/898586/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Homicide,Homicide: Other,4700 Block Leiper St,10:37 a.m.,"September 9, 2010",19124,1
@@ -112,49 +110,44 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/9/9/897892/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,5000 Block Miriam Rd,12:44 a.m.,"September 9, 2010",19124,0
 2010/9/8/897999/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Vehicle tags,900 Block Sanger St,7:28 p.m.,"September 8, 2010",19124,0
 2010/9/8/898114/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,700 Block Adams Av,4:47 p.m.,"September 8, 2010",19124,0
-2010/8/18/897085/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: All others,Frankford Av  &amp;  Pratt St,9:42 a.m.,"August 18, 2010",19124,0
-2010/9/7/896874/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Apartment house,800 Block E Godfrey Av,10:28 p.m.,"September 7, 2010",19124,0
-2010/9/7/896839/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,Margaret St  &amp;  Ditman St,3:09 p.m.,"September 7, 2010",19124,0
-2010/9/7/896934/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Retail theft,4600 Block E Roosevelt Blvd,7:34 p.m.,"September 7, 2010",19124,0
-2010/9/7/897060/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,4400 Block I St,7:29 p.m.,"September 7, 2010",19124,0
+2010/9/10/899252/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,1800 Block E Letterly St,3:09 p.m.,"September 10, 2010",19125,0
+2010/9/10/899386/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: Bicycle,2600 Block B St,3:16 p.m.,"September 10, 2010",19125,0
 2010/9/9/898649/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,2600 Block Martha St,4:40 p.m.,"September 9, 2010",19125,0
 2010/9/9/898746/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",1800 Block Tulip St,11:30 a.m.,"September 9, 2010",19125,0
 2010/9/8/897994/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",100 Block Richmond St,8:32 p.m.,"September 8, 2010",19125,0
 2010/9/8/898106/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - other vehicle,2200 Block E Susquehanna Av,9:16 p.m.,"September 8, 2010",19125,0
-2010/9/7/896889/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,1 Block W Girard Av,3:50 p.m.,"September 7, 2010",19125,0
-2010/9/7/897044/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: All others,2500 Block Frankford Av,1:36 a.m.,"September 7, 2010",19125,0
-2010/9/7/897074/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,1100 Block Marlborough St,11:09 a.m.,"September 7, 2010",19125,0
+2010/9/9/899244/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Rape,Rape: Known acquaintance,7000 Block N Broad St,8:41 a.m.,"September 9, 2010",19126,1
+2010/9/10/899447/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",6700 Block N Lawrence St,6:46 a.m.,"September 10, 2010",19126,0
 2010/9/9/898663/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Attempts,7000 Block N 15th St,1:31 p.m.,"September 9, 2010",19126,0
 2010/9/8/897952/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,200 Block W Cheltenham Av,9:30 p.m.,"September 8, 2010",19126,0
 2010/9/8/898121/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1700 Block 67th Av,1:43 p.m.,"September 8, 2010",19126,0
 2010/9/9/898761/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",100 Block Grape St,9:48 a.m.,"September 9, 2010",19127,0
 2010/9/8/897945/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: No weapon,Leverington Av  &amp;  Wilde St,1:39 a.m.,"September 8, 2010",19127,1
+2010/9/10/899322/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Other,4900 Block Umbria St,10 a.m.,"September 10, 2010",19128,0
+2010/9/10/899362/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",5200 Block Umbria St,6:08 p.m.,"September 10, 2010",19128,0
 2010/9/9/898661/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Private residence,8100 Block Ridge Av,2:27 p.m.,"September 9, 2010",19128,0
 2010/9/9/898739/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,6100 Block Ridge Sve,12:29 p.m.,"September 9, 2010",19128,0
-2010/9/9/898794/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,600 Block Jamestown Av,10:50 p.m.,"September 9, 2010",19128,0
+2010/9/9/898794/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,600 Block Jamestown St,10:50 p.m.,"September 9, 2010",19128,0
 2010/9/8/898024/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,500 Block Acorn St,5:01 p.m.,"September 8, 2010",19128,0
-2010/9/7/896866/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,"Aggravated Assault: Domestic: By hands, etc.",4500 Block Fleming St,3:29 p.m.,"September 7, 2010",19128,1
-2010/9/7/896941/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,200 Block Osborn St,6:56 p.m.,"September 7, 2010",19128,0
-2010/9/9/898745/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Accessories, under $50",2900 Block W School House La,11:48 a.m.,"September 9, 2010",19129,0
+2010/9/10/899498/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,3600 Block Midvale Ave,7:39 a.m.,"September 10, 2010",19129,0
+2010/9/9/898745/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Accessories, over $200",2900 Block W School House La,11:48 a.m.,"September 9, 2010",19129,0
 2010/9/8/898129/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,3200 Block N 33rd St,10:50 a.m.,"September 8, 2010",19129,0
-2010/9/7/896937/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",5400 Block Wissahickon Av,7:18 p.m.,"September 7, 2010",19129,0
+2010/9/10/899345/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",2100 Block Brandywine St,8:47 p.m.,"September 10, 2010",19130,0
 2010/9/9/898660/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,1600 Block Green St,2:30 p.m.,"September 9, 2010",19130,0
-2010/9/9/898698/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,2200 Block Benjamin Franklin Pkwy,6:17 p.m.,"September 9, 2010",19130,0
+2010/9/9/898698/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: From building,2200 Block Benjamin Franklin Pkwy,6:17 p.m.,"September 9, 2010",19130,0
 2010/9/5/897978/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Apartment house,700 Block N 17th St,4:32 p.m.,"September 5, 2010",19130,0
 2010/9/8/897895/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,N 16th St  &amp;  Ridge Av,11:27 p.m.,"September 8, 2010",19130,0
 2010/9/8/897989/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",1400 Block Green St,9 p.m.,"September 8, 2010",19130,0
-2010/9/7/896896/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Other,1500 Block Cambridge St,1:06 p.m.,"September 7, 2010",19130,0
-2010/9/7/896845/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by knife,N 20th St  &amp;  Hamilton St,9:19 a.m.,"September 7, 2010",19130,0
-2010/9/7/896947/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Vehicle tags,2400 Block Parrish St,6:27 p.m.,"September 7, 2010",19130,0
+2010/9/9/899458/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: All others,5200 Block W Montgomery Av,8:58 p.m.,"September 9, 2010",19131,0
 2010/9/9/898651/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,5400 Block Master St,4:33 p.m.,"September 9, 2010",19131,0
 2010/9/10/898596/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Residential: By knife,4000 Block Conshohocken Av,12:18 a.m.,"September 10, 2010",19131,0
 2010/9/9/898735/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,1400 Block N 58th St,1:06 p.m.,"September 9, 2010",19131,0
 2010/9/9/897917/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,2200 Block Graham St,2 a.m.,"September 9, 2010",19131,1
 2010/9/8/898023/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: Retail theft,1500 Block N 52nd St,5:11 p.m.,"September 8, 2010",19131,0
-2010/9/7/896861/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,N 52nd St  &amp;  Lancaster Av,6:28 p.m.,"September 7, 2010",19131,1
-2010/9/7/896908/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Other,4500 Block W Girard Av,9:12 a.m.,"September 7, 2010",19131,0
-2010/9/7/896850/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,5200 Block Harlan St,2:32 a.m.,"September 7, 2010",19131,0
-2010/9/7/896976/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Retail theft,5400 Block Lansdowne Av,1:38 p.m.,"September 7, 2010",19131,0
+2010/9/10/899280/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by knife,3100 Block N Marston St,7:24 p.m.,"September 10, 2010",19132,1
+2010/9/10/899305/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,2700 Block N Garnet St,5:07 p.m.,"September 10, 2010",19132,0
+2010/9/10/899451/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: All others,2700 Block N 22nd St,6:11 a.m.,"September 10, 2010",19132,0
+2010/9/10/899487/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,3000 Block N 16th St,1:20 p.m.,"September 10, 2010",19132,0
 2010/9/9/898630/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: Other weapon,2500 Block N Garnet St,5:27 p.m.,"September 9, 2010",19132,1
 2010/9/9/898646/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,1500 Block W York St,5:55 p.m.,"September 9, 2010",19132,0
 2010/9/9/898613/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,2800 Block N 27th St,2:19 a.m.,"September 9, 2010",19132,0
@@ -166,9 +159,11 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/9/8/897900/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Miscellaneous: Other weapon,3000 Block N Broad St,7:07 p.m.,"September 8, 2010",19132,0
 2010/9/9/897949/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,2700 Block Judson St,12:29 a.m.,"September 9, 2010",19132,0
 2010/9/8/898110/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,3100 Block N 17th St,7:52 p.m.,"September 8, 2010",19132,0
-2010/9/7/896879/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Private residence,2900 Block N 26th St,6:45 p.m.,"September 7, 2010",19132,0
-2010/9/7/896962/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",2600 Block N 30th St,4:44 p.m.,"September 7, 2010",19132,0
-2010/9/8/897053/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,2500 Block W Cambria St,12:49 a.m.,"September 8, 2010",19132,0
+2010/9/10/899289/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: Other weapon,2500 Block N Howard St,9:24 a.m.,"September 10, 2010",19133,1
+2010/9/10/899317/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Apartment house,2500 Block N 2nd St,12:44 p.m.,"September 10, 2010",19133,0
+2010/9/10/899254/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,100 Block W Susquehanna Av,2:23 p.m.,"September 10, 2010",19133,0
+2010/9/10/899404/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: All others,2700 Block N 8th St,12:57 p.m.,"September 10, 2010",19133,0
+2010/9/10/899468/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,3100 Block N Darien St,10:14 p.m.,"September 10, 2010",19133,0
 2010/9/9/898635/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: By knife,2900 Block N 7th St,4:07 a.m.,"September 9, 2010",19133,1
 2010/9/9/898598/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Bar: By handgun,3000 Block Germantown Av,11:07 p.m.,"September 9, 2010",19133,0
 2010/9/9/898690/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,100 Block W Tusculum St,7:36 p.m.,"September 9, 2010",19133,0
@@ -177,9 +172,11 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/9/8/897924/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Homicide,Homicide: Handgun,2900 Block Mascher St,10:09 p.m.,"September 8, 2010",19133,1
 2010/9/8/897901/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Bar: No weapon,2700 Block N American St,6:56 p.m.,"September 8, 2010",19133,0
 2010/9/8/898015/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",300 Block W Allegheny Av,5:44 p.m.,"September 8, 2010",19133,0
-2010/9/7/896862/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,2800 Block N 9th St,5:49 p.m.,"September 7, 2010",19133,1
-2010/9/7/897022/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: Purse snatch,2700 Block N American St,9:23 a.m.,"September 7, 2010",19133,0
-2010/9/7/897080/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen/ recovered: Prior to report,200 Block W Lehigh Av,2:12 a.m.,"September 7, 2010",19133,0
+2010/9/10/899275/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,3300 Block F St,8:26 p.m.,"September 10, 2010",19134,1
+2010/9/10/899308/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Private residence,3300 Block Argyle St,4:31 p.m.,"September 10, 2010",19134,0
+2010/9/10/899258/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,3300 Block Braddock St,9:36 a.m.,"September 10, 2010",19134,0
+2010/9/10/899332/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Accessories, over $200",1800 Block E Venango St,10:48 p.m.,"September 10, 2010",19134,0
+2010/9/10/899475/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,3500 Block N Front St,6:36 p.m.,"September 10, 2010",19134,0
 2010/9/10/898617/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,700 Block E Clearfield St,1:03 a.m.,"September 10, 2010",19134,1
 2010/9/9/898643/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Apartment house,400 Block E Allegheny Av,6:43 p.m.,"September 9, 2010",19134,0
 2010/9/9/898601/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Miscellaneous: By handgun,3300 Block Kensington Av,9:33 p.m.,"September 9, 2010",19134,0
@@ -188,41 +185,43 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/9/9/897890/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,500 Block E Indiana,1:18 a.m.,"September 9, 2010",19134,0
 2010/9/8/897990/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: All others,3300 Block Aramingo Av,8:59 p.m.,"September 8, 2010",19134,0
 2010/9/8/898119/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,3000 Block Emerald St,2:20 p.m.,"September 8, 2010",19134,0
-2010/9/7/896865/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by knife,600 Block E Wensley St,3:52 p.m.,"September 7, 2010",19134,1
-2010/9/7/896888/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,700 Block E Tioga St,4:52 p.m.,"September 7, 2010",19134,0
-2010/9/7/896828/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Vehicle: No weapon,700 Block E Tioga St,10:48 p.m.,"September 7, 2010",19134,0
-2010/9/7/896932/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Bicycle,3600 Block Belgrade St,7:40 p.m.,"September 7, 2010",19134,0
-2010/9/8/897052/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - for other jurisdiction,2700 Block Kensington Av,1:05 a.m.,"September 8, 2010",19134,0
+2010/9/10/899285/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: By knife,6100 Block Hawthorne St,3:43 p.m.,"September 10, 2010",19135,1
+2010/9/10/899320/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Private residence,7200 Block Jackson St,10:43 a.m.,"September 10, 2010",19135,0
+2010/9/10/899247/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,7100 Block Charles St,8:17 p.m.,"September 10, 2010",19135,0
+2010/9/10/899392/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Vehicle tags,6100 Block Keystone St,2:43 p.m.,"September 10, 2010",19135,0
 2010/9/9/898599/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,6000 Block Frankford Av,10:42 p.m.,"September 9, 2010",19135,0
 2010/9/9/898738/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: All others,7200 Block Vandike St,12:39 p.m.,"September 9, 2010",19135,0
 2010/9/8/897925/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Child Abuse: By other weapon,6600 Block Glenloch St,9:59 p.m.,"September 8, 2010",19135,1
 2010/9/8/897970/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Apartment house,5700 Block Cottage St,8:55 a.m.,"September 8, 2010",19135,0
 2010/9/8/897893/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,4800 Block Rawle St,11:38 p.m.,"September 8, 2010",19135,0
-2010/9/7/896920/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",4000 Block Barnett St,10:35 p.m.,"September 7, 2010",19135,0
-2010/9/7/897075/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,6100 Block Harbison Av,11:01 a.m.,"September 7, 2010",19135,0
+2010/9/10/899290/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: By knife,8200 Block Frankford Av,5:09 a.m.,"September 10, 2010",19136,1
+2010/9/11/899327/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",7700 Block Edmund St,12:27 a.m.,"September 11, 2010",19136,0
+2010/9/10/899478/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,7300 Block Melrose St,4:58 p.m.,"September 10, 2010",19136,0
 2010/9/9/898640/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Apartment house,8000 Block Walker St,8:29 p.m.,"September 9, 2010",19136,0
-2010/9/10/898590/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by knife,4600 Block Vista St,1:57 a.m.,"September 10, 2010",19136,0
+2010/9/10/898590/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by knife,4300 Block Loring St,1:57 a.m.,"September 10, 2010",19136,0
 2010/9/9/898683/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Vehicle tags,3200 Block Guilford St,8:38 p.m.,"September 9, 2010",19136,0
 2010/9/9/898806/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,3500 Block Decatur St,3:40 p.m.,"September 9, 2010",19136,0
 2010/9/8/897940/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: No weapon,3200 Block Ryan Av,2:36 p.m.,"September 8, 2010",19136,1
 2010/9/8/897957/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; No Force: Private residence,3400 Block Vista St,4:41 p.m.,"September 8, 2010",19136,0
 2010/9/8/897886/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Rape,Rape: Attempt stranger,8000 Block Torresdale Av,4:34 p.m.,"September 8, 2010",19136,1
 2010/9/8/897982/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Retail theft,7700 Block Frankford Av,11:19 p.m.,"September 8, 2010",19136,0
-2010/9/8/896852/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by knife,3500 Block Decatur St,1:14 a.m.,"September 8, 2010",19136,1
-2010/9/7/896891/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,4300 Block Loring St,2:53 p.m.,"September 7, 2010",19136,0
-2010/9/7/896954/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,8000 Block Craig St,5:30 p.m.,"September 7, 2010",19136,0
+2010/9/10/899340/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,4700 Block Melrose St,9:04 p.m.,"September 10, 2010",19137,0
+2010/9/10/899479/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,2500 Block Castor Av,4:42 p.m.,"September 10, 2010",19137,0
 2010/9/9/898685/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Retail theft,3700 Block E Thompson St,8:26 p.m.,"September 9, 2010",19137,0
 2010/9/8/898008/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",4500 Block Aramingo Av,6:20 p.m.,"September 8, 2010",19137,0
-2010/9/7/896825/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Rape,Rape: Attempt stranger,5000 Block James St,11:37 p.m.,"September 7, 2010",19137,1
-2010/9/7/896940/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: Retail theft,2500 Block Castor Av,7:01 p.m.,"September 7, 2010",19137,0
+2010/9/11/899267/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: No weapon,5700 Block N 20th St,1:21 a.m.,"September 11, 2010",19138,1
+2010/9/10/899243/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Rape,Rape: Known acquaintance,6600 Block N Uber St,2:33 p.m.,"September 10, 2010",19138,1
+2010/9/10/899492/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1600 Block Andrews Av,11:30 a.m.,"September 10, 2010",19138,0
 2010/9/8/898589/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Rape,Rape: Stranger,7400 Block Ogontz Ave,2:56 p.m.,"September 8, 2010",19138,1
 2010/9/10/898594/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,2100 Block W Nedro Av,12:53 a.m.,"September 10, 2010",19138,0
 2010/9/9/898729/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,1200 Block E Chelten Av,2:10 p.m.,"September 9, 2010",19138,0
 2010/9/9/898808/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,2100 Block Stenton Ave,1:45 p.m.,"September 9, 2010",19138,0
 2010/9/8/898104/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,6500 Block N Lambert St,10:40 p.m.,"September 8, 2010",19138,0
-2010/9/7/896907/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Private residence,7300 Block Woolston Av,9:34 a.m.,"September 7, 2010",19138,0
-2010/9/7/896841/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,5900 Block N 20th St,12:16 p.m.,"September 7, 2010",19138,0
-2010/9/7/896951/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Retail theft,5300 Block Chew Av,5:54 p.m.,"September 7, 2010",19138,0
+2010/9/11/899268/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: Other weapon,5700 Block Vine St,1:06 a.m.,"September 11, 2010",19139,1
+2010/9/10/899299/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Private residence,100 Block N Salford St,9:20 p.m.,"September 10, 2010",19139,0
+2010/9/10/899260/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,200 Block S 57th St,3:52 a.m.,"September 10, 2010",19139,0
+2010/9/10/899390/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: All others,200 Block S Frazier St,3:05 p.m.,"September 10, 2010",19139,0
+2010/9/10/899466/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,100 Block N 51st St,11:58 p.m.,"September 10, 2010",19139,0
 2010/9/9/898627/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,4800 Block Parrish St,8:27 p.m.,"September 9, 2010",19139,1
 2010/9/9/898653/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,100 Block N Dewey St,4:28 p.m.,"September 9, 2010",19139,0
 2010/9/10/898591/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,S 51st St  &amp;  Chestnut St,1:29 a.m.,"September 10, 2010",19139,0
@@ -230,35 +229,39 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/9/9/897916/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Other weapon,300 Block N 52nd St ,2:23 a.m.,"September 9, 2010",19139,1
 2010/9/8/897961/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Private residence,5300 Block Haverford Ave Rd Av,1:55 p.m.,"September 8, 2010",19139,0
 2010/9/8/897898/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,200 Block N Gross St,8:55 p.m.,"September 8, 2010",19139,0
-2010/9/7/896878/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; No Force: Private residence,5900 Block Chestnut St,6:57 p.m.,"September 7, 2010",19139,0
-2010/9/7/896834/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,N 63rd St  &amp;  Race St,9:24 p.m.,"September 7, 2010",19139,0
-2010/9/7/896939/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",4600 Block Spruce St,7:04 p.m.,"September 7, 2010",19139,0
-2010/9/7/897071/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen/ recovered: Prior to report,N 53rd St &amp;  Haverford Av,1:26 p.m.,"September 7, 2010",19139,0
+2010/9/10/899273/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: By knife,3300 Block N 11th St,8:41 p.m.,"September 10, 2010",19140,1
+2010/9/10/899301/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,1100 Block W Venango St,8:01 p.m.,"September 10, 2010",19140,0
+2010/9/10/899259/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,N 22nd St  &amp;  W Venango St,8:41 a.m.,"September 10, 2010",19140,0
+2010/9/10/899368/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Accessories, over $200",Germantown Av  &amp;  W Venango St,5:27 p.m.,"September 10, 2010",19140,0
+2010/9/10/899480/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,4300 Block Clarissa St,4:04 p.m.,"September 10, 2010",19140,0
 2010/9/9/898668/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Office building,3300 Block N Smedley St,11 a.m.,"September 9, 2010",19140,0
-2010/9/9/898687/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Accessories, over $200",N 11th St  &amp;  W Ontario St,8:14 p.m.,"September 9, 2010",19140,0
+2010/9/9/898687/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",1100 Block W Ontario St,8:14 p.m.,"September 9, 2010",19140,0
 2010/9/9/898803/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,3400 Block N 6th St,5:02 p.m.,"September 9, 2010",19140,0
 2010/9/8/897937/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,900 Block Hunting Park Av,4:30 p.m.,"September 8, 2010",19140,1
 2010/9/8/897904/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Drug store: Other weapon,3200 Block N Broad St,5:08 p.m.,"September 8, 2010",19140,0
 2010/9/8/897984/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: From building,1900 Block Hunting Park Ave,9:56 p.m.,"September 8, 2010",19140,0
-2010/9/7/896887/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,2100 Block W Estaugh St,5:01 p.m.,"September 7, 2010",19140,0
-2010/9/7/896948/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: All others,3900 Block N Franklin St,6:22 p.m.,"September 7, 2010",19140,0
-2010/9/7/897073/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,3600 Block Elder St,11:22 a.m.,"September 7, 2010",19140,0
+2010/9/11/899269/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: No weapon,5900 Block N Opal St,12:14 a.m.,"September 11, 2010",19141,1
+2010/9/10/899471/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,N 13th St  &amp;  W Ruscomb St,9:01 p.m.,"September 10, 2010",19141,0
 2010/9/9/898657/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Private residence,1200 Block Wagner Av,2:58 p.m.,"September 9, 2010",19141,0
-2010/9/9/898796/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,N 11th St  &amp;  N Marvine St,9:36 p.m.,"September 9, 2010",19141,0
+2010/9/9/898796/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,5800 Block N Marvine St,9:36 p.m.,"September 9, 2010",19141,0
 2010/9/8/897920/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Other weapon,1200 Block Lindley Av,11:50 p.m.,"September 8, 2010",19141,1
-2010/9/9/897950/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Apartment house,1700 Block Belfield Av,12:25 a.m.,"September 9, 2010",19141,0
+2010/9/9/897950/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Rooming house,1700 Block Belfield Av,12:25 a.m.,"September 9, 2010",19141,0
 2010/9/8/897911/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Force: $50 or more,5900 Block N Broad St,8:47 a.m.,"September 8, 2010",19141,0
 2010/9/8/898055/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",1800 Block Conlyn St,12:29 p.m.,"September 8, 2010",19141,0
 2010/9/8/898105/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,1700 Block Medary Ave,10:07 p.m.,"September 8, 2010",19141,0
-2010/9/7/896894/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Private residence,1800 Block W Ruscomb St,1:24 p.m.,"September 7, 2010",19141,0
-2010/9/7/896842/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway other weapon,1800 Block W Rockland St,11:38 a.m.,"September 7, 2010",19141,0
-2010/9/7/896983/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,5500 Block Ogontz Av,12:42 p.m.,"September 7, 2010",19141,0
-2010/9/9/898639/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; No Force: Private residence,6800 Block Finch Pl,8:46 p.m.,"September 9, 2010",19142,0
+2010/9/10/899315/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,2000 Block Cobbs Creek Pkwy,12:59 p.m.,"September 10, 2010",19142,0
+2010/9/10/899248/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Grocery: By handgun,2000 Block S 68th St,8:15 p.m.,"September 10, 2010",19142,0
+2010/9/11/899325/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Accessories, $50 to 200",S 60th St  &amp;  Woodland Av,1:11 a.m.,"September 11, 2010",19142,0
+2010/9/10/899476/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,2200 Block S 66th St,6:03 p.m.,"September 10, 2010",19142,0
+2010/9/9/898639/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,6800 Block Finch Pl,8:46 p.m.,"September 9, 2010",19142,0
 2010/9/9/898678/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,2000 Block S 65th St,11:12 p.m.,"September 9, 2010",19142,0
 2010/9/8/897944/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: By knife,2600 Block Muhfeld St,8:50 a.m.,"September 8, 2010",19142,1
 2010/9/8/897966/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Bar/ distributor,6200 Block Woodland Av,10:53 a.m.,"September 8, 2010",19142,0
-2010/9/7/896875/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,6400 Block Grays Av,9:42 p.m.,"September 7, 2010",19142,0
-2010/9/7/896836/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,6300 Block Grays Av,4:20 p.m.,"September 7, 2010",19142,0
+2010/9/10/899271/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Other weapon,S 59th St &amp;  Pine St,9:50 p.m.,"September 10, 2010",19143,1
+2010/9/11/899296/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Other,4900 Block Woodland Av,2:18 a.m.,"September 11, 2010",19143,0
+2010/9/11/899245/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,5500 Block Angora Ter,1:26 a.m.,"September 11, 2010",19143,0
+2010/9/10/899373/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: All others,1800 Block S 58th St,4:47 p.m.,"September 10, 2010",19143,0
+2010/9/10/899472/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,5000 Block Larchwood Av,8:07 p.m.,"September 10, 2010",19143,0
 2010/9/9/898618/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,800 Block S 55th St,11:30 p.m.,"September 9, 2010",19143,1
 2010/9/9/898671/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,5000 Block Cedar Av,8:20 a.m.,"September 9, 2010",19143,0
 2010/9/10/898593/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,S 54th St  &amp;  Baltimore Av,1:01 a.m.,"September 10, 2010",19143,0
@@ -270,10 +273,7 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/9/9/897891/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway other weapon,S 55th St  &amp;  Whitby Av,12:54 a.m.,"September 9, 2010",19143,0
 2010/9/8/898002/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Bicycle,4600 Block Chester Av,6:58 p.m.,"September 8, 2010",19143,0
 2010/9/8/898131/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,4700 Block Kingsessing Av,9:31 a.m.,"September 8, 2010",19143,0
-2010/9/7/896856/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: No weapon,1600 Block S 52nd St,11:01 p.m.,"September 7, 2010",19143,1
-2010/9/7/896876/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Rooming house,1500 Block S 49th St,9:20 p.m.,"September 7, 2010",19143,0
-2010/9/7/896961/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: All others,S 54th St  &amp;  Chester Av,4:48 p.m.,"September 7, 2010",19143,0
-2010/9/7/897062/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,700 Block S 59th St,7:05 p.m.,"September 7, 2010",19143,0
+2010/9/10/899430/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",100 Block E Price St,9:28 a.m.,"September 10, 2010",19144,0
 2010/9/10/898638/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Store other,300 Block W Chelten Av,12:03 a.m.,"September 10, 2010",19144,0
 2010/9/9/898723/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,Germantown Av  &amp;  E Price St,3:24 p.m.,"September 9, 2010",19144,0
 2010/9/9/898807/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,5400 Block Germantown Av,2:23 p.m.,"September 9, 2010",19144,0
@@ -281,21 +281,17 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/9/8/897903/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,Germantown Av  &amp;  W School House La,6:03 p.m.,"September 8, 2010",19144,0
 2010/9/8/897996/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Accessories, over $200",400 Block Church La,7:58 p.m.,"September 8, 2010",19144,0
 2010/9/8/898120/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,200 Block W Tulpehocken St,2:15 p.m.,"September 8, 2010",19144,0
-2010/9/7/896867/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Other weapon,400 Block E Washington La,12:46 p.m.,"September 7, 2010",19144,1
-2010/9/7/896892/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Apartment house,300 Block E Wister St,1:53 p.m.,"September 7, 2010",19144,0
-2010/9/7/896931/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",500 Block Church La,8:12 p.m.,"September 7, 2010",19144,0
-2010/9/7/897059/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - for other jurisdiction,Baynton St  &amp;  E Haines St,9 p.m.,"September 7, 2010",19144,0
+2010/9/10/899316/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Apartment house,1400 Block Snyder Av,12:50 p.m.,"September 10, 2010",19145,0
+2010/9/10/899384/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: All others,2200 Block S Bouvier St,3:24 p.m.,"September 10, 2010",19145,0
 2010/9/9/898658/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Apartment house,2400 Block S 21st St,2:51 p.m.,"September 9, 2010",19145,0
 2010/9/9/898703/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: From building,1600 Block W Moyamensing Av,5:49 p.m.,"September 9, 2010",19145,0
 2010/9/9/898814/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,2200 Block S Woodstock St,10:20 a.m.,"September 9, 2010",19145,0
 2010/9/8/897955/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,2000 Block Mc Kean St,6:13 p.m.,"September 8, 2010",19145,0
 2010/9/8/897896/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,1700 Block S 29th St,11:04 p.m.,"September 8, 2010",19145,0
 2010/9/8/897998/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, $50 to $200",1700 Block Oregon Av,7:37 p.m.,"September 8, 2010",19145,0
-2010/9/8/896851/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,2100 Block S 28th St,1:20 a.m.,"September 8, 2010",19145,1
-2010/9/7/896890/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Private residence,1800 Block Point Breeze Av,3:25 p.m.,"September 7, 2010",19145,0
-2010/9/7/896827/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Rape,Rape: Known acquaintance,1600 Block Porter St,4:55 a.m.,"September 7, 2010",19145,1
-2010/9/8/896916/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",2700 Block S 16th St,12:42 a.m.,"September 8, 2010",19145,0
-2010/9/7/897081/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,1900 Block S 18th St,12:31 a.m.,"September 7, 2010",19145,0
+2010/9/10/899313/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,1500 Block S 17th St,1:47 p.m.,"September 10, 2010",19146,0
+2010/9/10/899342/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: All others,1900 Block Reed St,9:02 p.m.,"September 10, 2010",19146,0
+2010/9/10/899493/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1300 Block S Hicks St,10:15 a.m.,"September 10, 2010",19146,0
 2010/9/9/898633/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Domestic: Other weapon,2200 Block Sears St,8:28 a.m.,"September 9, 2010",19146,1
 2010/9/9/898641/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,2200 Block Earp St,8:25 p.m.,"September 9, 2010",19146,0
 2010/9/9/898588/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Rape,Rape: Domestic,900 Block S 23rd St,5:59 p.m.,"September 9, 2010",19146,1
@@ -304,18 +300,17 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/9/8/897959/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,1300 Block S Stanley St,4:15 p.m.,"September 8, 2010",19146,0
 2010/9/8/897897/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,2300 Block Grays Ferry Av,9:30 p.m.,"September 8, 2010",19146,0
 2010/9/8/897992/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,1900 Block Catharine St,8:43 p.m.,"September 8, 2010",19146,0
-2010/9/7/896859/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: Other weapon,2100 Block Dickinson St,9:18 p.m.,"September 7, 2010",19146,1
-2010/9/7/896884/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,1500 Block S 26th St,6:04 p.m.,"September 7, 2010",19146,0
-2010/9/7/896963/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,2200 Block Sears St,4:37 p.m.,"September 7, 2010",19146,0
-2010/9/7/897061/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,400 Block S 20th St,7:16 p.m.,"September 7, 2010",19146,0
+2010/9/10/899298/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Private residence,1100 Block E Moyamensing Av,9:58 p.m.,"September 10, 2010",19147,0
+2010/9/10/899347/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: From building,1500 Block S Franklin St,8:25 p.m.,"September 10, 2010",19147,0
 2010/9/9/898644/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; NoForce: Apartment house,1300 Block Lombard St,6:26 p.m.,"September 9, 2010",19147,0
 2010/9/9/898603/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by handgun,700 Block S 4th St,9:22 p.m.,"September 9, 2010",19147,0
 2010/9/9/898689/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Bicycle,1500 Block S 13th St,7:59 p.m.,"September 9, 2010",19147,0
 2010/9/8/897953/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Private residence,600 Block Pemberton St,6:57 p.m.,"September 8, 2010",19147,0
 2010/9/8/898059/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",600 Block Federal St,11:52 a.m.,"September 8, 2010",19147,0
 2010/9/8/898130/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1400 Block E Moyamensing Av,10:07 a.m.,"September 8, 2010",19147,0
-2010/9/7/896829/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,900 Block S 8th St,10:43 p.m.,"September 7, 2010",19147,0
-2010/9/7/896982/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Retail theft,1000 Block Washington Av,12:52 p.m.,"September 7, 2010",19147,0
+2010/9/11/899246/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway other weapon,1600 Block S 5th St,12:12 a.m.,"September 11, 2010",19148,0
+2010/9/10/899330/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,S Juniper St  &amp;  Morris St,11:33 p.m.,"September 10, 2010",19148,0
+2010/9/10/899474/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1600 Block S 12th St,6:52 p.m.,"September 10, 2010",19148,0
 2010/9/9/898645/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Other,2800 Block S Front St,6:07 p.m.,"September 9, 2010",19148,0
 2010/9/9/898611/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,600 Block Wolf Street,9:29 a.m.,"September 9, 2010",19148,0
 2010/9/9/898682/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Vehicle tags,300 Block Snyder Av,9:06 p.m.,"September 9, 2010",19148,0
@@ -324,41 +319,36 @@ id,crime_type,crime_desc,location,disp_time,date,zip,violent
 2010/9/8/897965/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; No Force: Other,2200 Block S Broad St,10:59 a.m.,"September 8, 2010",19148,0
 2010/9/8/897899/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,400 Block Vollmer St,7:09 p.m.,"September 8, 2010",19148,0
 2010/9/8/898006/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: Bicycle,2700 Block S Alder St,6:35 p.m.,"September 8, 2010",19148,0
-2010/9/7/896870/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,1600 Block S 5th St,2:05 a.m.,"September 7, 2010",19148,1
-2010/9/7/896880/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; No Force: Private residence,2500 Block S Fairhill St,6:42 p.m.,"September 7, 2010",19148,0
-2010/9/7/896844/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway by knife,1600 Block S 11th St,9:50 a.m.,"September 7, 2010",19148,0
-2010/9/7/896949/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,2700 Block S Randolph St,6:09 p.m.,"September 7, 2010",19148,0
-2010/9/7/897057/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,100 Block Shunk St,11:20 p.m.,"September 7, 2010",19148,0
+2010/9/10/899346/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,1600 Block Hellerman St,8:39 p.m.,"September 10, 2010",19149,0
+2010/9/10/899467/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,1000 Block E Cheltenham Av,11:49 p.m.,"September 10, 2010",19149,0
 2010/9/10/898615/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated Assault: No weapon,7200 Block Leon St,1:17 a.m.,"September 10, 2010",19149,1
 2010/9/9/898706/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: From building,1500 Block Robbins St,5:28 p.m.,"September 9, 2010",19149,0
 2010/9/9/898795/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,3100 Block Stirling St,10:48 p.m.,"September 9, 2010",19149,0
 2010/9/8/898022/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Vehicle tags,6000 Block E Roosevelt Blvd,5:15 p.m.,"September 8, 2010",19149,0
-2010/9/7/896830/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Vehicle: No weapon,2900 Block Cottman Av,10 p.m.,"September 7, 2010",19149,0
-2010/9/7/897010/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: All others,6300 Block Bustleton Av,10:26 a.m.,"September 7, 2010",19149,0
-2010/9/7/897055/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,6300 Block Everett Av,11:46 p.m.,"September 7, 2010",19149,0
+2010/9/10/899283/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,8100 Block Thouron Av,5:18 p.m.,"September 10, 2010",19150,1
+2010/9/10/899257/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Force: $50 or more,W Cheltenham Av  &amp;  Limekiln Pike,10:30 a.m.,"September 10, 2010",19150,0
 2010/9/9/898753/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",8600 Block Michener Av,10:54 a.m.,"September 9, 2010",19150,0
 2010/9/7/898136/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,8400 Block Fayette St,3:31 p.m.,"September 7, 2010",19150,0
-2010/9/7/897028/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Vehicle tags,7900 Block Thouron Av,8:20 a.m.,"September 7, 2010",19150,0
-2010/9/7/897063/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,900 Block Woodbrook La,6:11 p.m.,"September 7, 2010",19150,0
+2010/9/10/899262/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Robbery,Robbery: Highway no weapon,N 63rd St  &amp;  Callowhill St,1:24 a.m.,"September 10, 2010",19151,0
+2010/9/10/899353/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: Bicycle,6400 Block Drexel Rd,7:14 p.m.,"September 10, 2010",19151,0
 2010/9/9/898654/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Other,6900 Block Greenhill Rd,4:12 p.m.,"September 9, 2010",19151,0
 2010/9/9/898719/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,63rd &amp; Lansdowne Ave,3:54 p.m.,"September 9, 2010",19151,0
 2010/9/9/898800/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Recovered - passenger vehicle,2100 Block N 63rd St,7:41 p.m.,"September 9, 2010",19151,0
 2010/9/8/897928/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,6000 Block Callowhill St,9:26 p.m.,"September 8, 2010",19151,1
 2010/9/8/897991/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Over $200: All others,1400 Block N 62nd St,8:58 p.m.,"September 8, 2010",19151,0
 2010/9/8/898113/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,6300 Block City Ave,5:54 p.m.,"September 8, 2010",19151,0
-2010/9/8/896872/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; No Force: Private residence,6300 Block Sherwood Rd,12:39 a.m.,"September 8, 2010",19151,0
+2010/9/10/899311/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,7600 Block Leonard St,3:22 p.m.,"September 10, 2010",19152,0
+2010/9/10/899336/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Retail theft,8000 Block E Roosevelt Blvd,9:36 p.m.,"September 10, 2010",19152,0
+2010/9/10/899481/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - other vehicle,2800 Block Holme Av,3:17 p.m.,"September 10, 2010",19152,0
 2010/9/9/898650/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,8100 Block Lexington Av,4:39 p.m.,"September 9, 2010",19152,0
 2010/9/8/898021/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: Under $50: Retail theft,2300 Block Cottman Av,5:15 p.m.,"September 8, 2010",19152,0
-2010/9/7/896863/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,1600 Block Strahle St,4:58 p.m.,"September 7, 2010",19152,1
-2010/9/7/897025/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",2300 Block Strahle St,8:46 a.m.,"September 7, 2010",19152,0
+2010/9/10/899300/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,2700 Block Muhfeld St,8:32 p.m.,"September 10, 2010",19153,0
+2010/9/11/899328/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",Industrial Hwy &amp; Delaware Exp,12:12 a.m.,"September 11, 2010",19153,0
 2010/9/9/898664/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Private residence,2600 Block S 77th St,12:33 p.m.,"September 9, 2010",19153,0
 2010/9/9/898708/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, over $200",8900 Block Bartram Av,5:21 p.m.,"September 9, 2010",19153,0
 2010/9/9/898804/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,8900 Block Bartram Av,4:28 p.m.,"September 9, 2010",19153,0
 2010/9/8/897932/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by handgun,Elmwood Av &amp;  Island Av,8:41 p.m.,"September 8, 2010",19153,1
-2010/9/7/896929/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: car phone, computer, over $200",8900 Block Tinicum Blvd,8:38 p.m.,"September 7, 2010",19153,0
-2010/9/7/897058/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,Industrial Hwy &amp; Delaware Exp,10:57 p.m.,"September 7, 2010",19153,0
+2010/9/10/899344/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: Retail theft,1600 Block Franklin Mills Cir,8:57 p.m.,"September 10, 2010",19154,0
 2010/9/9/898636/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Aggravated assault,Aggravated assault: by knife,Chalfont Dr &amp;  Knights Rd,12:34 a.m.,"September 9, 2010",19154,1
-2010/9/9/898655/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Day; Force: Attempts,2800 Block Woodhaven Rd,3:49 p.m.,"September 9, 2010",19154,0
+2010/9/9/898655/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Burglary,Burglary: Night; Force: Attempts,2800 Block Woodhaven Rd,3:49 p.m.,"September 9, 2010",19154,0
 2010/9/8/898036/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,Theft: $50 to $200: Retail theft,1200 Block Franklin Mills Cir,3:08 p.m.,"September 8, 2010",19154,0
-2010/9/7/896922/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Theft,"Theft: From vehicle: Non-accessories, under $50",11000 Block Knights Rd,10:17 p.m.,"September 7, 2010",19154,0
-2010/9/7/897067/?utm_campaign=rss&utm_medium=rss&utm_source=rss,Vehicle theft,Vehicle theft: Stolen - passenger vehicle,1200 Block Franklin Mills Cir,4:54 p.m.,"September 7, 2010",19154,0
